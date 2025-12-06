@@ -44,13 +44,13 @@ If you want to search & filters the complete database of [Hospitality one word d
 | bedandbreakfast.tech   | premium   | 74       | 80%    | 17     |                                                                   |                  |                  |
 | bedandbreakfast.xyz    | resell    | 74       | 80%    | 17     | Go Daddy, LLC                                                     | 02/06/2014 16:49 | 02/06/2026 23:59 |
 | bedandbreakfast.zone   | available | 74       | 80%    | 17     |                                                                   |                  |                  |
-| service.shiksha        | available | 70       | 36%    | 7      |                                                                   |                  |                  |
-| service.shoes          | available | 70       | 36%    | 7      |                                                                   |                  |                  |
-| service.shopping       | expiring  | 70       | 36%    | 7      | united-domains GmbH                                               | 30/09/2016 05:57 | 30/09/2025 05:57 |
-| service.show           | resell    | 70       | 36%    | 7      | DNSPod, Inc.                                                      | 03/04/2018 05:13 | 03/04/2026 05:13 |
-| service.site           | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
-| service.skin           | available | 70       | 36%    | 7      |                                                                   |                  |                  |
-| service.soccer         | available | 70       | 36%    | 7      |                                                                   |                  |                  |
+| service.company        | resell    | 70       | 36%    | 7      | Dynadot Inc                                                       | 09/09/2017 02:31 | 09/09/2026 02:31 |
+| service.computer       | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
+| service.construction   | resell    | 70       | 36%    | 7      | Sav.com, LLC                                                      | 27/01/2025 17:08 | 27/01/2026 17:08 |
+| service.consulting     | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
+| service.cooking        | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
+| service.country        | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
+| service.courses        | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Hospitality-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
