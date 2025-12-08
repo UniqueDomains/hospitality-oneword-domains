@@ -44,13 +44,13 @@ If you want to search & filters the complete database of [Hospitality one word d
 | bedandbreakfast.tech   | premium   | 74       | 80%    | 17     |                                                                   |                  |                  |
 | bedandbreakfast.xyz    | resell    | 74       | 80%    | 17     | Go Daddy, LLC                                                     | 02/06/2014 16:49 | 02/06/2026 23:59 |
 | bedandbreakfast.zone   | available | 74       | 80%    | 17     |                                                                   |                  |                  |
-| service.academy        | resell    | 70       | 36%    | 7      | Spaceship, Inc.                                                   | 07/07/2022 13:15 | 07/07/2026 13:15 |
-| service.accountant     | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
-| service.accountants    | available | 70       | 36%    | 7      |                                                                   |                  |                  |
-| service.actor          | available | 70       | 36%    | 7      |                                                                   |                  |                  |
-| service.adult          | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
-| service.airforce       | resell    | 70       | 36%    | 7      | Cronon GmbH                                                       | 19/05/2024 23:31 | 19/05/2026 23:31 |
-| service.art            | premium   | 70       | 36%    | 7      |                                                                   |                  |                  |
+| service.academy        | resell    | 70       | 34%    | 7      | Spaceship, Inc.                                                   | 07/07/2022 13:15 | 07/07/2026 13:15 |
+| service.accountant     | premium   | 70       | 34%    | 7      |                                                                   |                  |                  |
+| service.accountants    | available | 70       | 34%    | 7      |                                                                   |                  |                  |
+| service.actor          | available | 70       | 34%    | 7      |                                                                   |                  |                  |
+| service.adult          | premium   | 70       | 34%    | 7      |                                                                   |                  |                  |
+| service.airforce       | resell    | 70       | 34%    | 7      | Cronon GmbH                                                       | 19/05/2024 23:31 | 19/05/2026 23:31 |
+| service.art            | premium   | 70       | 34%    | 7      |                                                                   |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Hospitality-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Hospitality one word d
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
