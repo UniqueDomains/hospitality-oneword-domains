@@ -21,36 +21,36 @@ If you want to search & filters the complete database of [Hospitality one word d
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar                                | Created          | Expires          |
 | ----------------- | --------- | -------- | ------ | ------ | ---------------------------------------- | ---------------- | ---------------- |
-| hotel.accountant  | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.accountants | available | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.actor       | available | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.agency      | resell    | 70       | 38%    | 5      | Spaceship, Inc.                          | 21/09/2023 15:15 | 21/09/2026 15:15 |
-| hotel.airforce    | available | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.archi       | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.army        | available | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.art         | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.asia        | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.at          | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.attorney    | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.auction     | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.audio       | available | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.auto        | available | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.autos       | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.baby        | resell    | 70       | 38%    | 5      | Dynadot LLC                              | 15/07/2025 15:17 | 15/07/2026 23:59 |
-| hotel.bar         | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.bargains    | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.bayern      | expired   | 70       | 38%    | 5      | PSI-USA, Inc. dba Domain Robot           | 15/11/2018 14:21 | 15/11/2025 14:21 |
-| hotel.beauty      | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.bet         | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.bingo       | resell    | 70       | 38%    | 5      | Sav.com, LLC                             | 26/07/2025 17:09 | 26/07/2026 17:09 |
-| hotel.blackfriday | expiring  | 70       | 38%    | 5      | Porkbun                                  | 01/01/2015 18:56 | 01/01/2026 18:56 |
-| hotel.blog        | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.blue        | resell    | 70       | 38%    | 5      | Automattic Inc.                          | 16/07/2018 10:13 | 16/07/2030 10:13 |
-| hotel.boats       | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.boo         | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.boston      | resell    | 70       | 38%    | 5      | Hosting Concepts B.V. d/b/a Registrar.eu | 10/10/2017 17:39 | 10/10/2030 17:39 |
-| hotel.build       | premium   | 70       | 38%    | 5      |                                          |                  |                  |
-| hotel.builders    | premium   | 70       | 38%    | 5      |                                          |                  |                  |
+| hotel.accountant  | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.accountants | available | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.actor       | available | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.agency      | resell    | 70       | 37%    | 5      | Spaceship, Inc.                          | 21/09/2023 15:15 | 21/09/2026 15:15 |
+| hotel.airforce    | available | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.apartments  | resell    | 70       | 37%    | 5      | Name.com, Inc.                           | 10/08/2024 08:22 | 10/08/2026 08:22 |
+| hotel.archi       | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.army        | available | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.art         | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.asia        | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.at          | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.attorney    | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.auction     | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.audio       | available | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.auto        | available | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.autos       | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.baby        | resell    | 70       | 37%    | 5      | Dynadot LLC                              | 15/07/2025 15:17 | 15/07/2026 23:59 |
+| hotel.bar         | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.bargains    | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.bayern      | expired   | 70       | 37%    | 5      | PSI-USA, Inc. dba Domain Robot           | 15/11/2018 14:21 | 15/11/2025 14:21 |
+| hotel.beauty      | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.bet         | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.bingo       | resell    | 70       | 37%    | 5      | Sav.com, LLC                             | 26/07/2025 17:09 | 26/07/2026 17:09 |
+| hotel.blackfriday | expiring  | 70       | 37%    | 5      | Porkbun                                  | 01/01/2015 18:56 | 01/01/2026 18:56 |
+| hotel.blog        | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.blue        | resell    | 70       | 37%    | 5      | Automattic Inc.                          | 16/07/2018 10:13 | 16/07/2030 10:13 |
+| hotel.boats       | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.boo         | premium   | 70       | 37%    | 5      |                                          |                  |                  |
+| hotel.boston      | resell    | 70       | 37%    | 5      | Hosting Concepts B.V. d/b/a Registrar.eu | 10/10/2017 17:39 | 10/10/2030 17:39 |
+| hotel.build       | premium   | 70       | 37%    | 5      |                                          |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Hospitality-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Hospitality one word d
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 62,232       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,157,142    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,157,759    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
