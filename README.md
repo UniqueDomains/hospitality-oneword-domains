@@ -65,7 +65,7 @@ print(df.head())
 | domain               | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                     |
 | -------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
 | accommodation.zone   | available | $14.99      | $46.99        | 62             | 84     | 13     | name.com                      |
-| hotel.tires          | resell    | $110.98     | —             | 70             | 44     | 5      | Sav.com, LLC                  |
+| hotel.tires          | resell    | $110.98     | —             | 70             | 43     | 5      | Sav.com, LLC                  |
 | accommodation.tech   | premium   | $325        | $650          | 62             | 84     | 13     | namecheap                     |
 | accommodation.so     | available | $64.98      | —             | 62             | 84     | 13     | namecheap                     |
 | service.pics         | resell    | $40.98      | —             | 70             | 41     | 7      | Porkbun, LLC                  |
@@ -82,7 +82,7 @@ print(df.head())
 | hotel.law            | available | $130.98     | —             | 70             | 46     | 5      | namecheap                     |
 | welcome.so           | resell    | —           | —             | 70             | 84     | 7      | Dynadot LLC                   |
 | accommodation.cloud  | premium   | $250        | $250          | 62             | 84     | 13     | name.com                      |
-| hotel.vote           | available | $119.98     | —             | 70             | 44     | 5      | namecheap                     |
+| hotel.vote           | available | $119.98     | —             | 70             | 43     | 5      | namecheap                     |
 | welcome.co           | resell    | —           | —             | 70             | 84     | 7      | GoDaddy.com, LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
