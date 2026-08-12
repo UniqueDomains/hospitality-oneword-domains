@@ -1,10 +1,10 @@
-# One-Word Hospitality Domain Names (138,591)
+# One-Word Hospitality Domain Names (140,212)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-138%2C591%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-140%2C212%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word hospitality-related domain names across 506 TLD extensions, with a median asking price near $792. Updated daily, it includes formats like .com, .sh, and niche TLDs such as .casino and .boats.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **138,591 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **140,212 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 138,591 domains · **Median ask:** $780.39 · **High-demand under $2,500:** 483
+**Public extract:** 1,000 rows · **Live catalog:** 140,212 domains · **Median ask:** $772.35 · **High-demand under $2,500:** 483
 
 **Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/hospitality`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| and.maison     | available | $19.99    | —             | high           | medium | 3      | name.com            |
-| house.travel   | resell    | $39.99    | —             | high           | medium | 5      | Porkbun LLC         |
-| and.casa       | premium   | $96       | $11.80        | high           | medium | 3      | namesilo            |
-| and.reise      | available | $27.89    | $97.99        | high           | medium | 3      | namesilo            |
-| and.holiday    | resell    | —         | —             | high           | medium | 3      | united-domains GmbH |
-| and.homes      | premium   | $812.50   | —             | high           | medium | 3      | name.com            |
-| and.viajes     | available | $37.99    | $37.99        | high           | medium | 3      | namesilo            |
-| and.place      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC    |
-| and.rest       | premium   | $787.50   | —             | high           | medium | 3      | name.com            |
-| bed.holiday    | available | $9.99     | —             | high           | low    | 3      | name.com            |
-| and.us         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC    |
-| and.restaurant | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo            |
-| bed.reise      | available | $27.89    | $97.99        | high           | low    | 3      | namesilo            |
-| food.media     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
-| and.shop       | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo            |
-| bed.tours      | available | $9.99     | —             | high           | low    | 3      | name.com            |
-| food.place     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC         |
-| and.villas     | premium   | $242      | $242          | high           | medium | 3      | namesilo            |
-| bed.travel     | available | $39.99    | —             | high           | low    | 3      | name.com            |
-| food.tours     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC    |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar           |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| travel.sh       | resell    | —           | —             | high           | medium | 6      | GoDaddy.com, LLC    |
+| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC         |
+| and.haus        | available | $19.99      | —             | high           | medium | 3      | name.com            |
+| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC    |
+| and.bayern      | premium   | $58.94      | —             | high           | medium | 3      | name.com            |
+| and.maison      | available | $19.99      | —             | high           | medium | 3      | name.com            |
+| house.travel    | resell    | $39.99      | —             | high           | medium | 5      | Porkbun LLC         |
+| and.berlin      | premium   | $441        | $441          | high           | medium | 3      | namecheap           |
+| and.osaka       | available | $39.99      | —             | high           | medium | 3      | name.com            |
+| and.holiday     | resell    | —           | —             | high           | medium | 3      | united-domains GmbH |
+| and.boston      | premium   | $47.20      | $21.24        | high           | medium | 3      | namesilo            |
+| and.realty      | available | $109.99     | $299          | high           | medium | 3      | namesilo            |
+| and.place       | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC    |
+| and.casa        | premium   | $96         | $11.80        | high           | medium | 3      | namesilo            |
+| and.reise       | available | $27.89      | $97.99        | high           | medium | 3      | namesilo            |
+| and.us          | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC    |
+| and.catering    | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo            |
+| and.viajes      | available | $37.99      | $37.99        | high           | medium | 3      | namesilo            |
+| desk.homes      | resell    | —           | —             | high           | low    | 4      | Spaceship, Inc.     |
+| and.condos      | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 138,591 live domains                       |
+| 1,000-row public sample | 140,212 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 483 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
