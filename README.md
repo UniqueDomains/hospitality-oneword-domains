@@ -16,7 +16,7 @@ This selection covers one-word hospitality-related domain names across 506 TLD e
 
 **Public extract:** 1,000 rows · **Live catalog:** 142,191 domains · **Median ask:** $763.44 · **High-demand under $2,500:** 483
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/sector/hospitality`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Hospitality Domain Names*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Hospitality Domain Names*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
