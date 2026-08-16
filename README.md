@@ -16,7 +16,7 @@ This selection covers one-word hospitality-related domain names across 506 TLD e
 
 **Public extract:** 1,000 rows · **Live catalog:** 143,080 domains · **Median ask:** $757.92 · **High-demand under $2,500:** 475
 
-**Last updated:** 2026-08-14
+**Last updated:** 2026-08-16
 **Canonical page:** `https://unique.domains/domains/sector/hospitality`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------ |
 | and.reise       | available | $27.89     | $97.99        | high           | medium | 3      | namesilo                 |
 | and.holiday     | resell    | —          | —             | high           | medium | 3      | united-domains GmbH      |
-| chic.voyage     | premium   | $118.80    | $118.80       | medium         | low    | 4      | namesilo                 |
+| bed.vacations   | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo                 |
 | and.viajes      | available | $37.99     | $37.99        | high           | medium | 3      | namesilo                 |
-| fun.ag          | resell    | —          | —             | high           | medium | 3      | GrepApps Technology Inc. |
-| menu.pw         | premium   | $4,736.82  | —             | high           | low    | 4      | Dynadot Inc              |
-| care.ryukyu     | available | $22.98     | —             | medium         | medium | 4      | namecheap                |
 | food.media      | resell    | —          | —             | high           | medium | 4      | Porkbun LLC              |
-| rest.pw         | premium   | $12,794.97 | —             | high           | low    | 4      | Dynadot Inc              |
+| food.flights    | premium   | $128.70    | $128.70       | high           | medium | 4      | namecheap                |
 | desk.flights    | available | $58.99     | $58.99        | high           | low    | 4      | namesilo                 |
 | food.place      | resell    | —          | —             | high           | medium | 4      | Porkbun LLC              |
-| room.apartments | premium   | $118.80    | $118.80       | high           | low    | 4      | namesilo                 |
+| home.bio        | premium   | $3,136.56  | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
 | desk.holiday    | available | $9.99      | —             | high           | low    | 4      | name.com                 |
-| home.directory  | resell    | —          | —             | high           | medium | 4      | Porkbun LLC              |
-| room.condos     | premium   | $118.80    | $118.80       | high           | low    | 4      | namesilo                 |
+| food.tours      | resell    | —          | —             | high           | medium | 4      | GoDaddy.com, LLC         |
+| menu.pw         | premium   | $4,736.82  | —             | high           | low    | 4      | Dynadot Inc              |
 | desk.new        | available | $549.99    | —             | high           | low    | 4      | name.com                 |
-| room.casa       | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.          |
-| room.flights    | premium   | $118.80    | $118.80       | high           | low    | 4      | namesilo                 |
+| home.directory  | resell    | —          | —             | high           | medium | 4      | Porkbun LLC              |
+| rest.pw         | premium   | $12,794.97 | —             | high           | low    | 4      | Dynadot Inc              |
 | desk.reise      | available | $27.89     | $97.99        | high           | low    | 4      | namesilo                 |
+| room.casa       | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.          |
+| room.apartments | premium   | $118.80    | $118.80       | high           | low    | 4      | namesilo                 |
+| desk.reisen     | available | $3.99      | $20.99        | high           | low    | 4      | namesilo                 |
 | room.place      | resell    | —          | —             | high           | low    | 4      | Porkbun LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Hospitality Domain Names*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Hospitality Domain Names*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
