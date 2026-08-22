@@ -1,10 +1,10 @@
-# One-Word Hospitality Domain Names (145,104)
+# One-Word Hospitality Domain Names (145,991)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-145%2C104%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-145%2C991%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word hospitality-related domain names across 506 TLD extensions, with a median asking price near $792. Updated daily, it includes formats like .com, .sh, and niche TLDs such as .casino and .boats.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **145,104 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **145,991 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 145,104 domains · **Median ask:** $750.09 · **High-demand under $2,500:** 475
+**Public extract:** 1,000 rows · **Live catalog:** 145,991 domains · **Median ask:** $745.55 · **High-demand under $2,500:** 475
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/sector/hospitality`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| travel.sh       | resell    | —           | —             | high           | medium | 6      | GoDaddy.com, LLC                                    |
-| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                         |
-| and.haus        | available | $19.99      | —             | high           | medium | 3      | name.com                                            |
-| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                    |
-| and.bayern      | premium   | $58.94      | —             | high           | medium | 3      | name.com                                            |
-| and.maison      | available | $19.99      | —             | high           | medium | 3      | name.com                                            |
-| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                         |
-| and.berlin      | premium   | $441        | $441          | high           | medium | 3      | namecheap                                           |
-| and.osaka       | available | $39.99      | —             | high           | medium | 3      | name.com                                            |
-| house.travel    | resell    | $39.99      | —             | high           | medium | 5      | Porkbun LLC                                         |
-| and.boston      | premium   | $47.20      | $21.24        | high           | medium | 3      | namesilo                                            |
-| and.realty      | available | $109.99     | $299          | high           | medium | 3      | namesilo                                            |
-| and.ag          | resell    | —           | —             | high           | medium | 3      | Name.com, Inc.                                      |
-| and.casa        | premium   | $96         | $11.80        | high           | medium | 3      | namesilo                                            |
-| and.reise       | available | $27.89      | $97.99        | high           | medium | 3      | namesilo                                            |
-| and.holiday     | resell    | —           | —             | high           | medium | 3      | united-domains GmbH                                 |
-| and.catering    | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo                                            |
-| and.viajes      | available | $37.99      | $37.99        | high           | medium | 3      | namesilo                                            |
-| and.in          | resell    | —           | —             | high           | medium | 3      | Endurance Digital Domain Technology Private Limited |
-| and.condos      | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo                                            |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| arts.ryukyu     | available | $22.98    | —             | high           | low    | 4      | namecheap              |
+| destination.bot | resell    | $78.98    | —             | high           | low    | 11     | Dynadot, LLC           |
+| room.flights    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo               |
+| call.ryukyu     | available | $22.98    | —             | high           | low    | 4      | namecheap              |
+| bar.asia        | resell    | —         | —             | high           | low    | 3      | Realtime Register B.V. |
+| room.vacations  | premium   | $242      | $242          | high           | low    | 4      | namesilo               |
+| care.ryukyu     | available | $22.98    | —             | medium         | medium | 4      | namecheap              |
+| call.cx         | resell    | —         | —             | high           | low    | 4      | CentralNic Ltd         |
+| spas.family     | premium   | $75       | —             | medium         | low    | 4      | name.com               |
+| room.holiday    | available | $9.99     | —             | high           | low    | 4      | name.com               |
+| food.media      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC            |
+| spas.nyc        | premium   | $3,125    | —             | medium         | low    | 4      | name.com               |
+| room.reise      | available | $27.89    | $97.99        | high           | low    | 4      | namesilo               |
+| food.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC            |
+| spas.page       | premium   | $36.25    | —             | medium         | low    | 4      | name.com               |
+| room.reisen     | available | $3.99     | $20.99        | high           | low    | 4      | namesilo               |
+| food.rodeo      | resell    | —         | —             | high           | medium | 4      | Porkbun                |
+| spas.sbs        | premium   | $19.60    | $39.20        | medium         | low    | 4      | namecheap              |
+| room.viajes     | available | $37.99    | $37.99        | high           | low    | 4      | namesilo               |
+| food.school     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 145,104 live domains                       |
+| 1,000-row public sample | 145,991 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 475 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Hospitality Domain Names*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Hospitality Domain Names*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
