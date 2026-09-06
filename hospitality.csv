@@ -297,7 +297,6 @@ d55a4f24-0c6e-4962-92d5-e39fb1a69fc2,restaurant.flights,premium,242,242,high,low
 8ccedd26-fbd4-41aa-9584-677bf10d4dca,motorinn.estate,available,14.99,,high,low,9,name.com,,
 375a1246-8408-4570-963d-ec15c998a678,time.services,resell,,,high,medium,4,"Sav.com, LLC",23/11/2017 23:24,23/11/2026 23:24
 702b91e6-0fb9-44ac-88c3-ee0c2305fe1e,reception.tours,available,9.99,,high,low,9,name.com,,
-c7e4f3f6-c01b-4d0e-aef8-affc0ae87824,motorinn.osaka,available,39.99,,high,low,9,name.com,,
 b8be3f38-2ae4-49d3-b171-f6f8a112f14a,travel.sydney,available,,,high,low,6,,,
 cb673a22-37c5-4d77-b4dd-0a185ca388e5,travel.bayern,premium,292.9,,high,medium,6,name.com,,
 2201efe2-c8c4-466b-a321-bf2d24a3bf66,room.food,premium,1960,2800,high,low,4,namecheap,,
@@ -343,7 +342,6 @@ e70f6a36-e01d-42e7-ae49-6d02feebbcef,table.tours,available,9.99,,high,low,5,name
 53dd3922-055c-45a9-bc21-50676a4e9139,time.food,premium,490,700,high,medium,4,namecheap,,
 f3dbb98d-d884-4640-8a25-7cf35a6d118a,tourist.restaurant,available,29.99,,high,low,7,name.com,,
 9b758841-aa08-450f-a598-a7d6b11a46e5,resort.restaurant,available,29.99,,high,low,6,name.com,,
-2e4cf486-2b5b-42cb-b766-d68a801a8419,reservation.properties,available,10.99,,medium,low,11,name.com,,
 0f4ae316-d18e-45a7-9e64-2359125d12c5,bedandbreakfast.reisen,available,3.99,20.99,high,low,17,namesilo,,
 e80f01c6-ea6e-48e1-bc35-ba1a583b3eb4,customer.reisen,available,24.99,,high,low,8,name.com,,
 dbf1aeca-c131-41db-a79c-064fa5d0284d,and.property,available,,,high,medium,3,,,
@@ -400,7 +398,6 @@ eaabc354-7593-4cac-986d-d50472f59a8d,time.company,resell,,,high,medium,4,"Sav.co
 97e7ee0e-88eb-47b7-b03d-cb4c323d85a4,leisure.reise,available,27.89,97.99,high,low,7,namesilo,,
 d9b2a60e-7a7e-4d43-b355-d3fd84b171fe,menu.reise,available,27.89,97.99,high,low,4,namesilo,,
 05f68aa7-a7e2-488e-bc7c-0ba4be3ef293,vacation.reise,available,27.89,97.99,high,low,8,namesilo,,
-d1304f55-b947-4487-8f21-8fc53a47b027,travels.rest,premium,78.75,,medium,low,7,name.com,,
 6a872198-5644-426d-b4b9-1fd884afb580,time.systems,resell,,,high,medium,4,"Sav.com, LLC",08/12/2018 23:30,08/12/2026 23:30
 3a41cf4a-cb7e-4588-828b-9e25f02ef0da,travel.space,premium,1625,6500,high,medium,6,namecheap,,
 8239daf5-8b7a-44b8-84c4-368ac1975eeb,trip.holiday,resell,,,medium,low,4,"Sav.com, LLC - 8",20/08/2026 15:15,20/08/2027 15:15
@@ -559,8 +556,6 @@ bf96a433-ebda-4ce9-ae97-08e3949992a9,room.cooking,available,32.49,32.49,high,low
 488d4341-3888-45d6-ac3f-fe4693dc2f81,food.maison,available,19.99,,high,medium,4,name.com,,
 4521579c-4201-47eb-950b-1cde03b37610,restaurants.voyage,premium,123.75,,medium,low,11,name.com,,
 93d8c331-998f-4d5e-b0b8-8827566c0085,kitchen.holiday,available,9.99,,medium,low,7,name.com,,
-8c0cb001-5a49-4d0d-8f18-bbc79a15df4b,lodged.vacations,available,9.99,,medium,low,6,name.com,,
-bb68155d-9a14-4b03-8267-cf5ae46dc7b6,reservation.boston,premium,100,,medium,low,11,name.com,,
 8bbcb6d1-209b-4334-b0db-ef568205bef0,stay.vacations,available,9.99,,medium,low,4,name.com,,
 7cb99680-e997-4466-8f03-51a7199850ef,shelter.house,resell,,,high,low,7,"GoDaddy.com, LLC",26/04/2016 00:33,26/04/2027 00:33
 6e8c1f96-ce49-482d-8895-5cfa77fe3940,food.house,resell,,,high,medium,4,"Sav.com, LLC",05/08/2015 16:00,05/08/2026 16:00
@@ -999,3 +994,8 @@ fc409b25-aebc-4cb2-a43d-f1cddeebe3bb,room.giving,available,5.99,,high,low,4,name
 18e33faf-0b85-4c2f-855a-d3e45087562e,room.gifts,premium,78.54,78.54,high,low,4,namesilo,,
 ddd0969e-6d94-408c-bcaa-ea2b23ec3d75,room.clinic,premium,118.8,118.8,high,low,4,namesilo,,
 3287b760-9174-4cbb-93ca-f4c3fef71172,time.democrat,available,9.99,,high,medium,4,name.com,,
+6cfd6f1b-8875-4410-a384-1e0ff2af811a,time.charity,available,5.99,,high,medium,4,name.com,,
+9b893e1d-b715-4f79-944b-7b37f8ab8350,resort.melbourne,premium,452.31,,high,low,6,name.com,,
+850fbc67-15a6-4083-8804-969f1b195451,tourist.melbourne,premium,904.45,,high,low,7,name.com,,
+df9f1949-8343-4e31-8ec2-8993e09cb74d,time.works,resell,,,high,medium,4,101domain GRS Limited,17/08/2015 10:35,17/08/2026 10:35
+dd36d09d-a9e1-4197-8a3b-325b0a661029,room.direct,available,,,high,low,4,,,
