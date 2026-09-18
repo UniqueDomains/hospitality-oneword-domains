@@ -54,7 +54,6 @@ b4d30733-169d-4377-bbc6-e6408fa2e22f,hotel.realty,available,109.99,299,high,medi
 61f52908-7de3-4dcb-b8d7-d327bae7090d,room.systems,available,21.99,,high,low,4,name.com,,,
 cec4957e-9599-47e9-aa2d-cb6e17098342,room.taxi,available,10.99,,high,low,4,name.com,,,
 b6ca43f8-9be5-4b39-bc5f-c70ff3a438f0,travel.restaurant,premium,123.75,123.75,high,medium,6,name.com,,,
-e76c83e1-46a7-4470-b2b1-1853f012736d,room.quest,premium,812.5,,high,low,4,name.com,,,
 a8264a95-aa87-475f-9790-293789f0465b,hotel.pub,premium,520,520,high,medium,5,namecheap,,,
 6e06eeef-489e-4ffa-bfe7-5077922e4e63,room.yachts,premium,812.5,,high,low,4,name.com,,,
 3654351a-4280-4e47-91f4-f056eeed07a1,travel.rest,available,,,high,low,6,,,,
@@ -999,3 +998,4 @@ f9581c85-8fcd-456b-85b2-4d00cea0a51d,resort.cash,available,17.99,,high,low,6,nam
 17541ae0-ccf3-40c5-b60e-f4702b93be52,resort.fund,available,15.99,,high,low,6,name.com,,,
 056bad54-9315-4507-ba9a-2cfb01fc4138,resort.ventures,available,19.99,,high,low,6,name.com,,,
 b42fd3cc-fb68-4d1e-95e2-eea047b41457,resort.theater,available,19.99,,high,low,6,name.com,,,
+17e6e595-c3ab-4911-ac51-86e5c4ae8ae7,resort.theatre,available,509.99,529.99,high,low,6,namesilo,,,
