@@ -1,136 +1,30 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-4ea9793f-afbf-4408-b74e-4041625f3204,hospitality.reise,available,77.83,77.83,high,low,11,spaceship,,,28/09/2026 04:30
-934abb89-d45b-4159-b215-4117d732a314,hospitality.holiday,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 04:30
-32035ccc-a2b0-442d-83fa-7727ecb8e67b,hospitality.flights,available,45.2,45.2,high,low,11,cloudflare,,,28/09/2026 04:30
 b0b44d99-164b-4f18-aff8-3d44f2e3a12d,hospitality.reisen,available,16.76,16.76,high,low,11,spaceship,,,28/09/2026 04:30
 afdfea14-b35e-4dca-aff7-65ce4c94db4e,hospitality.tours,available,5.66,49.95,high,low,11,porkbun,,,28/09/2026 04:30
 48ca0a17-cf64-47e1-bea6-874d24eef72c,hospitality.vacations,resell,,,high,low,11,,,,28/09/2026 04:30
-015558ce-6587-4e7b-9a9c-91737c292dc2,hospitality.miami,premium,4140.2,18.83,high,low,11,spaceship,,,28/09/2026 04:30
-3a0cc5e3-853d-4187-b57f-74bdc9012936,hospitality.de,resell,,,high,low,11,,,,28/09/2026 04:30
-351a4671-ae40-475c-8607-dddab0f850fe,hospitality.cv,available,9.99,9.99,high,low,11,namesilo,,,28/09/2026 04:30
-2bf41ce8-0e6d-4089-912c-21f249f2bc2b,hospitality.city,premium,23.6,23.6,high,low,11,namesilo,,,28/09/2026 04:30
 9a898f1c-3282-4eae-a052-24b434309675,hospitality.voyage,available,46.78,46.78,high,low,11,spaceship,,,28/09/2026 04:30
-13115bc2-840f-4885-bf3f-4ca3d17a0b01,hospitality.maison,available,57.99,57.99,high,low,11,namesilo,,,28/09/2026 04:30
-ce40e86c-28e9-459a-85d2-422827e84791,hospitality.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,28/09/2026 04:30
-9e833f9b-6eca-4ad4-adbf-961d8054818d,hospitality.so,available,,,high,high,11,,,,
-906f0598-61b7-4dae-af46-a2842c43403c,hospitality.house,resell,,,high,low,11,,,,28/09/2026 04:30
-f0301c1e-dc25-420b-9199-9c8d8ecc48bd,hospitality.town,available,6.41,29.18,high,low,11,spaceship,,,28/09/2026 04:30
-7b86a85e-74f2-4e46-b5d2-6e60924e9769,hospitality.ltda,premium,66.3,66.3,high,low,11,namecheap,,,28/09/2026 04:30
-47be8381-a6c5-455d-b549-6dccaf6d23aa,hospitality.realty,available,109.99,299,high,low,11,namesilo,,,28/09/2026 04:30
-bfaab79d-c454-42be-b278-d8f0dd8cccae,hospitality.industries,premium,54.36,108.6,high,low,11,porkbun,,,28/09/2026 04:30
 701d7981-524e-4db1-a54e-e08b177a4fae,hospitality.ag,available,82.5,82.5,high,low,11,dynadot,,,28/09/2026 04:30
-3e312edf-604b-4bb8-be2b-02e8dbc828a5,hospitality.beer,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 04:30
-8a9d9111-a560-45cb-9cd8-139cc8d09759,hospitality.srl,premium,50.6,28.04,high,low,11,dynadot,,,28/09/2026 04:30
-bbd79a17-cdb0-4f2e-8a2b-8c1389ad4321,hospitality.services,resell,,,high,low,11,,,,28/09/2026 04:30
-d44b491b-4477-4f19-ad44-feee4400328d,hospitality.juegos,available,321.22,321.22,high,low,11,dynadot,,,28/09/2026 04:30
-b515757b-00fc-446b-bd1c-9dae86aeaa1f,hospitality.moda,available,41.99,41.99,high,low,11,namesilo,,,28/09/2026 04:30
-98b167cd-72aa-43ff-97de-aa711f4a24f4,hospitality.vin,available,8.99,59.99,high,low,11,namesilo,,,28/09/2026 04:30
-2a3b0a41-e220-43cd-a89f-cd05d9cde1a2,hospitality.you,premium,51.95,51.95,high,low,11,spaceship,,,28/09/2026 04:30
-489e5d42-6002-413f-80e9-40e43406d9f7,hospitality.download,premium,448,53.92,high,low,11,namesilo,,,28/09/2026 04:30
-30afeae2-7509-4e3d-a9af-3d59709d238d,hospitality.enterprises,available,11.49,35.99,high,low,11,namesilo,,,28/09/2026 04:30
 73aa68ab-4f23-4267-bfce-57a1314648b1,hospitality.uk,resell,,,high,low,11,,,,28/09/2026 04:30
-28f0d45c-4fda-4756-9e11-599dc2883945,hospitality.storage,available,538.98,858,high,low,11,namecheap,,,28/09/2026 04:30
-bddd68f0-62f6-452e-a222-20618c685341,hospitality.forsale,premium,102.67,102.67,high,low,11,spaceship,,,28/09/2026 04:30
-c6652555-7a3a-42ce-87aa-d4dfd08f83d8,hospitality.men,premium,362.45,51.95,high,low,11,spaceship,,,28/09/2026 04:30
-f19d2d83-8a08-4931-a931-d909d85fd0ad,hospitality.security,available,1999.99,2049.99,high,low,11,namesilo,,,28/09/2026 04:30
-9208aa90-68b4-4714-97a6-49a0c8e120cd,hospitality.hiphop,available,27,,high,low,11,unstoppable,,,28/09/2026 04:30
-efff9712-7e10-469b-aea3-67e1386836e3,hospitality.shopping,available,23.18,23.18,high,low,11,spaceship,,,28/09/2026 04:30
-c638da63-f718-48f6-a409-12616c4bacc7,hospitality.sex,available,51.95,98.53,high,low,11,spaceship,,,28/09/2026 04:30
-263e13ff-878e-4d42-97f3-12f15b51e7b8,hospitality.food,premium,1107,1107,high,low,11,namesilo,,,28/09/2026 04:30
-399a2d59-46ed-4dfe-abc0-05f51100c90f,hospitality.archi,available,13.14,83,high,low,11,spaceship,,,28/09/2026 04:30
 94f3b1ba-e5f5-41b7-a31f-cad27c59e518,hospitality.sh,available,39.99,47.99,high,low,11,namesilo,,,28/09/2026 04:30
 1a3d1c96-ec7b-44fc-ac9e-6c0372c01473,hospitality.london,premium,338.65,31.22,high,low,11,namesilo,,,28/09/2026 04:30
-d547b41f-93f5-4f17-b473-1f400a2d3ec4,hospitality.spot,premium,100.5,,high,low,11,unstoppable,,,28/09/2026 04:30
-d570dd85-cc47-45f5-8d70-55ca6ba3f771,hotel.reisen,premium,520,520,high,medium,5,namecheap,,,
-4ab52e95-6eeb-4c6a-b168-e5677140cf6b,hospitality.contact,available,11.59,11.59,high,low,11,spaceship,,,28/09/2026 04:30
-95291dab-1199-4667-8dbb-685b24382552,hospitality.show,available,18,,high,low,11,unstoppable,,,28/09/2026 04:30
-e9f84165-cdc0-418c-a5ee-226915b002f7,hospitality.hair,available,1.99,17.29,high,low,11,namesilo,,,28/09/2026 04:30
-20444895-c05f-41a7-bd24-7e388be0c92b,hospitality.express,available,12.49,39.99,high,low,11,namesilo,,,28/09/2026 04:30
-f7c07e12-ff39-48ed-a3e4-652275211e4e,hospitality.esq,premium,89.2,,high,low,11,unstoppable,,,28/09/2026 04:30
-31f1d8d1-a43c-43b5-b236-ec43b0f139be,hospitality.ltd,premium,36.3,36.3,high,low,11,dynadot,,,28/09/2026 04:30
-0277999a-e46c-441c-b008-f725eed514f6,hospitality.work,premium,6900,11.8,high,low,11,namesilo,,,28/09/2026 04:30
-55e10c22-cd6f-4df7-8d2f-318eef81be2c,hospitality.solar,available,51.95,51.95,high,low,11,spaceship,,,28/09/2026 04:30
-839956fb-21dd-4229-a700-4460ce75390d,hospitality.lat,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 04:30
-f0ea45b7-3082-45a4-9a6d-14acb0da5e89,hospitality.pub,available,32.29,32.29,high,low,11,spaceship,,,28/09/2026 04:30
-30ea2765-790b-4605-8694-e9f07718c661,hospitality.tattoo,available,1.75,31.25,high,low,11,spaceship,,,28/09/2026 04:30
-25daa3c4-365c-41ff-b9b6-96fc18da64ef,hospitality.green,premium,1552.7,1552.7,high,low,11,spaceship,,,28/09/2026 04:30
-1882fdc4-875d-4527-ab91-628db257978f,hospitality.cooking,premium,47.2,29.5,high,low,11,namesilo,,,28/09/2026 04:30
-ae9d1d64-b531-40f6-9d56-7fdd5a55815a,hospitality.financial,available,15.73,46.78,high,low,11,spaceship,,,28/09/2026 04:30
-f69927e0-dbed-4a2d-8956-1421815a26f1,hotel.voyage,premium,78.54,78.54,high,medium,5,namesilo,,,
 835dd8a9-d91a-460e-ac60-24f430cdb97c,hospitality.catering,premium,68.51,68.51,high,low,11,spaceship,,,28/09/2026 04:30
-78ca6f7a-a050-4a32-8d24-2a7daa6c6a5c,hospitality.sbs,premium,59.71,119.23,high,low,11,spaceship,,,28/09/2026 04:30
-5bdd77f3-ecb6-4f21-8f0f-d531ecc63e8e,hospitality.dental,available,78.99,78.99,high,low,11,namesilo,,,28/09/2026 04:30
-7d386fda-79c5-4898-8aa0-e8ccaf018401,hospitality.rehab,available,36.99,36.99,high,low,11,namesilo,,,28/09/2026 04:30
-0667dc2c-f5f0-4c5d-ac91-a43a7846553f,hospitality.international,resell,,,high,low,11,,,,28/09/2026 04:30
-cfa726d6-e35b-43c0-ac6f-cbecda2e417e,hospitality.wedding,premium,41.6,26.08,high,low,11,spaceship,,,28/09/2026 04:30
-7777ed26-8cc9-4b6b-ba70-fdf3808d6d12,hospitality.inc,premium,1705,2060.21,high,low,11,dynadot,,,28/09/2026 04:30
-bec3e7e0-14ec-48f6-96b6-d597c571a329,hospitality.page,premium,70.21,70.21,high,low,11,namesilo,,,28/09/2026 04:30
 c26c0ca8-69e2-40cf-832f-1158ccbc0007,hospitality.apartments,available,57.99,57.99,high,low,11,namesilo,,,28/09/2026 04:30
-2ee99f07-377b-4018-b62a-91c301cce3a3,hospitality.shiksha,premium,517.7,517.7,high,low,11,spaceship,,,28/09/2026 04:30
-7316a163-5431-4bea-9b30-6815ba248638,hospitality.florist,available,32.99,32.99,high,low,11,namesilo,,,28/09/2026 04:30
-1ebcc4cb-9c7e-467c-92b5-25be7b37144b,hospitality.cars,available,1863.2,2064.2,high,low,11,spaceship,,,28/09/2026 04:30
-b87dcf49-83f5-41b7-a34f-64f17f4f5e83,hospitality.fun,premium,137.5,550,high,low,11,dynadot,,,28/09/2026 04:30
 3dfe21a3-5cb2-4e81-a7a3-ef88ed470622,hospitality.viajes,available,35.18,35.18,high,low,11,spaceship,,,28/09/2026 04:30
 94a79e45-c502-4ab2-8ce9-c99b4af20905,hospitality.boston,premium,96,21.24,high,low,11,namesilo,,,28/09/2026 04:30
 f4f48c2d-60a9-4341-af55-73cdf51afc8b,hospitality.limo,available,43.67,43.67,high,low,11,spaceship,,,28/09/2026 04:30
-ff3b49b6-89a8-4fe1-b17d-7ba8337ea33a,hospitality.ing,premium,350.2,,high,low,11,unstoppable,,,28/09/2026 04:30
-777c4ca7-fa53-435e-bd8d-48f414742224,hospitality.navy,available,33.32,33.32,high,low,11,spaceship,,,28/09/2026 04:30
-f9cff21c-0e81-4da5-8fac-82389343b5a1,hospitality.surgery,available,43.67,43.67,high,low,11,spaceship,,,28/09/2026 04:30
-e1c21e3a-7b59-4d7d-af07-32e7cc4d2837,hospitality.promo,resell,,,high,low,11,,,,28/09/2026 04:30
-56f3d68a-1f6f-45c4-9957-fbe82b9ba6b0,hospitality.capital,resell,,,high,low,11,,,,28/09/2026 04:30
-71ab8328-3a4d-45fc-909f-91880125bd1d,hospitality.dad,premium,76.7,76.7,high,low,11,namecheap,,,28/09/2026 04:30
-e872d0a1-3878-4ad4-ad53-d45d3ec542f3,hospitality.cyou,premium,59.71,119.23,high,low,11,spaceship,,,28/09/2026 04:30
-52455523-5137-4ec0-81e1-e7cd2f7874c6,hospitality.kids,premium,65,23.4,high,low,11,namecheap,,,28/09/2026 04:30
-55ebff8a-c3a9-44cf-9e04-0922530f3a5f,hospitality.garden,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 04:30
-0c85ba88-4e50-4d29-885f-909c00f2398c,hospitality.audio,available,93.35,103.4,high,low,11,spaceship,,,28/09/2026 04:30
-72fa3c24-6a40-4e65-b94a-cca420740bd6,hospitality.social,resell,,,high,low,11,,,,28/09/2026 04:30
-cc7ed7e3-1440-4b9e-9a1f-e98876f56313,hospitality.uno,premium,3450,3450,high,low,11,namesilo,,,28/09/2026 04:30
-f8747275-2b03-4ab8-a4d4-93bb61f66943,hospitality.phd,premium,,,high,low,11,,,,28/09/2026 04:30
-1a1417e1-5af2-4f27-b03e-506aa7e0def0,hospitality.wiki,available,2.06,26.26,high,low,11,porkbun,,,28/09/2026 04:30
-2e344dec-9655-4e8a-872a-aa9a46ee6786,hospitality.pink,available,13.5,,high,low,11,unstoppable,,,28/09/2026 04:30
 0322e623-96f8-4b73-969c-5202843c5964,hospitality.ski,available,21.11,52.01,high,low,11,porkbun,,,28/09/2026 04:30
-70a75119-7d8a-4b77-8c60-04cb8a33fbbd,hotel.rest,available,,,high,medium,5,,,,
-12fb1948-38c6-4af8-8088-f9eef078ffb9,hospitality.me,resell,,,high,low,11,Dynadot Inc,17/07/2008 16:43,17/07/2027 16:43,28/09/2026 04:30
-1a401e49-61df-4a15-ac90-3562e43b0b57,hospitality.domains,available,42.99,42.99,high,low,11,namesilo,,,28/09/2026 04:30
-25c4d602-8dd6-409c-ad13-10a2e7ec0a4c,hospitality.link,resell,,,high,low,11,,,,28/09/2026 04:30
-e2d19bf7-7c6f-4498-bc0e-656acd1dd777,hospitality.cash,available,9.85,32.32,high,low,11,dynadot,,,28/09/2026 04:30
 c29ef649-a770-41fa-a368-127f413225ef,hospitality.condos,available,58.99,58.99,high,low,11,namesilo,,,28/09/2026 04:30
-a1cc31b1-d06e-4f69-bbfb-eee198ed1c57,hospitality.ooo,premium,95220,119.99,high,low,11,namesilo,,,28/09/2026 04:30
-3599ce28-7c30-422e-a3a1-db89031af157,hospitality.foo,premium,30.22,30.22,high,low,11,spaceship,,,28/09/2026 04:30
 523b47e6-ec94-4920-8294-53b6801ef721,hospitality.rest,premium,,,high,low,11,,,,28/09/2026 04:30
-2cb98a21-b8de-4452-ae1b-a95bbf95064e,hospitality.channel,premium,61.27,61.27,high,low,11,spaceship,,,28/09/2026 04:30
-fb3c2312-90fe-489f-8187-7d8e853b5297,hospitality.cricket,premium,455,65,high,low,11,namecheap,,,28/09/2026 04:30
-43893969-cfdc-4001-afc6-f68c2c6b2120,hospitality.gallery,available,22.2,22.2,high,low,11,cloudflare,,,28/09/2026 04:30
-7dba1674-83f6-468b-a72f-feb0f5daca79,hospitality.kaufen,available,5.99,26.99,high,low,11,namesilo,,,28/09/2026 04:30
-0e27b752-b9db-4e51-ac31-70413da01aca,hospitality.ceo,available,10.19,129.99,high,low,11,namesilo,,,28/09/2026 04:30
-b078cf92-e8a4-4354-acfa-cbdaa5a9342f,hospitality.lease,available,8.24,44.8,high,low,11,porkbun,,,28/09/2026 04:30
-a63a1020-b1c8-4772-9154-ea57716a7b51,hospitality.xxx,available,95.2,95.2,high,low,11,cloudflare,,,28/09/2026 04:30
-c48f6664-bcb6-43a9-bad9-f2229a94ea1f,hospitality.trading,available,21.98,27.98,high,low,11,namecheap,,,28/09/2026 04:30
-d07e9f99-eea4-47b1-947b-78aa36e57cb1,hospitality.global,premium,1242.2,51.95,high,low,11,spaceship,,,28/09/2026 04:30
-652ce5d0-51ac-4ab8-8911-24544242e401,hospitality.protection,available,2064.2,2064.2,high,low,11,spaceship,,,28/09/2026 04:30
-4d6c42f6-09c1-44c7-8242-7000429aa01a,hospitality.fishing,premium,,,high,low,11,,,,28/09/2026 04:30
-33746791-4a98-47e8-9dff-7c6e8b863e4a,hospitality.game,available,309.47,340.37,high,low,11,porkbun,,,28/09/2026 04:30
-0560404b-de8e-4c88-8b10-87a15b57b550,hospitality.voto,available,26.5,,high,low,11,unstoppable,,,28/09/2026 04:30
-63494991-1b7a-4ee4-9f68-b402c724bc52,hospitality.pizza,available,5.38,51.95,high,low,11,spaceship,,,28/09/2026 04:30
-0bb19e30-e32f-4ab2-80f0-6799e5f90c3a,hospitality.gift,available,20.98,23.98,high,low,11,namecheap,,,28/09/2026 04:30
-a2fb8162-8459-45ec-9d03-892833366a5f,hospitality.careers,premium,242,242,high,low,11,namesilo,,,28/09/2026 04:30
-7a42977d-5585-4a4b-9562-25fd93e5d3ed,hotel.sydney,premium,8633.82,8633.82,high,medium,5,namecheap,,,
 a3522177-7e59-45bb-be3a-c32371e39f52,hospitality.repair,available,5.38,29.18,high,low,11,spaceship,,,28/09/2026 04:30
 d4ad8c6a-940c-4260-9aa8-b06851e6e79d,hospitality.giving,available,6.41,22.39,high,low,11,spaceship,,,28/09/2026 04:30
 11029e62-3c84-44be-ad43-65efdef16e9a,hospitality.live,resell,,,high,low,11,,,,28/09/2026 04:30
 7f2d521c-e92a-4bf6-b58c-a023b61f4c16,hospitality.space,premium,5000.2,6900,high,low,11,unstoppable,,,28/09/2026 04:30
-39900296-e58f-4ffa-b4a3-754bdc53c264,hospitality.onl,resell,,,high,low,11,,,,28/09/2026 04:30
-c2ff0d07-db85-43f5-855b-33efdbb049d6,hospitality.fit,resell,,,high,low,11,,,,28/09/2026 04:30
-1252eedd-a9b3-48ed-912a-b2761ddbf183,hospitality.mobile,available,15.73,15.73,high,low,11,spaceship,,,28/09/2026 04:30
-6a15c926-b24a-4295-ab3f-476b51f85112,hospitality.luxe,available,15.2,15.2,high,low,11,cloudflare,,,28/09/2026 04:30
-dbf781cf-ecc0-4d8b-b301-70e020e9ec03,hospitality.rip,available,18.83,18.83,high,low,11,spaceship,,,28/09/2026 04:30
-24e7299a-3b3d-4b5b-92c1-22a4d385a64d,hospitality.soy,premium,81.97,81.97,high,low,11,spaceship,,,28/09/2026 04:30
+4ea9793f-afbf-4408-b74e-4041625f3204,hospitality.reise,available,77.83,77.83,high,low,11,spaceship,,,28/09/2026 04:30
 e1f585a5-4cee-458a-8fe4-3b9483a76c21,hospitality.lifestyle,premium,1107,1107,high,low,11,namesilo,,,28/09/2026 04:30
 882f9ba7-cdf3-483b-878c-dae3e2c19964,hospitality.hosting,available,310.98,437.98,high,low,11,namecheap,,,28/09/2026 04:30
 5c4d783d-7701-4412-87c9-207fa863ab92,hospitality.sexy,available,2587.7,2587.7,high,low,11,spaceship,,,28/09/2026 04:30
 0d17c6b9-66c6-430c-977a-c2ea409d53aa,hospitality.restaurant,available,20,,high,low,11,unstoppable,,,28/09/2026 04:30
 92dcfd32-5a5b-4354-a209-4c3bd5af6ac6,hospitality.diet,available,100.2,100.2,high,low,11,cloudflare,,,28/09/2026 04:30
-c4329a0b-3d57-4cf5-ac90-5cb51eeeb14a,hospitality.loan,premium,385,55,high,low,11,dynadot,,,28/09/2026 04:30
 7f30015c-cf8a-45e1-b2a9-552aa339ee51,hospitality.hiv,available,195.99,195.99,high,low,11,namesilo,,,28/09/2026 04:30
 fa053594-680f-43df-9abb-48c22e70134a,hospitality.builders,available,35.99,35.99,high,low,11,namesilo,,,28/09/2026 04:30
 87e9bede-b32b-4bed-8383-5f123ccb84fb,hospitality.living,premium,724.7,1035.2,high,low,11,spaceship,,,28/09/2026 04:30
@@ -146,6 +40,7 @@ df567714-b22f-44f4-9ac7-24485d23f853,hospitality.equipment,premium,242,242,high,
 f9c7455c-8308-441f-b7e3-a4069a59bfd0,hospitality.futbol,available,7.49,17.99,high,low,11,namesilo,,,28/09/2026 04:30
 64c1a6b0-94aa-42c6-8916-269ef847cdbf,hospitality.auction,available,36.99,36.99,high,low,11,namesilo,,,28/09/2026 04:30
 b5c6cca4-5d7d-41ba-890f-b2c14dc0dfb9,hospitality.faith,available,12.98,16.98,high,low,11,namecheap,,,28/09/2026 04:30
+934abb89-d45b-4159-b215-4117d732a314,hospitality.holiday,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 04:30
 f7f5f10a-d91c-4ff1-91f0-66c4f3e19c3c,hospitality.mortgage,available,48.2,48.2,high,low,11,cloudflare,,,28/09/2026 04:30
 37f00ec7-0a23-4d20-941c-825b8c50761f,hospitality.build,premium,,,high,low,11,,,,28/09/2026 04:30
 0ea10830-1e3e-4239-bab2-658f7cd9154a,hospitality.homes,resell,,,high,low,11,,,,28/09/2026 04:30
@@ -178,7 +73,6 @@ df274e94-31cd-4833-b7a5-864ab35ea8a2,hospitality.bike,available,5.38,31.25,high,
 0e6e31de-cf43-4495-b2b9-5d4c68974a31,hospitality.cfd,premium,63.3,126.07,high,low,11,porkbun,,,28/09/2026 04:30
 220f8801-790e-42ff-911f-27fbefd1edc1,hospitality.bet,premium,500.5,,high,low,11,unstoppable,,,28/09/2026 04:30
 07433148-81c6-4c1c-9e6b-facc811c01cb,hospitality.diy,premium,724.7,1035.2,high,low,11,spaceship,,,28/09/2026 04:30
-1b1f1371-dafa-4a61-9167-3768f1435829,hotel.cruises,premium,260,260,high,medium,5,namecheap,,,
 36b8564b-ec61-4458-9b8f-cfbf788ab6d0,hospitality.new,available,412.2,412.2,high,low,11,spaceship,,,28/09/2026 04:30
 dcccaa04-296c-471b-b1d2-bdb4c6ee7e85,hospitality.now,resell,,,high,low,11,,,,28/09/2026 04:30
 e7cb0ea0-bd8e-4b0b-8f5a-d29b996f5931,hospitality.markets,premium,,,high,low,11,,,,28/09/2026 04:30
@@ -197,54 +91,35 @@ b84f5f0e-c740-4b27-bba6-468b9ed36f85,hospitality.tienda,available,46.2,46.2,high
 2482851e-ba86-40ad-85b4-a7ead5143149,hospitality.date,premium,384,53.92,high,low,11,namesilo,,,28/09/2026 04:30
 1c39d342-9bc7-458f-afb8-2c8bbfb1af76,hospitality.vana,available,2070.2,2070.2,high,low,11,spaceship,,,28/09/2026 04:30
 d3ccf9ed-450f-4aca-939b-2e8bcaad672a,hotel.tours,resell,,,high,medium,5,"Sav.com, LLC - 24",11/09/2024 15:15,11/09/2027 15:15,26/09/2026 06:44
-7903ecbb-17ad-4f57-8726-2fe8dcbe39eb,hotel.auto,available,1999.99,2199,high,medium,5,namesilo,,,
 2bc6ebb5-7ec2-4419-9d3b-ce85a95df1da,hospitality.auto,available,2060.25,2064.19,high,low,11,porkbun,,,28/09/2026 04:30
 406c20a6-234c-44e5-bf1a-bfdaa5e124c5,hospitality.cab,available,25.2,25.2,high,low,11,cloudflare,,,28/09/2026 04:30
-7f6e888f-b78f-4a97-b91f-20c7e725990b,hotel.so,resell,,,high,medium,5,InterNetX GmbH,28/04/2011 00:00,28/04/2026 00:00,
-eb959142-b3a0-41a5-a60c-24093fcc97c0,hotel.rsvp,premium,1298.7,1298.7,high,medium,5,namecheap,,,
 2b389088-ab4a-4ae5-9120-5d8590e8a923,hospitality.fund,resell,,,high,low,11,,,,28/09/2026 04:30
 a395aac1-902a-4b4e-a474-fe3aba061dde,hospitality.bio,resell,,,high,low,11,,,,28/09/2026 04:30
 d48a5d6f-54e4-4615-8e58-3f9b4f5f4d81,hospitality.sydney,premium,385.49,385.49,high,low,11,dynadot,,,28/09/2026 04:30
 dc8a9b76-2d6d-40bf-9aae-a778147658b4,hospitality.bayern,available,34.99,34.99,high,low,11,namesilo,,,28/09/2026 04:30
 f1827a96-4f20-4a62-b62c-07597a090d1a,hospitality.rich,available,94.99,1999,high,low,11,namesilo,,,28/09/2026 04:30
-6ce43e7f-5a85-474c-808a-ba3b3f25f28a,hotel.limited,premium,85.8,85.8,high,medium,5,namecheap,,,
 675ded7a-e409-486b-b921-c9c25458d192,hospitality.place,available,22.49,22.49,high,low,11,namesilo,,,28/09/2026 04:30
-ca2ef80f-159b-4368-b52a-000ee218f9b0,hotel.motorcycles,premium,845,845,high,medium,5,namecheap,,,
-cdff9844-bd9c-4158-849c-202dc48322b0,hotel.recipes,available,11.99,,high,medium,5,name.com,,,
 d1fc7d0e-f392-4718-9d0e-882adaf1845a,hospitality.rsvp,premium,61.27,61.27,high,low,11,spaceship,,,28/09/2026 04:30
 2fc1a336-2f40-4eb4-ac65-9a8d2dbea0e3,hospitality.network,premium,200.5,,high,low,11,unstoppable,,,28/09/2026 04:30
-aaaabd7e-2690-422e-b5b5-9f330ddb9697,hotel.xyz,available,,,high,medium,5,,,,
 1f4a9f22-6940-4309-be42-898f6625452d,hospitality.red,available,11,,high,low,11,unstoppable,,,28/09/2026 04:30
 4ff03e35-a390-44f6-9560-3cb838832428,hospitality.melbourne,premium,420.4,420.4,high,low,11,porkbun,,,28/09/2026 04:30
-5c386119-cc29-4241-ada0-16d25b0b69cc,hotel.club,resell,,,high,medium,5,"GoDaddy.com, LLC",19/07/2019 22:26,19/07/2027 22:26,26/09/2026 06:44
 0a083d52-b4ec-428e-bd07-bcaa118e6c6b,hotel.melbourne,premium,8633.82,8633.82,high,medium,5,namecheap,,,
 3410125e-9508-4071-b07c-93d44549ccd7,hospitality.vet,available,41.99,41.99,high,low,11,namesilo,,,28/09/2026 04:30
-5e081d73-c74b-45bf-bacf-981a61661ea3,hotel.yachts,premium,845,845,high,medium,5,namecheap,,,
-fc60db7a-7bf8-4cbc-b512-464f52e9102d,hotel.vin,premium,520,520,high,medium,5,namecheap,,,
 034c8a1c-892d-48de-a437-9b75de09b192,hospitality.photo,available,29.99,29.99,high,low,11,namesilo,,,28/09/2026 04:30
-f24f8d64-974e-4878-95f1-42cc0ba7dea1,hotel.spot,premium,650,650,high,medium,5,namecheap,,,
-c9bba91f-5fd1-40b9-ad40-e3eb59fc9572,hotel.horse,premium,260,31.2,high,medium,5,namecheap,,,
-49302bfd-969f-4901-a91f-c8c22352f1ab,hotel.florist,available,14.99,,high,medium,5,name.com,,,
 17f22709-31b6-4562-aa64-7e15af46f190,hospitality.family,premium,33.05,66.02,high,low,11,porkbun,,,28/09/2026 04:30
 9d27d638-c4eb-49bf-b441-310b6e212c4b,hospitality.pw,premium,517.5,517.5,high,low,11,spaceship,,,28/09/2026 04:30
+32035ccc-a2b0-442d-83fa-7727ecb8e67b,hospitality.flights,available,45.2,45.2,high,low,11,cloudflare,,,28/09/2026 04:30
 5166332f-c08d-40fc-a36a-67d6c49770f1,hospitality.surf,available,2.19,32.49,high,low,11,namesilo,,,28/09/2026 04:30
 a495feb0-383d-456a-80b5-9617d381362e,hospitality.vodka,available,32.49,32.49,high,low,11,namesilo,,,28/09/2026 04:30
 007e2664-c71e-4077-b7fa-d95f491f0872,hospitality.golf,resell,,,high,low,11,,,,28/09/2026 04:30
 f004e5ed-6e37-44a3-8793-ca40be20c31d,hospitality.berlin,available,54.85,54.85,high,low,11,dynadot,,,28/09/2026 04:30
 69a12d7e-9807-4176-bd84-1f653b9619ca,hospitality.deal,available,38.99,38.99,high,low,11,namesilo,,,28/09/2026 04:30
-446ef711-a531-43ad-8448-e80b1ee46bf2,hotel.meme,premium,1690,1690,high,medium,5,namecheap,,,
-c9218ebc-7443-44d3-96bd-f49cfce4ff4f,hotel.ceo,premium,258.7,258.7,high,medium,5,namecheap,,,
 1ffdb190-c660-4fe0-b41b-60f26610f2fd,hospitality.country,available,2298,2450,high,low,11,namecheap,,,28/09/2026 04:30
 c403026a-fc77-4d5e-9107-cd395ff82e7e,hospitality.productions,available,5.89,32.29,high,low,11,spaceship,,,28/09/2026 04:30
 a8e5d49d-7898-4907-ab0b-623d6c37ca88,hospitality.bingo,available,41.2,41.2,high,low,11,cloudflare,,,28/09/2026 04:30
-d3781852-4ebb-490e-b48a-79df7c52817e,hotel.luxe,resell,,,high,medium,5,"GoDaddy.com, LLC",23/01/2021 00:05,23/01/2027 00:05,26/09/2026 06:44
 b3ca483f-83cb-4777-84d8-40a51e9db3b9,hospitality.car,available,1863.2,2064.2,high,low,11,spaceship,,,28/09/2026 04:30
-0631b3ee-0090-48de-97c1-6ad448b0bfac,hotel.shopping,premium,520,520,high,medium,5,namecheap,,,
 2c17d801-9a03-4641-a4f3-e7e54b1586a5,hospitality.review,premium,1107,116,high,low,11,namesilo,,,28/09/2026 04:30
-a66cc67a-f6fd-4b14-bd3d-a806c6f8620d,hotel.ing,premium,1690,1690,high,medium,5,namecheap,,,
 5ef61a20-aa59-4e05-9c50-ada1620ade5a,hospitality.doctor,available,14.49,116.99,high,low,11,namesilo,,,28/09/2026 04:30
-302f5099-8f19-44fc-93cf-b2ca0165499d,hotel.page,premium,1298.7,1298.7,high,medium,5,namecheap,,,
-84664dfd-9d4e-4092-949d-1d0f9185162e,hotel.science,premium,650,84.5,high,medium,5,namecheap,,,
 92d53d48-eded-475c-a744-17df460dab87,hospitality.party,premium,1107,116,high,low,11,namesilo,,,28/09/2026 04:30
 0e36074a-d30e-4ff3-a971-a6ef60bbd942,hospitality.fashion,available,25.2,25.2,high,low,11,cloudflare,,,28/09/2026 04:30
 d71ccd32-5fbb-4f9e-93ec-00dc4d1881cc,hospitality.life,resell,,,high,low,11,,,,28/09/2026 04:30
@@ -252,148 +127,85 @@ d6a38675-ece7-4eb3-b292-7ceb9fc14ff1,hospitality.online,premium,6900,6900,high,l
 2c8fca16-44b2-4427-af6d-2b48156d9aa7,hotel.holiday,resell,,,high,medium,5,Edomains LLC,26/11/2019 23:50,26/11/2026 23:50,26/09/2026 06:44
 2b990e3a-3b2f-4156-aece-face57b838e7,hospitality.graphics,available,22.98,31.98,high,low,11,namecheap,,,28/09/2026 04:30
 7a006525-d498-4f76-9a9b-57ab67052ec5,hospitality.villas,available,47.81,47.81,high,low,11,spaceship,,,28/09/2026 04:30
-80162a1b-84fc-4b7f-bc18-427c89f4ff6a,hotel.properties,premium,1040,1040,high,medium,5,namecheap,,,
 b381ff02-a390-4076-9fad-330bcb9fc95a,hospitality.team,resell,,,high,low,11,,,,28/09/2026 04:30
 9d2c073f-e7e8-47bd-af86-1a52c91f34fe,hospitality.management,resell,,,high,low,11,,,,28/09/2026 04:30
-3956622f-497a-4534-9639-e71d4cce0535,hotel.actor,available,54.98,,high,medium,5,namecheap,,,
 b0a3d5f3-34b4-47f7-8682-29e8100b86a0,hospitality.marketing,resell,,,high,low,11,,,,28/09/2026 04:30
 45fbf4f0-ff89-40cf-b357-3e84c6a8bceb,hotel.catering,premium,260,260,high,medium,5,namecheap,,,
-0a1ebe71-fa7f-4b75-9af3-db50f24f2cc5,hotel.guitars,available,104.99,114.99,high,medium,5,namesilo,,,
-5e2c9e40-57a4-43ad-8b0a-7e172dcf047a,hotel.energy,resell,,,high,medium,5,"Sav.com, LLC - 47",28/12/2025 15:15,28/12/2026 15:15,26/09/2026 06:44
 5f04491b-6281-409a-810e-98a97a1dd633,hospitality.attorney,premium,1035.2,1035.2,high,low,11,spaceship,,,28/09/2026 04:30
-e46c0d8e-3a3d-4cdd-8676-03330b248382,hotel.online,premium,7812.5,31250,high,medium,5,name.com,,,
-7bd2beb0-ff71-40ff-bf3b-d6c711b01614,hotel.foo,premium,1298.7,1298.7,high,medium,5,namecheap,,,
-68edb867-1714-494a-930e-ef3acb6b6c48,hotel.shiksha,available,19.99,,high,medium,5,name.com,,,
-fd735d69-b90c-49e8-bd4e-17d19889a8db,hotel.rent,premium,650,650,high,medium,5,namecheap,,,
-74e8edde-a48a-496f-825a-b86deb2cb184,hotel.game,premium,1690,1690,high,medium,5,namecheap,,,
 fadb017d-1923-4eab-b2c8-df6008def1d8,hospitality.dealer,premium,1604.45,2070.2,high,low,11,spaceship,,,28/09/2026 04:30
-d6b32954-c32e-4570-b337-ffcaa5e1c439,hotel.video,premium,260,260,high,medium,5,namecheap,,,
-d5b41202-68d3-446b-9fde-fd623def81e3,hotel.tattoo,available,34.99,34.99,high,medium,5,namesilo,,,
-0847aef6-172f-4c55-83b8-bee7b6b16b88,hotel.foundation,premium,128.7,128.7,high,medium,5,namecheap,,,
-f49f2572-2c97-4b43-839f-ae7aefe3edad,hotel.network,premium,520,520,high,medium,5,namecheap,,,
 75ffae88-2c33-4926-ba3d-968d27c976a3,hospitality.salon,available,45.74,45.74,high,low,11,spaceship,,,28/09/2026 04:30
-8aa16074-e714-4ea1-a86b-01129a1452e5,hotel.gay,available,,,high,medium,5,,,,
-f5d038a4-cfd4-4dc9-b887-b7916e39aad6,hotel.dentist,premium,260,260,high,medium,5,namecheap,,,
-a3b2c566-7aec-4a67-9f61-f534f8895c73,hotel.wtf,resell,,,high,medium,5,"Spaceship, Inc.",26/09/2023 03:33,26/09/2027 03:33,26/09/2026 06:44
-92adf401-13e0-4fa4-aa99-2013b4fb08c9,hotel.archi,premium,650,650,high,medium,5,namecheap,,,
 aab5a475-e90b-4592-9c0a-b3163e55279b,hospitality.parts,available,9.52,33.32,high,low,11,spaceship,,,28/09/2026 04:30
-15c44dd8-7ecf-49bb-be0b-e9a401de1c43,hotel.giving,available,5.99,,high,medium,5,name.com,,,
 0026ba15-65d3-4552-b4fa-8ab0624f45ec,hospitality.movie,available,40.98,446.98,high,low,11,namecheap,,,28/09/2026 04:30
 34d2c06c-a64a-4b8d-b9d4-1813f1f86ce9,hospitality.win,premium,448,53.92,high,low,11,namesilo,,,28/09/2026 04:30
-46a42956-f968-408a-9b92-ab9177bdeee8,hotel.codes,premium,85.8,85.8,high,medium,5,namecheap,,,25/09/2026 10:56
-9b1f0f79-b989-4686-9f12-bc4f5d55eebd,hotel.construction,premium,128.7,128.7,high,medium,5,namecheap,,,
 fcf3e9d9-2ee9-4034-9faf-b0112c431fcb,hospitality.wtf,resell,,,high,low,11,,,,28/09/2026 04:30
 597fbd19-5fe2-4c9c-b40b-83eaa810673d,hospitality.autos,available,1.99,17.29,high,low,11,namesilo,,,28/09/2026 04:30
-52dbbec0-cddc-4cd8-9d39-1c6064c6ea27,hotel.moi,premium,3125,,high,medium,5,name.com,,,
-b65ba411-bd2c-42cb-845b-675cf8dbe4b9,hotel.discount,premium,1040,1040,high,medium,5,namecheap,,,
 c65417c7-0e51-40b5-a0ef-88dbb408aa4b,hospitality.football,available,20.2,20.2,high,low,11,cloudflare,,,28/09/2026 04:30
-7847e555-3cf2-46c8-9968-0e85ff02771d,hotel.kaufen,premium,128.7,128.7,high,medium,5,namecheap,,,
 7b7df8cd-14ba-4134-9de0-e06689aca7fd,hospitality.coupons,available,5.99,54.99,high,low,11,namesilo,,,28/09/2026 04:30
 b8896d99-1507-439f-ae3c-4b7ef8623bb4,hospitality.memorial,available,40.2,40.2,high,low,11,cloudflare,,,28/09/2026 04:30
-3ef3ea1b-2428-412d-adbc-f76f3641d9d0,hotel.ngo,available,16.99,,high,medium,5,name.com,,,
-acdb7e3f-3cdf-425f-98d1-5ed722340be1,hotel.clothing,available,19.99,,high,medium,5,name.com,,,
 8f92f6c0-8750-49e1-b457-da4093143194,hospitality.boo,premium,61.27,61.27,high,low,11,spaceship,,,28/09/2026 04:30
 3a599a4c-00a8-4206-9662-9cef8c03bfe0,hotel.rentals,premium,260,260,high,medium,5,namecheap,,,
-a7583112-efaa-4a11-a3ca-c5dfbba03917,hotel.ltda,premium,56.64,33.04,high,medium,5,namesilo,,,25/09/2026 10:57
 6528618d-cdbd-4d68-a35e-0ad778a72527,hospitality.club,resell,,,high,low,11,,,,28/09/2026 04:30
 e14636db-c3a4-4d55-ae94-9853b9101cbd,hospitality.delivery,available,2.27,49.88,high,low,11,spaceship,,,28/09/2026 04:30
 0f3daf9e-bdb7-4432-b993-53dcd1b91c96,hotel.town,premium,85.8,85.8,high,medium,5,namecheap,,,
 9da20faa-85a3-4b27-9189-d749a781b384,hospitality.voting,available,1398,1448,high,low,11,namecheap,,,28/09/2026 04:30
 88b0101e-86f5-415d-9c8e-c20769c08231,hospitality.engineering,available,16,,high,low,11,unstoppable,,,28/09/2026 04:30
 1ec780da-b88e-4573-b834-58064cb24d58,hospitality.bar,premium,819,1170,high,low,11,namecheap,,,28/09/2026 04:30
-dcc6611c-78fd-4c5e-9f03-1e4b1345a2d9,hotel.protection,available,1999.99,2049.99,high,medium,5,namesilo,,,
 496674c9-9224-49f0-9446-ba616e173b75,hospitality.forex,available,80.2,80.2,high,low,11,cloudflare,,,28/09/2026 04:30
 59417f5c-9504-4fb9-9c88-db08fc5e120a,hospitality.contractors,available,35.49,35.49,high,low,11,namesilo,,,28/09/2026 04:30
 85618719-d0d7-45bb-b72d-72b1feaf099b,hospitality.motorcycles,available,1.24,13.97,high,low,11,spaceship,,,28/09/2026 04:30
 031fde86-5e7b-4cb7-beb6-9849fd3b0c03,hotel.vegas,available,,,high,medium,5,,,,
-197792a6-777d-4a89-b644-210d8eef7595,hotel.casino,available,,,high,medium,5,,,,
 60c54e74-e30f-4e60-8762-08475f7fbab5,hospitality.observer,premium,29.5,29.5,high,low,11,namesilo,,,28/09/2026 04:30
 869c5d28-17b6-4baa-a458-d82bbc26db11,hospitality.webcam,available,10.53,10.53,high,low,11,spaceship,,,28/09/2026 04:30
 aae0d734-01a4-487d-bb67-09d1858ea88f,hospitality.tube,premium,2600,26,high,low,11,namecheap,,,28/09/2026 04:30
 21791983-ca3a-4bc2-9a44-6e576b2bedc6,hospitality.ngo,available,16.72,16.72,high,low,11,dynadot,,,28/09/2026 04:30
-d47c35c1-a871-49dc-b488-5afbb7ee9ba3,hotel.graphics,available,23.99,23.99,high,medium,5,namesilo,,,
 87185bc2-c9de-4fa3-b6a7-51ba30b0baae,hospitality.claims,available,11.98,82.98,high,low,11,namecheap,,,28/09/2026 04:30
 7adb8932-8650-4d9d-8944-d43ebd8ef342,hospitality.jewelry,available,51.95,51.95,high,low,11,spaceship,,,28/09/2026 04:30
 6560256d-01ac-40a7-8fb5-dd3ab34be483,hospitality.camp,available,49.88,49.88,high,low,11,spaceship,,,28/09/2026 04:30
-1e9bc846-4404-4d32-aefd-baba10a327a9,hotel.engineering,premium,260,260,high,medium,5,namecheap,,,
 907b49cb-249f-4f34-9439-3c56af52bf11,hospitality.fast,premium,53.92,53.92,high,low,11,namesilo,,,28/09/2026 04:30
 ed4e5f4c-2641-422d-b81c-47af25bca562,hospitality.sarl,available,6.99,6.99,high,low,11,namesilo,,,28/09/2026 04:30
 cee3be0d-465b-48af-b989-734b4bcd7bca,hospitality.gay,premium,53.92,53.92,high,low,11,namesilo,,,28/09/2026 04:30
-ba20f6ee-86d7-4b43-a447-15ac161b6058,hotel.cool,resell,,,high,medium,5,UM DOMAINS PTE. LTD,14/02/2026 15:15,14/02/2027 15:15,26/09/2026 06:44
-4326e05f-021d-4897-aa88-e4ed2e6e1682,hotel.tienda,available,9.99,,high,medium,5,name.com,,,
-697b32dd-a94b-4f6d-ba05-90ad8d21e176,hotel.watch,premium,520,520,high,medium,5,namecheap,,,
 c2e51966-6e62-42bd-bd57-22214cda18a6,hospitality.university,resell,,,high,low,11,,,,28/09/2026 04:30
 f3817566-df5c-4e45-b304-7c45577bd273,hospitality.gold,resell,,,high,low,11,,,,28/09/2026 04:30
-ecde3790-2819-4119-9063-99fac8d5cc15,hotel.build,premium,650,650,high,medium,5,namecheap,,,
 721556d4-96f9-4e75-8872-7044577ed1c7,hotel.pw,premium,3250,3250,high,medium,5,namecheap,,,
 9b09706c-98a4-42fb-a583-50cce41d4b8b,hospitality.lawyer,premium,1107,1107,high,low,11,namesilo,,,28/09/2026 04:30
-756013e0-17c6-4371-bdd1-54dd473ea16a,hotel.study,premium,650,650,high,medium,5,namecheap,,,
 98b86448-3125-4552-97f8-e4c0e04ae731,hospitality.rodeo,premium,,,high,low,11,,,,28/09/2026 04:30
 257b23b1-f170-42d2-a2bf-5abfb17d8db8,hospitality.furniture,available,27.99,94.99,high,low,11,namesilo,,,28/09/2026 04:30
-fc109a61-bee7-4130-a78f-8d4af70ab078,hotel.llc,premium,650,650,high,medium,5,namecheap,,,
-217ecf4c-79a5-4e88-b11f-63bc6e88273e,hotel.stream,available,,,high,medium,5,,,,
-b3240f66-6871-473d-9fdf-9873b338e819,hotel.red,resell,,,high,medium,5,"Sav.com, LLC - 19",08/07/2024 15:15,08/07/2027 15:15,26/09/2026 06:44
-db30b854-a476-4339-bfae-52e2ed73ec72,hotel.solutions,available,,,high,medium,5,,,,
+015558ce-6587-4e7b-9a9c-91737c292dc2,hospitality.miami,premium,4140.2,18.83,high,low,11,spaceship,,,28/09/2026 04:30
 2af66004-4eed-42bd-803f-4d9e0eb7aebc,hospitality.help,resell,,,high,low,11,,,,28/09/2026 04:30
 e082e722-71ab-4ac9-b7b2-6eaf761247bb,hospitality.loans,available,15.73,93.35,high,low,11,spaceship,,,28/09/2026 04:30
 d1c5594d-70c5-4504-bf33-b345b62a6350,hospitality.vip,resell,,,high,low,11,,,,28/09/2026 04:30
 5ecf5a8d-b286-4aed-a0b5-1e1fde6803f2,hospitality.pics,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 04:30
-e253c353-8da7-40b5-a579-4c5470f15dcf,hotel.diet,available,104.99,114.99,high,medium,5,namesilo,,,
 fa393ce3-f334-4181-879c-6ae542409dbc,hospitality.how,premium,,,high,low,11,,,,28/09/2026 04:30
 36c68d15-870f-42de-8afd-4882c0d7684f,hospitality.shoes,available,64.99,64.99,high,low,11,namesilo,,,28/09/2026 04:30
+3a0cc5e3-853d-4187-b57f-74bdc9012936,hospitality.de,resell,,,high,low,11,,,,28/09/2026 04:30
 f528fb3c-72c3-4aea-ba50-0099045bea20,hospitality.irish,available,7,,high,low,11,unstoppable,,,28/09/2026 04:30
-07f06502-f06a-46d3-8134-4f258096abb6,hotel.equipment,premium,520,520,high,medium,5,namecheap,,,
 13773f2d-c583-42ee-8f3a-0ff261b5c9a8,hospitality.blackfriday,available,114.99,114.99,high,low,11,namesilo,,,28/09/2026 04:30
 360155dd-ad65-4f69-afb3-dfdf8268feb0,hospitality.nexus,premium,,,high,low,11,,,,28/09/2026 04:30
 12a1178e-67e3-45c4-9b3e-3ec17b427adb,hospitality.army,available,15.73,31.25,high,low,11,spaceship,,,28/09/2026 04:30
 061a9fcb-6c9b-4282-bf88-dd3432da7f82,hospitality.business,premium,118.8,118.8,high,low,11,namesilo,,,28/09/2026 04:30
-2ee735a3-d1c3-4e9d-ba71-e3d8362b639b,inn.reise,available,27.89,97.99,high,low,3,namesilo,,,21/09/2026 02:28
-98d8b710-995e-48d3-96d8-f5eac4439f80,hotel.wiki,premium,1722.5,1722.5,high,medium,5,namecheap,,,
+351a4671-ae40-475c-8607-dddab0f850fe,hospitality.cv,available,9.99,9.99,high,low,11,namesilo,,,28/09/2026 04:30
 f21b6654-e0cc-4d1b-89f0-9591941c2db0,hospitality.farm,available,4.34,31.25,high,low,11,spaceship,,,28/09/2026 04:30
 cbf338fd-b035-4dc0-80f9-e92fbcea91f2,hospitality.broker,available,11.98,47.98,high,low,11,namecheap,,,28/09/2026 04:30
-88f1ddbc-4f83-4585-b767-7a0d6bca4238,hotel.dating,premium,85.8,85.8,high,medium,5,namecheap,,,
-0020c40c-5aa4-405c-acb4-6986abbd96a5,hotel.agency,resell,,,high,medium,5,"Spaceship, Inc.",21/09/2023 15:15,21/09/2027 15:15,26/09/2026 06:44
-97769571-4d9b-4e93-bd7d-c647f35337f5,hotel.software,premium,3250,3250,high,medium,5,namecheap,,,
-b1155a45-4c1c-4226-9871-872d23bd43b0,hotel.domains,premium,260,260,high,medium,5,namecheap,,,
-451cef07-6259-4572-b438-0e7cdb571ca0,hotel.hiphop,available,,,high,medium,5,,,,
-6ab99c72-5408-4d31-ba64-e431ce85adf3,hotel.jetzt,premium,128.7,128.7,high,medium,5,namecheap,,,
-c3d609f1-1836-4398-988c-4f0c8c8c44ca,hotel.free,premium,650,650,high,medium,5,namecheap,,,
-ab23e0e5-a5dc-4cfb-badf-95ccb6ab2ce4,hotel.luxury,available,,,high,medium,5,,,,
-040b57fd-f14e-4885-b622-d22560eab20d,hotel.storage,available,509.99,529.99,high,medium,5,namesilo,,,
-061c342a-9b25-4733-b619-c5ea92c19cb5,hotel.beauty,premium,845,845,high,medium,5,namecheap,,,
 4a7947e7-8c2c-4c7d-bea4-86c346a518a2,hotel.site,premium,3125,12500,high,medium,5,name.com,,,
-59732175-ac40-447f-8d7e-0253d27c9905,hotel.art,available,,,high,medium,5,,,,
 9c138fe2-281b-4db9-9060-c8d3fbbb69a4,hospitality.recipes,available,8.5,,high,low,11,unstoppable,,,28/09/2026 04:30
 df1c37ab-23b1-4f61-84b4-22b67e1f750c,hospitality.properties,premium,128.7,128.7,high,low,11,namecheap,,,28/09/2026 04:30
 70c73373-0dba-4810-ba2e-18ab372e0205,hospitality.dating,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 04:30
-3c976ca3-e5ad-476b-a017-392ea091510a,hotel.movie,available,69.99,,high,medium,5,name.com,,,
 f996eb63-41f6-44a4-ac70-c08ccdd87cd8,hospitality.talk,premium,62.3,62.3,high,low,11,spaceship,,,28/09/2026 04:30
-710f1539-0686-4e60-97d1-6424a895fa05,hotel.rehab,premium,1300,1300,high,medium,5,namecheap,,,
+2bf41ce8-0e6d-4089-912c-21f249f2bc2b,hospitality.city,premium,23.6,23.6,high,low,11,namesilo,,,28/09/2026 04:30
 db0775ff-62eb-4dcd-ad8d-cf46585f391f,hospitality.actor,available,16,,high,low,11,unstoppable,,,28/09/2026 04:30
-3b64ed86-f74d-49d6-9df6-8f2d19dbcff1,hotel.partners,premium,128.7,128.7,high,medium,5,namecheap,,,
-fe510fca-16ae-4839-926d-afa785372291,hotel.flowers,available,64.99,114.99,high,medium,5,namesilo,,,
-cedd3004-7c94-4b01-bfbb-e98075520e26,hotel.press,premium,975,1950,high,medium,5,namecheap,,,
 57215b37-f802-4981-b262-23de01cdf257,hospitality.solutions,premium,102.67,102.67,high,low,11,spaceship,,,28/09/2026 04:30
 726aa13e-e1ac-43a8-a3b1-353689854818,hotel.services,resell,,,high,medium,5,"Name.com, Inc.",09/06/2023 15:45,09/06/2027 15:45,26/09/2026 06:44
 e1da3ae6-cfc1-4a09-a6a1-e5c7ddd9243d,hotel.consulting,premium,1040,1040,high,medium,5,namecheap,,,
+13115bc2-840f-4885-bf3f-4ca3d17a0b01,hospitality.maison,available,57.99,57.99,high,low,11,namesilo,,,28/09/2026 04:30
 89b6fb47-5f8d-48d4-a69c-6a802f5e3a37,hospitality.study,premium,55.11,55.11,high,low,11,porkbun,,,28/09/2026 04:30
-13838203-235d-4379-b406-29fb9db2b146,hotel.accountant,premium,650,84.5,high,medium,5,namecheap,,,
-dc17b246-86bd-40dc-a182-39de5d81d76a,hotel.accountants,available,43.99,,high,medium,5,name.com,,,
 8a827043-45d7-4d49-993a-2f50f21d78c0,hospitality.dentist,available,50.2,50.2,high,low,11,cloudflare,,,28/09/2026 04:30
 5eda278d-8031-4155-9e9a-4d3961e7439a,hotel.fast,premium,1300,1300,high,medium,5,namecheap,,,
 0ee5c9a3-1cd6-42cb-8709-323982091608,hospitality.site,premium,1107,1107,high,low,11,namesilo,,,28/09/2026 04:30
 5b4bd9b9-4219-4124-b9b3-5f882dc7dbe4,hotel.im,available,,,high,medium,5,,,,
 0dfd89f6-5cf6-43a9-a161-85bc938c19a3,hospitality.airforce,available,80.2,80.2,high,low,11,cloudflare,,,28/09/2026 04:30
-ff7376a7-e493-468f-8e1c-34d9effeb8cf,hotel.ventures,resell,,,high,medium,5,"Sav.com, LLC - 36",14/04/2026 15:15,14/04/2027 15:15,26/09/2026 06:44
-7c6cf022-7b58-4aec-9576-64321e93d04b,travel.reise,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-ebdec044-df91-4055-ae55-1afcef58d339,hotel.sucks,premium,20475,20475,high,medium,5,namecheap,,,
-c5858a77-984c-47bc-b9e8-c087b9b4e513,hotel.prof,premium,1688.7,1688.7,high,medium,5,namecheap,,,
 211063d0-22a1-43a4-87bb-834339b673ef,hospitality.tennis,available,67.98,81.98,high,low,11,namecheap,,,28/09/2026 04:30
-e3c6ed2f-720f-41e7-a4f4-67e3643d25b4,hotel.yoga,resell,,,high,medium,5,"GoDaddy.com, LLC",26/08/2020 19:11,26/08/2027 19:11,26/09/2026 06:44
 35d40beb-9f0e-4375-997e-b9812c8d6963,hospitality.plumbing,available,76.98,89.98,high,low,11,namecheap,,,28/09/2026 04:30
 44faeace-0fb8-4693-82c7-ff5c83b19436,hospitality.moe,available,14.98,17.88,high,low,11,namecheap,,,28/09/2026 04:30
-5d7b8879-78e5-4f91-895c-2590091f225e,hotel.glass,premium,128.7,128.7,high,medium,5,namecheap,,,
-bd9db81b-44f7-40f3-981f-8d93c8bce5a2,resort.vacations,premium,854,854,high,low,6,namesilo,,,
 36a827f2-f751-4778-bafd-d763ac26cac7,hotel.asia,available,,,high,medium,5,,,,
 723f4d04-87d5-4fd0-87e2-5875d4025b6c,hospitality.fish,available,36.43,36.43,high,low,11,spaceship,,,28/09/2026 04:30
 db4ccb8b-89a8-4c53-8a84-e27242b84455,hotel.quest,premium,845,845,high,medium,5,namecheap,,,
@@ -403,7 +215,7 @@ db4ccb8b-89a8-4c53-8a84-e27242b84455,hotel.quest,premium,845,845,high,medium,5,n
 9a567685-c52e-458c-b17a-5aa527973fe5,hotel.juegos,available,478.98,,high,medium,5,namecheap,,,
 c44d97ba-7c91-43f4-b32a-12cbc6f2b208,hotel.car,available,1999.99,2199,high,medium,5,namesilo,,,
 08b93fd7-a60d-4482-ad31-b9dcaab29b94,hospitality.llc,premium,,,high,low,11,,,,28/09/2026 04:30
-9186d8c4-c03a-450a-b78f-1a90f3fd6460,hotel.fund,premium,78.54,78.54,high,medium,5,namesilo,,,25/09/2026 10:56
+ce40e86c-28e9-459a-85d2-422827e84791,hospitality.ryukyu,available,17.98,22.98,high,low,11,namecheap,,,28/09/2026 04:30
 c8346051-174d-4903-b41e-098155fa35f5,hospitality.dance,available,16,,high,low,11,unstoppable,,,28/09/2026 04:30
 1233f6b6-4d6a-4251-8794-915f08897bcb,hospitality.kitchen,available,7.96,51.95,high,low,11,spaceship,,,28/09/2026 04:30
 1d96dd6b-703d-43a9-bc38-7498ecd594fa,hospitality.kim,available,12.99,23.49,high,low,11,namesilo,,,28/09/2026 04:30
@@ -415,14 +227,13 @@ c5ed296e-3ba2-4936-bc4f-d8c972cdced6,hospitality.cam,available,2.98,22.98,high,l
 8cb6e0d0-5f28-48ae-b545-a0a5df15c8a5,hospitality.exposed,available,17.8,17.8,high,low,11,spaceship,,,28/09/2026 04:30
 b07f807a-4da2-4dfe-b4a5-6e98ce3f5d27,hospitality.bargains,available,17.99,26.49,high,low,11,namesilo,,,28/09/2026 04:30
 6af7c1a8-11c1-4e5e-bed7-6e97b546d35f,hospitality.diamonds,available,43.67,43.67,high,low,11,spaceship,,,28/09/2026 04:30
+9e833f9b-6eca-4ad4-adbf-961d8054818d,hospitality.so,available,,,high,high,11,,,,
 4a01ee6a-faf5-4189-8941-aa1b9416e56c,hotel.ong,available,16.99,,high,medium,5,name.com,,,
 02029d0f-aaef-40c1-ba4c-1609bcd8e3c7,hospitality.gives,available,6.41,22.39,high,low,11,spaceship,,,28/09/2026 04:30
 ac04462e-e9de-4ea8-9ec8-43293470d468,hospitality.christmas,available,1.8,49.98,high,low,11,namecheap,,,28/09/2026 04:30
 ed5917da-89bf-4251-aa93-422927c2942c,hospitality.camera,available,58.99,58.99,high,low,11,namesilo,,,28/09/2026 04:30
-33be5aed-a51b-4fae-8546-514d1b139cb1,inn.melbourne,available,58,58,high,low,3,namesilo,,,21/09/2026 02:28
 969c8b14-947d-4e18-a2dc-5f90a8eca07b,hotel.paris,available,51.98,,high,medium,5,namecheap,,,
 5611aef2-7464-46f2-862d-3315cd1e8a61,hotel.lawyer,premium,1300,1300,high,medium,5,namecheap,,,
-71a8d46a-4334-4a9e-b3bc-7908d2b731f5,inn.barcelona,available,39.99,42.99,high,low,3,name.com,,,21/09/2026 02:28
 16b49d92-9958-470d-b63a-b44babbc5515,hospitality.cleaning,available,75.49,75.49,high,low,11,namesilo,,,28/09/2026 04:30
 4b4e9c76-7517-4347-9372-6a9fe25eece3,hotel.industries,premium,260,260,high,medium,5,namecheap,,,
 54dbdbd9-2c9a-45bb-90cc-29ca9ee23626,hospitality.college,premium,650,650,high,low,11,namecheap,,,28/09/2026 04:30
@@ -438,23 +249,21 @@ d93f2328-497e-4959-a807-008fcfe5a0f7,hotel.tennis,available,65.99,65.99,high,med
 2a37b2d1-e00d-45aa-bac2-eb047de6aa3b,hotel.haus,premium,1040,1040,high,medium,5,namecheap,,,
 53882c63-9402-49a2-a47b-8981f2b2bc54,hospitality.charity,available,21.7,21.7,high,low,11,cloudflare,,,28/09/2026 04:30
 5e554c9a-e289-4737-87d7-db84f5876ece,hospitality.flowers,available,100,100,high,low,11,cloudflare,,,28/09/2026 04:30
-f8b5af38-2b37-4aa2-83b3-fb0a23dca576,inn.condos,premium,242,242,high,low,3,namesilo,,,21/09/2026 02:28
 37df5dc9-b0ef-4042-a826-a1eb82fd55c8,hospitality.healthcare,premium,108.9,108.9,high,low,11,dynadot,,,28/09/2026 04:30
 7ae75af1-7b6f-4139-b588-a943a204814a,hospitality.black,available,27.99,64.99,high,low,11,namesilo,,,28/09/2026 04:30
-a32601ce-b887-45ee-8554-09cfd8779d61,inn.my,resell,,,high,low,3,"Dynadot, LLC",27/06/2024 07:33,27/06/2027 07:33,26/09/2026 06:52
 37ae5a17-1871-4761-a884-c8e3ebff654b,hospitality.horse,premium,96,29.5,high,low,11,namesilo,,,28/09/2026 04:30
 722c77e8-b620-4d71-84a7-141b6f0968c5,hospitality.porn,available,51.95,98.53,high,low,11,spaceship,,,28/09/2026 04:30
-05a9e8d4-e928-4522-b489-e60e103c777c,resort.voyage,available,9.99,,high,low,6,name.com,,,
 16ffe060-254b-4db1-9ef2-328b43707c22,hotel.menu,available,,,high,medium,5,,,,
 56e8c16e-2d81-4e3a-a9c1-b9c885fae185,hospitality.stream,premium,448,53.92,high,low,11,namesilo,,,28/09/2026 04:30
 214f9290-a674-450f-a894-76c4c123e207,hospitality.run,resell,,,high,low,11,,,,28/09/2026 04:30
-fb9c08b3-6ee7-4a1c-82c9-bb69affd0e9f,resort.reise,available,27.89,97.99,high,low,6,namesilo,,,
 4b917165-1195-49e6-bd5c-7b9ee31a103e,hospitality.yoga,available,26.97,26.97,high,low,11,dynadot,,,28/09/2026 04:30
 7ede0c63-fdf1-4c07-bdec-32734c6bceef,hotel.degree,premium,260,260,high,medium,5,namecheap,,,
+906f0598-61b7-4dae-af46-a2842c43403c,hospitality.house,resell,,,high,low,11,,,,28/09/2026 04:30
 9d38bcef-6240-4fed-920c-e741d649de8a,hotel.fans,premium,13249.82,,high,medium,5,TLD Registrar Solutions Ltd,29/08/2018 10:55,29/08/2026 23:59,
 e139a40d-1c84-4423-8f7d-e456700014dd,hospitality.fan,available,43.67,43.67,high,low,11,spaceship,,,28/09/2026 04:30
 dd497883-899e-466c-b276-be7cd7624fc4,hospitality.lgbt,available,14.99,79.99,high,low,11,namesilo,,,28/09/2026 04:30
 b1026442-d84d-43d4-8c60-d41851390c11,hospitality.guitars,available,107.22,107.22,high,low,11,dynadot,,,28/09/2026 04:30
+f0301c1e-dc25-420b-9199-9c8d8ecc48bd,hospitality.town,available,6.41,29.18,high,low,11,spaceship,,,28/09/2026 04:30
 2660ee5b-7a18-4762-a3b2-228acc89a8fa,hospitality.creditcard,available,129.2,129.2,high,low,11,spaceship,,,28/09/2026 04:30
 a8264a95-aa87-475f-9790-293789f0465b,hotel.pub,premium,520,520,high,medium,5,namecheap,,,
 3b3074a9-3a05-4135-9d18-08ce2f635a11,hotel.golf,premium,260,260,high,medium,5,namecheap,,,
@@ -462,15 +271,17 @@ eafb247f-b941-496f-a23a-c417e88f15c4,hotel.vet,premium,260,260,high,medium,5,nam
 6dd1f0f0-8126-45b7-a754-c9ec5c5828ce,hotel.phd,premium,1688.7,1688.7,high,medium,5,namecheap,,,
 c5c94423-37bf-4f98-a2d4-cee658a857f4,hotel.fashion,resell,,,high,medium,5,West263 International Limited,11/01/2026 13:12,11/01/2027 13:12,26/09/2026 06:44
 173d8810-a944-4c97-91b0-5fc23e4771c3,hotel.rich,available,94.99,1999,high,medium,5,namesilo,,,
+7b86a85e-74f2-4e46-b5d2-6e60924e9769,hospitality.ltda,premium,66.3,66.3,high,low,11,namecheap,,,28/09/2026 04:30
 23149643-5d88-4cae-8981-d24414a5d18a,hospitality.locker,premium,207.2,31.25,high,low,11,spaceship,,,28/09/2026 04:30
 49e81aa9-f520-4e59-8c71-2cd2f7a191de,hotel.diy,premium,325,650,high,medium,5,namecheap,,,
 7f72f61f-d327-4880-98ff-ac2849ea1778,hotel.date,premium,390,65,high,medium,5,namecheap,,,
 0eda890e-c6ff-43c6-8746-4b22593388a5,hospitality.democrat,available,5.38,26.08,high,low,11,spaceship,,,28/09/2026 04:30
 fb0b6215-dc41-4bdb-a697-82a6972470a1,hotel.gives,premium,85.8,85.8,high,medium,5,namecheap,,,
 f48e1300-af06-420f-a50e-2da56b52b53b,hospitality.press,premium,640,640,high,low,11,namesilo,,,28/09/2026 04:30
+47be8381-a6c5-455d-b549-6dccaf6d23aa,hospitality.realty,available,109.99,299,high,low,11,namesilo,,,28/09/2026 04:30
 3e49acfe-ab55-48cf-80e7-3f8e218fd203,hotel.cricket,available,23.59,23.59,high,medium,5,namesilo,,,
 bf3ea23b-2d78-414e-8b1f-04cffd8f833c,hospitality.toys,available,10.92,53.72,high,low,11,dynadot,,,28/09/2026 04:30
-efa2a1ed-65fd-40d7-ac07-a41b12483535,inn.catering,available,38.99,38.99,high,low,3,namesilo,,,21/09/2026 02:28
+bfaab79d-c454-42be-b278-d8f0dd8cccae,hospitality.industries,premium,54.36,108.6,high,low,11,porkbun,,,28/09/2026 04:30
 08248925-2aff-4e7e-8be8-4e06b4e1cefe,hospitality.schule,available,22.97,22.97,high,low,11,spaceship,,,28/09/2026 04:30
 5689f404-49af-4306-9c83-0667d6126ed7,hotel.fan,premium,260,260,high,medium,5,namecheap,,,25/09/2026 10:56
 8758b34d-7d7d-4910-99f3-ba96cd564c34,hotel.center,resell,,,high,medium,5,"Sav.com, LLC - 15",13/06/2025 15:15,13/06/2027 15:15,26/09/2026 06:44
@@ -482,14 +293,15 @@ aff6c808-2da4-4fb0-be48-5bae73b8072e,hospitality.tires,available,8.24,72.61,high
 1f421a20-ffe5-4ea0-b043-d1457ddeac86,hospitality.gifts,available,28.2,28.2,high,low,11,cloudflare,,,28/09/2026 04:30
 67df1991-9bb1-412d-8827-abe8a8be83be,hotel.support,resell,,,high,medium,5,"Key-Systems, LLC",26/03/2014 16:00,26/03/2027 16:00,26/09/2026 06:44
 f3e8fc2b-c614-4788-9251-66dd43c86d21,hospitality.racing,premium,116,116,high,low,11,namesilo,,,28/09/2026 04:30
-409b4874-03bb-4e8c-84e8-e56ffc886a25,inn.osaka,available,39.99,39.99,high,low,3,name.com,,,21/09/2026 02:28
 93d12edc-dc0d-48ba-b815-b8f365e25706,hospitality.tv,resell,,,high,low,11,,,,28/09/2026 04:30
 79eca098-34c7-4ba4-9257-0e0b19407346,hospitality.republican,available,25.2,25.2,high,low,11,cloudflare,,,28/09/2026 04:30
 113e0259-093c-4ffe-ad32-13a99ca6660d,hotel.management,available,,,high,medium,5,,,,
 8dee1f64-057a-4d28-a840-0f0e0930b755,hospitality.prof,premium,92.32,92.32,high,low,11,spaceship,,,28/09/2026 04:30
 5bbbaaa3-ef0e-4b76-b058-156618db65e5,hotel.guide,available,,,high,medium,5,,,,
 3d466805-c08c-43b6-af8b-bd5cc5e20269,inn.vacations,premium,242,242,high,low,3,namesilo,,,21/09/2026 02:28
+3e312edf-604b-4bb8-be2b-02e8dbc828a5,hospitality.beer,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 04:30
 101eef60-1147-4acb-bc07-3fb0c464a2a0,hospitality.casino,available,7.71,133.97,high,low,11,dynadot,,,28/09/2026 04:30
+8a9d9111-a560-45cb-9cd8-139cc8d09759,hospitality.srl,premium,50.6,28.04,high,low,11,dynadot,,,28/09/2026 04:30
 78ea6d98-bf31-4a33-9dd7-fb93e1f89ab1,hotel.cars,available,1999.99,2199,high,medium,5,namesilo,,,
 ab189622-bcf5-4817-8b9a-5bf1a787627d,hospitality.cheap,available,8.99,36.49,high,low,11,namesilo,,,28/09/2026 04:30
 e5f7ac39-6147-455a-ab9b-d88b1e9047c1,hotel.legal,available,9.99,,high,medium,5,name.com,,,
@@ -497,7 +309,6 @@ e5f7ac39-6147-455a-ab9b-d88b1e9047c1,hotel.legal,available,9.99,,high,medium,5,n
 f035e85c-dd56-4cd4-9a25-d3f623009d74,hotel.wedding,resell,,,high,medium,5,"GoDaddy.com, LLC",11/11/2020 15:43,11/11/2026 15:43,26/09/2026 06:44
 f2731423-3dbe-4efe-b0d3-7845b647271e,hospitality.fitness,available,2.79,33.32,high,low,11,spaceship,,,28/09/2026 04:30
 c9a7340a-a828-4293-b76a-2537a6ecee78,hotel.contractors,resell,,,high,medium,5,"Key-Systems, LLC",19/02/2014 16:12,19/02/2027 16:12,26/09/2026 06:44
-4e86692a-dcd6-41ba-b85c-fd53ba8df841,inn.taxi,available,10.99,62.99,high,low,3,namesilo,,,21/09/2026 02:28
 7483f8ad-17f1-4428-9d35-f057c1fe00cc,hospitality.fail,available,8.24,32.32,high,low,11,dynadot,,,28/09/2026 04:30
 3d6f418e-d799-4021-a4d2-037751d60421,hospitality.engineer,available,31.25,31.25,high,low,11,spaceship,,,28/09/2026 04:30
 598751aa-af28-407d-87e0-24baeaaf335d,hospitality.adult,available,51.95,98.53,high,low,11,spaceship,,,28/09/2026 04:30
@@ -506,496 +317,685 @@ faca3973-c6b1-4b7a-bf3d-ee2de98a8f4d,hotel.locker,premium,6500,58.5,high,medium,
 30aff6cd-3b47-47d4-87d5-d2367ced7d60,hotel.hair,premium,845,845,high,medium,5,namecheap,,,
 cd9010f4-23e3-4fbd-8e8e-06fb68b0e0eb,hotel.poker,premium,650,650,high,medium,5,namecheap,,,
 bc9c04ca-be2f-4350-9e29-d44a4c6e682c,hotel.gripe,premium,260,260,high,medium,5,namecheap,,,
-ef0ded24-11b1-459a-9ed6-c5d82a6fc818,room.reisen,available,16.99,16.99,high,low,4,porkbun,,,28/09/2026 06:11
-4a1852d9-7de0-4a2d-ada2-1caf1e58d370,inn.bar,premium,1152,1152,high,low,3,namesilo,,,21/09/2026 02:28
 90e4e3e1-241d-4ff7-b182-b60452b3c87f,hotel.you,premium,1300,1300,high,medium,5,namecheap,,,
-7b893696-7f1e-4c46-9144-4b22fdc5579f,lodging.space,premium,640,640,high,high,7,namesilo,,,27/09/2026 06:09
-b6ca43f8-9be5-4b39-bc5f-c70ff3a438f0,travel.restaurant,premium,118.8,118.8,high,medium,6,namesilo,,,24/09/2026 22:30
 a7e07251-44ad-4903-bb5c-9b77d2ed2fb4,hospitality.gratis,available,18.83,18.83,high,low,11,spaceship,,,28/09/2026 04:30
-1d7b3056-8eb5-4c44-9469-af4ddb667078,travel.london,premium,7307.54,31.25,high,medium,6,namesilo,,,24/09/2026 22:30
+bbd79a17-cdb0-4f2e-8a2b-8c1389ad4321,hospitality.services,resell,,,high,low,11,,,,28/09/2026 04:30
 bea6c96c-3de9-4b43-9f1d-4f24dde9fbfb,hotel.airforce,available,103.99,103.99,high,medium,5,namesilo,,,
 bc0cb7c0-f20d-487d-ba98-d9fbd9c849b3,hotel.observer,premium,1040,1040,high,medium,5,namecheap,,,
 a0b945d7-1768-42b2-b3ee-9afa47c79427,hospitality.accountant,premium,640,77.35,high,low,11,namesilo,,,28/09/2026 04:30
 14f8e7b5-d2aa-4c47-8cf5-92f04de6d137,hotel.organic,available,19.99,,high,medium,5,name.com,,,
-386c6388-338d-46b6-acbe-af4936841ae6,inn.vet,available,50.99,54.99,high,low,3,name.com,,,21/09/2026 02:28
 432b2cfe-0ea9-437f-8d0c-0d863fcc8fc5,hotel.fitness,premium,260,260,high,medium,5,namecheap,,,
-1c4cdc0c-db17-4ecb-9e8f-ad00e0065dc8,inn.cab,available,32.99,32.99,high,low,3,namesilo,,,21/09/2026 02:28
 0c2ecf2d-3725-4dc2-860e-a1897c641e62,hotel.esq,premium,1688.7,1688.7,high,medium,5,namecheap,,,
 b6886aad-9e94-4336-88d6-06bd73e1bfff,hotel.cooking,premium,104,31.2,high,medium,5,namecheap,,,
+d44b491b-4477-4f19-ad44-feee4400328d,hospitality.juegos,available,321.22,321.22,high,low,11,dynadot,,,28/09/2026 04:30
 a7c002a9-7d16-492f-a39e-4fdec8330a94,hotel.channel,premium,1248.75,,high,medium,5,name.com,,,
 ed259c6f-ca1b-4a88-b283-2693125b6fdc,hotel.jewelry,available,19.99,,high,medium,5,name.com,,,
+b515757b-00fc-446b-bd1c-9dae86aeaa1f,hospitality.moda,available,41.99,41.99,high,low,11,namesilo,,,28/09/2026 04:30
 2aef0dfc-d118-4555-a031-07b411d78b89,hospitality.film,available,65.99,65.99,high,low,11,namesilo,,,28/09/2026 04:30
+98b167cd-72aa-43ff-97de-aa711f4a24f4,hospitality.vin,available,8.99,59.99,high,low,11,namesilo,,,28/09/2026 04:30
+2a3b0a41-e220-43cd-a89f-cd05d9cde1a2,hospitality.you,premium,51.95,51.95,high,low,11,spaceship,,,28/09/2026 04:30
+489e5d42-6002-413f-80e9-40e43406d9f7,hospitality.download,premium,448,53.92,high,low,11,namesilo,,,28/09/2026 04:30
 0ca3e4c5-41b1-48b0-8e39-a7c7b164606c,hotel.run,resell,,,high,medium,5,"DNSPod, Inc.",18/01/2019 13:56,18/01/2027 13:56,26/09/2026 06:44
 56e0a3fb-241a-4555-9f97-24403dc8632f,hotel.uno,premium,6500,6500,high,medium,5,namecheap,,,
 75582849-5f47-42a4-b6e1-923e01318137,hotel.forsale,available,,,high,medium,5,,,,
-62625f21-843f-4e10-be6e-695da71a4352,travel.realty,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
 4e164f9e-fc4a-4e91-86df-275e71a1d368,hotel.hockey,available,14.99,,high,medium,5,name.com,,,
-abb2c364-154d-451d-aad6-cc638309faf5,inn.engineer,available,38.99,38.99,high,low,3,namesilo,,,21/09/2026 02:28
 cc726cfd-18a9-479f-aa91-35b7ab6dabb8,hotel.navy,available,41.99,41.99,high,medium,5,namesilo,,,
+30afeae2-7509-4e3d-a9af-3d59709d238d,hospitality.enterprises,available,11.49,35.99,high,low,11,namesilo,,,28/09/2026 04:30
+28f0d45c-4fda-4756-9e11-599dc2883945,hospitality.storage,available,538.98,858,high,low,11,namecheap,,,28/09/2026 04:30
 fc16b639-9f48-4a8e-81a7-509d391e7310,hotel.download,premium,1300,130,high,medium,5,namecheap,,,
-6d48d320-3635-45aa-b8bb-637857667f63,inn.meme,premium,195,195,high,low,3,namecheap,,,21/09/2026 02:28
-4eb6dd86-6ca2-4c7f-962f-9b2bef06a0ac,inn.tienda,available,59.99,59.99,high,low,3,namesilo,,,21/09/2026 02:28
-66da040a-19a3-4901-81a4-2cebec0a4371,travel.online,premium,34500,34500,high,medium,6,namesilo,,,24/09/2026 22:30
-0e241049-7e1b-415f-b165-52a885ca7e01,inn.shiksha,available,19.99,74.99,high,low,3,name.com,,,21/09/2026 02:28
-05f87371-6c46-4449-a1f8-cae2cceca94f,inn.soy,premium,107.9,107.9,high,low,3,namecheap,,,21/09/2026 02:28
+bddd68f0-62f6-452e-a222-20618c685341,hospitality.forsale,premium,102.67,102.67,high,low,11,spaceship,,,28/09/2026 04:30
+c6652555-7a3a-42ce-87aa-d4dfd08f83d8,hospitality.men,premium,362.45,51.95,high,low,11,spaceship,,,28/09/2026 04:30
+f19d2d83-8a08-4931-a931-d909d85fd0ad,hospitality.security,available,1999.99,2049.99,high,low,11,namesilo,,,28/09/2026 04:30
 03c63359-b5e8-43a1-9a33-0159bac1891c,hotel.condos,premium,520,520,high,medium,5,namecheap,,,
-6a168806-2dcf-448f-bc25-a35bb31e12b8,inn.blackfriday,premium,390,390,high,low,3,namecheap,,,21/09/2026 02:28
-11c33a0f-cb12-4e68-a3fc-e91153b00fb0,inn.poker,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
 d00ae7f2-8851-4a77-904a-8fd6f9aaa090,hotel.rip,resell,,,high,medium,5,Dynadot Inc,14/12/2025 17:00,14/12/2026 17:00,26/09/2026 06:44
-0cb1b759-0c99-469d-a290-8f928b72d933,inn.loans,available,20.99,116.99,high,low,3,namesilo,,,21/09/2026 02:28
-d52fb788-7430-4e6d-b43e-ce70cc1500f6,lodging.site,premium,1107,1107,high,high,7,namesilo,,,27/09/2026 05:50
-7d93a649-80ff-4034-9f09-95df45b8cc7e,inn.living,premium,910,1300,high,low,3,namecheap,,,21/09/2026 02:28
-f22cd75e-42af-41ac-83ad-bbc0eeb035fb,inn.accountants,available,43.99,153.99,high,low,3,name.com,,,21/09/2026 02:28
+9208aa90-68b4-4714-97a6-49a0c8e120cd,hospitality.hiphop,available,27,,high,low,11,unstoppable,,,28/09/2026 04:30
+efff9712-7e10-469b-aea3-67e1386836e3,hospitality.shopping,available,23.18,23.18,high,low,11,spaceship,,,28/09/2026 04:30
 9f7af063-d029-430b-8d2b-8a11169510eb,hotel.icu,resell,,,high,medium,5,"Xiamen ChinaSource Internet Service Co., Ltd",25/12/2021 18:13,25/12/2026 23:59,26/09/2026 06:44
-8184a61b-6d78-43e0-b8ab-b2c6090538c0,inn.soccer,available,25.99,25.99,high,low,3,namesilo,,,21/09/2026 02:28
-fd5df987-4506-4005-8cff-89268dae8f36,travel.locker,premium,1654.52,8.8,high,medium,6,namesilo,,,24/09/2026 22:30
-d823e079-7ea0-4349-a11b-0f8da98dbb50,inn.dental,available,88.99,94.99,high,low,3,name.com,,,21/09/2026 02:28
-80f925da-9408-4103-94dc-6a6cbc908f5a,inn.asia,resell,,,high,low,3,"Spaceship, Inc.",11/11/2025 22:49,11/11/2026 22:49,26/09/2026 06:52
-7ccb9996-34e7-4a08-ab1a-b71793a7b14e,inn.ngo,available,16.99,16.99,high,low,3,name.com,,,21/09/2026 02:28
-e50d4d6b-4e8e-41d6-9070-f60dfa9f3564,inn.deals,premium,128.7,128.7,high,low,3,namecheap,,,21/09/2026 02:28
+c638da63-f718-48f6-a409-12616c4bacc7,hospitality.sex,available,51.95,98.53,high,low,11,spaceship,,,28/09/2026 04:30
 73f0b105-1fd6-4166-a2ee-4bd46a591514,hotel.desi,available,22.98,,high,medium,5,namecheap,,,
 fb164276-886e-4f73-b19d-ef3f9d57cf0d,hotel.college,resell,,,high,medium,5,"GoDaddy.com, LLC",11/01/2026 08:03,11/01/2027 23:59,26/09/2026 06:44
-2bb95741-3d8d-4d12-8af3-31a05784b336,inn.guide,premium,123.75,123.75,high,low,3,name.com,,,21/09/2026 02:28
-df66876a-dbef-4e3f-8e01-bde91bf0c41a,inn.apartments,available,60.98,72.98,high,low,3,namecheap,,,21/09/2026 02:28
+263e13ff-878e-4d42-97f3-12f15b51e7b8,hospitality.food,premium,1107,1107,high,low,11,namesilo,,,28/09/2026 04:30
 48074007-e638-4e77-8d52-fb7367a2f64a,hotel.coupons,premium,260,260,high,medium,5,namecheap,,,
-9a37f03d-af20-44a2-a403-05660bded79e,inn.space,premium,6900,6900,high,low,3,namesilo,,,21/09/2026 02:28
-735ba784-43c6-4aef-a210-d0d1be73a6e7,inn.dealer,premium,2015,2600,high,low,3,namecheap,,,21/09/2026 02:28
+399a2d59-46ed-4dfe-abc0-05f51100c90f,hospitality.archi,available,13.14,83,high,low,11,spaceship,,,28/09/2026 04:30
+d547b41f-93f5-4f17-b473-1f400a2d3ec4,hospitality.spot,premium,100.5,,high,low,11,unstoppable,,,28/09/2026 04:30
 b683a1b4-a7ab-4144-a1b1-0c49043d8d7b,hotel.food,premium,325,650,high,medium,5,namecheap,,,
-ede40c7a-9294-457d-9d47-652cb4a6fc0a,inn.voto,available,19.99,102.99,high,low,3,name.com,,,21/09/2026 02:28
 90bd231f-807d-4947-a201-7d3f51c81112,hotel.vodka,available,32.49,32.49,high,medium,5,namesilo,,,
 90f6842b-a715-43eb-bf3a-07073c18cf2d,hotel.host,premium,4875,9750,high,medium,5,namecheap,,,
 6309027e-bb77-4854-837a-ff65dd38280d,hotel.new,available,549.99,,high,medium,5,name.com,,,
-ced2333a-eccb-47d5-8a8b-c312bac32893,travel.spot,premium,640,640,high,medium,6,namesilo,,,24/09/2026 22:30
-5f30f9cc-b53e-42a2-b417-9d4ebd47fffc,inn.place,premium,82.5,82.5,high,low,3,name.com,,,21/09/2026 02:28
 6e7d136d-6437-4d80-9bb1-a55338fa3d7e,hotel.market,available,,,high,medium,5,,,,
-3bd2fed1-dd14-4717-90b8-31ed3e0e5fd8,inn.reviews,available,62.99,62.99,high,low,3,namesilo,,,21/09/2026 02:28
+d570dd85-cc47-45f5-8d70-55ca6ba3f771,hotel.reisen,premium,520,520,high,medium,5,namecheap,,,
+4ab52e95-6eeb-4c6a-b168-e5677140cf6b,hospitality.contact,available,11.59,11.59,high,low,11,spaceship,,,28/09/2026 04:30
+95291dab-1199-4667-8dbb-685b24382552,hospitality.show,available,18,,high,low,11,unstoppable,,,28/09/2026 04:30
+e9f84165-cdc0-418c-a5ee-226915b002f7,hospitality.hair,available,1.99,17.29,high,low,11,namesilo,,,28/09/2026 04:30
+20444895-c05f-41a7-bd24-7e388be0c92b,hospitality.express,available,12.49,39.99,high,low,11,namesilo,,,28/09/2026 04:30
 30a3784b-5d5a-4b6a-a638-21627b311612,hotel.store,premium,7812.5,31250,high,medium,5,name.com,,,
-fbfa8a06-4856-42ca-bda9-afe626cdc58c,inn.wtf,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
-5bdf0899-16bb-46a7-adae-7d7fbd91c9b7,inn.ryukyu,available,17.98,22.98,high,low,3,namecheap,,,21/09/2026 02:28
-60ccd660-f71f-45df-a386-639825e51ad2,inn.co,premium,6900,6900,high,low,3,namesilo,,,21/09/2026 02:28
-cd6acd3d-7016-40a4-ac4d-b536f004a5e8,inn.gift,available,14.99,14.99,high,low,3,namesilo,,,21/09/2026 02:28
-f9bc7ecd-d750-4438-babc-9e012399befc,inn.international,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
-fc781c56-e0bc-498e-8a13-a8379fa7508d,inn.pro,premium,1300,1300,high,low,3,namecheap,,,21/09/2026 02:28
-0e36ab44-c5fc-43cd-b41b-54290065b3ef,inn.pub,premium,1107,1107,high,low,3,namesilo,,,21/09/2026 02:28
-be78be66-0b81-454b-82bf-51668faf6b1a,inn.global,premium,3312,53.92,high,low,3,namesilo,,,21/09/2026 02:28
-97ceb49c-0dd1-4cb4-b66b-956712e42793,inn.me,premium,8938.8,20.85,high,low,3,namecheap,,,21/09/2026 02:28
+f7c07e12-ff39-48ed-a3e4-652275211e4e,hospitality.esq,premium,89.2,,high,low,11,unstoppable,,,28/09/2026 04:30
+31f1d8d1-a43c-43b5-b236-ec43b0f139be,hospitality.ltd,premium,36.3,36.3,high,low,11,dynadot,,,28/09/2026 04:30
+0277999a-e46c-441c-b008-f725eed514f6,hospitality.work,premium,6900,11.8,high,low,11,namesilo,,,28/09/2026 04:30
+55e10c22-cd6f-4df7-8d2f-318eef81be2c,hospitality.solar,available,51.95,51.95,high,low,11,spaceship,,,28/09/2026 04:30
 9a6421c6-20a0-4664-829d-b0cd85a814e7,accommodation.at,resell,,,high,high,13,,,,27/09/2026 06:21
-4018e8c5-ab0d-43ec-a5e2-2405cf3c7f19,room.viajes,available,37.67,37.67,high,low,4,dynadot,,,28/09/2026 06:11
-c599616d-f847-417f-8927-aff41555ac95,travel.porn,available,69.98,154.98,high,medium,6,namecheap,,,24/09/2026 22:30
-8dfc524a-bf35-4d40-9e5e-3eeecd8ffeab,inn.tattoo,premium,116,116,high,low,3,namesilo,,,21/09/2026 02:28
-0f8fabcb-abbc-4759-9797-cd8b24b39bcb,travel.app,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",18/07/2023 09:52,18/07/2027 09:52,26/09/2026 09:44
-a1c2b2b4-df56-4c24-beef-97155324dc3f,inn.wine,available,9.99,77.99,high,low,3,name.com,,,21/09/2026 02:28
-11b6b1bd-b609-4e5e-9e0d-5450be31a279,inn.mov,premium,167.7,167.7,high,low,3,namecheap,,,21/09/2026 02:28
+839956fb-21dd-4229-a700-4460ce75390d,hospitality.lat,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 04:30
+f0ea45b7-3082-45a4-9a6d-14acb0da5e89,hospitality.pub,available,32.29,32.29,high,low,11,spaceship,,,28/09/2026 04:30
+30ea2765-790b-4605-8694-e9f07718c661,hospitality.tattoo,available,1.75,31.25,high,low,11,spaceship,,,28/09/2026 04:30
 e89fd6d9-1849-48b1-8ec0-cd68135fa96b,hotel.supply,resell,,,high,medium,5,"Sav.com, LLC",06/09/2021 11:10,06/09/2027 11:10,26/09/2026 06:44
-190cc3de-a4e7-47d4-9e5e-a8e200f41264,inn.show,available,18.99,44.49,high,low,3,namesilo,,,21/09/2026 02:28
-42151b1c-d633-4d0c-9a75-32fdb345af6f,travel.meme,premium,1690,1690,high,medium,6,namecheap,,,24/09/2026 22:30
-6d9f6cd0-9ec0-46bd-9713-b26d974e8608,inn.shopping,available,26.99,26.99,high,low,3,namesilo,,,21/09/2026 02:28
+25daa3c4-365c-41ff-b9b6-96fc18da64ef,hospitality.green,premium,1552.7,1552.7,high,low,11,spaceship,,,28/09/2026 04:30
+1882fdc4-875d-4527-ab91-628db257978f,hospitality.cooking,premium,47.2,29.5,high,low,11,namesilo,,,28/09/2026 04:30
 18d9f1af-af8c-457b-b41e-fb2af3af446c,hotel.men,available,,,high,medium,5,,,,
-c14ec36a-1dd5-4c96-b7f3-c2df244e7638,inn.discount,premium,38.94,38.94,high,low,3,namesilo,,,21/09/2026 02:28
+ae9d1d64-b531-40f6-9d56-7fdd5a55815a,hospitality.financial,available,15.73,46.78,high,low,11,spaceship,,,28/09/2026 04:30
 83ff37a8-a633-46d1-a0f4-21a9dbaa6113,hotel.boston,resell,,,high,medium,5,Hosting Concepts B.V. d/b/a Registrar.eu,10/10/2017 17:39,10/10/2030 17:39,26/09/2026 06:44
-2aa724e9-4868-4ccb-bf07-bd9c6dabc06e,inn.blog,premium,1662.5,6900,high,low,3,namesilo,,,21/09/2026 02:28
-0c2a7288-812d-4b48-8b2e-8d134b408392,travel.support,resell,,,high,medium,6,Dynadot Inc,18/12/2017 19:08,18/12/2026 19:08,26/09/2026 09:44
-9d291c75-aa63-4988-a304-2560ad6ae778,inn.eco,premium,1935.05,74.75,high,low,3,namecheap,,,21/09/2026 02:28
 1d320ae2-d1a7-4c84-96b3-5482eb12e62e,hotel.love,premium,1625,3250,high,medium,5,namecheap,,,
-58f5bdc9-ad48-4563-a164-2d46a746f442,inn.dog,available,7.49,64.99,high,low,3,namesilo,,,21/09/2026 02:28
-fd5c692a-95ba-4185-b3a2-e4074f36126e,inn.cruises,available,14.99,81.99,high,low,3,name.com,,,21/09/2026 02:28
-e9ab635b-c112-40ff-a8dd-f4e1b8195d42,travel.plumbing,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+f69927e0-dbed-4a2d-8956-1421815a26f1,hotel.voyage,premium,78.54,78.54,high,medium,5,namesilo,,,
 441d0eca-a73e-49ab-bd7e-9cb94e3e0ad4,hotel.cleaning,premium,260,260,high,medium,5,namecheap,,,
-821b8164-71d5-4768-8658-ed468ae771b6,inn.academy,available,17.99,46.99,high,low,3,namesilo,,,21/09/2026 02:28
-7559cc51-0da3-43df-b0aa-3966f97c7194,travel.trade,premium,650,84.5,high,medium,6,namecheap,,,24/09/2026 22:30
 225ab6c5-979a-4e03-9ecd-0592869b5915,hotel.party,premium,6500,130,high,medium,5,namecheap,,,
 e85f9c70-7368-497d-b429-2a8132b72128,inn.voyage,available,9.99,83.99,high,low,3,name.com,,,21/09/2026 02:28
+78ca6f7a-a050-4a32-8d24-2a7daa6c6a5c,hospitality.sbs,premium,59.71,119.23,high,low,11,spaceship,,,28/09/2026 04:30
 93831eef-61f9-4d39-afa7-027dacf8f1a1,hotel.parts,premium,85.8,85.8,high,medium,5,namecheap,,,
-3c096967-ee58-44df-acdf-3a01c9a07584,travel.car,available,2070,2400,high,medium,6,namecheap,,,24/09/2026 22:30
-fc6608de-611a-492b-a394-d29782b3a46b,inn.mobile,premium,375,375,high,low,3,name.com,,,21/09/2026 02:28
-8b42e1ad-3fef-4134-9f1e-d227f2561b65,inn.camera,available,58.99,58.99,high,low,3,namesilo,,,21/09/2026 02:28
-9bbd8a38-3acc-40ca-8e55-63081d140530,inn.dance,available,17.99,35.99,high,low,3,name.com,,,21/09/2026 02:28
-d70f8796-937f-4ab6-b431-3260d7a9a29f,travel.rentals,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
+5bdd77f3-ecb6-4f21-8f0f-d531ecc63e8e,hospitality.dental,available,78.99,78.99,high,low,11,namesilo,,,28/09/2026 04:30
+7d386fda-79c5-4898-8aa0-e8ccaf018401,hospitality.rehab,available,36.99,36.99,high,low,11,namesilo,,,28/09/2026 04:30
+0667dc2c-f5f0-4c5d-ac91-a43a7846553f,hospitality.international,resell,,,high,low,11,,,,28/09/2026 04:30
 6780d03b-98e0-4580-9cd8-81a55fb8e301,hotel.website,premium,6500,13000,high,medium,5,namecheap,,,
-926d005c-b4b1-4ae1-bd7e-28d1492df6cb,inn.republican,available,7.49,28.99,high,low,3,namesilo,,,21/09/2026 02:28
-34fd69f2-92cc-4d9d-bb50-50bc15ac10bc,travel.enterprises,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
-a498cdcd-508e-4b20-95b4-3291f094c34e,travel.cars,available,2070,2950,high,medium,6,namecheap,,,24/09/2026 22:30
+cfa726d6-e35b-43c0-ac6f-cbecda2e417e,hospitality.wedding,premium,41.6,26.08,high,low,11,spaceship,,,28/09/2026 04:30
 dc8ed288-0ff4-4d10-b1a7-98b150bfaf26,hotel.ink,premium,130,130,high,medium,5,namecheap,,,
-5d1c129b-875f-48a2-a373-9bae43a51b27,inn.shoes,available,64.99,64.99,high,low,3,namesilo,,,21/09/2026 02:28
-b4d68d9c-dd6c-4f84-8349-5d4aa54f6286,resort.us,resell,,,high,low,6,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2027 23:59,26/09/2026 08:38
-ff6b7c9a-0376-4f57-b58d-da97c1f10f87,lodgings.at,resell,,,high,high,8,NETIM ( https://nic.at/registrar/586 ),,,26/09/2026 07:17
-8060872f-71ae-4ace-adf1-00918c47bb12,travel.place,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
+7777ed26-8cc9-4b6b-ba70-fdf3808d6d12,hospitality.inc,premium,1705,2060.21,high,low,11,dynadot,,,28/09/2026 04:30
+bec3e7e0-14ec-48f6-96b6-d597c571a329,hospitality.page,premium,70.21,70.21,high,low,11,namesilo,,,28/09/2026 04:30
+2ee99f07-377b-4018-b62a-91c301cce3a3,hospitality.shiksha,premium,517.7,517.7,high,low,11,spaceship,,,28/09/2026 04:30
+7316a163-5431-4bea-9b30-6815ba248638,hospitality.florist,available,32.99,32.99,high,low,11,namesilo,,,28/09/2026 04:30
+1ebcc4cb-9c7e-467c-92b5-25be7b37144b,hospitality.cars,available,1863.2,2064.2,high,low,11,spaceship,,,28/09/2026 04:30
 ff7fe949-0d13-4bbc-9069-872c5986c8f9,hotel.dealer,premium,2015,2600,high,medium,5,namecheap,,,
 44ba1539-519a-48db-93cb-45f0bc8aa0d6,hotel.blue,resell,,,high,medium,5,Automattic Inc.,16/07/2018 10:13,16/07/2030 10:13,26/09/2026 06:44
 f48a0bd5-39ba-4f27-9355-7ae5ac8eb2e7,hotel.qpon,available,,,high,medium,5,,,,
-c7902292-d93c-4b9f-81bb-7d9a0f8bf82f,inn.democrat,available,5.98,41.48,high,low,3,namecheap,,,21/09/2026 02:28
-4ba016ca-5748-4efc-9353-0c73ceb86bd7,inn.organic,available,17.99,85.99,high,low,3,namesilo,,,21/09/2026 02:28
-79dfaec4-5779-4497-8ad3-4ba9ae0fa6cb,inn.horse,premium,47.2,29.5,high,low,3,namesilo,,,21/09/2026 02:28
 6135dc94-82e4-4dea-823f-bbb09c8e676c,hotel.audio,available,104.99,114.99,high,medium,5,namesilo,,,
-80dc6494-f774-421a-b72c-f2727be995f8,travel.tienda,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-1888a481-21c8-4085-b2b6-665adfdb6d45,travel.boo,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
 68fefd88-c89a-4dae-8424-bf3f1930bf93,hotel.tax,premium,1040,1040,high,medium,5,namecheap,,,
 4eb9e09d-96f8-4a26-a63f-d72191cc5205,hotel.futbol,premium,260,260,high,medium,5,namecheap,,,
-39ad6d1f-08a2-4aa7-8566-dc8bb9bf6c88,travel.men,premium,448,53.92,high,medium,6,namesilo,,,24/09/2026 22:30
+b87dcf49-83f5-41b7-a34f-64f17f4f5e83,hospitality.fun,premium,137.5,550,high,low,11,dynadot,,,28/09/2026 04:30
 63498927-273e-474c-83cd-a3fd52d6ef7b,hotel.productions,premium,128.7,128.7,high,medium,5,namecheap,,,
-08b0ba8d-6cb2-49c7-96ff-825011c8b1dd,tourism.site,premium,6900,6900,high,high,7,namesilo,,,27/09/2026 06:07
-0f7d09f4-7dc4-4941-bfc2-60cd6079c778,inn.salon,available,57.99,57.99,high,low,3,namesilo,,,21/09/2026 02:28
-9dff3231-479e-4151-8ccb-7a50d754cfda,travel.energy,premium,1040,1040,high,medium,6,namecheap,,,24/09/2026 22:30
 05277bdb-485a-4afc-92a0-c1006a77abf5,hotel.news,premium,1300,1300,high,medium,5,namecheap,,,
-502c094c-6577-42d4-940c-0eab8a637d17,accommodation.dev,premium,111.25,111.25,high,high,13,name.com,,,
-299af8af-a739-45a3-acaf-5fc2e55119da,inn.repair,available,12.99,36.99,high,low,3,namesilo,,,21/09/2026 02:28
 af57606e-e733-4591-80c9-f6fc16dba716,inn.us,resell,,,high,low,3,"GoDaddy.com, LLC",11/07/2018 00:11,11/07/2027 00:11,26/09/2026 06:53
 4b1a4cfc-2942-4228-b103-cf75acba5a0d,hotel.faith,premium,3250,130,high,medium,5,namecheap,,,
 78f38758-18c8-4ef6-b70b-f50895b7d8cb,hotel.green,premium,650,650,high,medium,5,namecheap,,,
 e3bd96b3-5861-411a-840a-753760897623,hotel.vote,available,49.99,,high,medium,5,name.com,,,
-4d18e281-5136-4b34-9cfb-f4c379f3cf15,inn.limited,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
-3a857bd6-343b-48b4-b3c9-078175dcee0e,inn.exchange,premium,128.7,128.7,high,low,3,namecheap,,,21/09/2026 02:28
-e7233b3f-5b5a-4e24-838e-298e259c24c6,inn.church,available,11.99,58.99,high,low,3,name.com,,,21/09/2026 02:28
 5f6057a1-268d-4c0f-8a8e-279d5d036999,hotel.hosting,available,309.99,329.99,high,medium,5,namesilo,,,
 05090f01-d3e3-48ed-b159-fbfda8d480c6,hotel.london,resell,,,high,medium,5,Hosting Concepts B.V. d/b/a Registrar.eu,22/08/2016 11:42,22/08/2030 23:59,26/09/2026 06:44
-f1a61c7b-bba2-44cb-a678-ec5d48a44e88,travel.deal,premium,13800,13800,high,medium,6,namesilo,,,24/09/2026 22:30
 22f1a7bb-e0f0-4ffc-8f3c-82d38eec93f2,hotel.tech,premium,3250,13000,high,medium,5,namecheap,,,
-65d57d37-8439-4a47-b0d8-b85000525206,lodge.reise,available,27.89,97.99,high,low,5,namesilo,,,
-87d824da-d4f7-4f1b-8983-7147f12557cb,inn.yoga,premium,47.2,29.5,high,low,3,namesilo,,,21/09/2026 02:28
-704d0dbd-61e2-4726-a2b9-2e53fadbb445,inn.talk,premium,640,640,high,low,3,namesilo,,,21/09/2026 02:28
 4c8fd1bf-aaa8-4a26-9689-9f4a3da53512,hotel.pet,premium,3250,3250,high,medium,5,namecheap,,,
 7414a737-7a13-49ff-802e-a96d3bb746fd,hotel.blog,premium,16250,65000,high,medium,5,namecheap,,,
-4aa6e80f-fd1a-4f18-961f-322fcf32bcde,travel.catering,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
 c9b8e0d1-28a4-4669-8d17-da516b7b350a,inn.boston,premium,854,21.24,high,low,3,namesilo,,,21/09/2026 02:28
-9327b528-27f3-4842-a10a-a3b7801d2fb5,inn.navy,available,43.98,45.98,high,low,3,namecheap,,,21/09/2026 02:28
-250e242f-44b1-4c2d-8e97-983c71da4abb,travel.jewelry,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
 3eee7801-fbe2-4b9f-b51c-55a434d03e6a,hotel.dev,premium,1623.75,1623.75,high,medium,5,name.com,,,
 70de03ff-0752-4ace-836a-fb28aacabe92,hotel.boats,premium,845,845,high,medium,5,namecheap,,,
-412ed368-4ddf-416d-8b47-f7701310ed8d,inn.design,premium,302.5,302.5,high,low,3,namesilo,,,21/09/2026 02:28
 3f7ed012-9539-4628-bc42-a8e21dd5f8b0,hotel.space,premium,3250,13000,high,medium,5,namecheap,,,
 4d348a08-dee8-4f6c-b20f-143a155c7485,hotel.buzz,premium,520,130,high,medium,5,namecheap,,,
-5574d219-3a33-4379-8a8c-2f5976750ea3,inn.ltda,available,34.99,34.99,high,low,3,namesilo,,,21/09/2026 02:28
 c6832749-f239-42c9-b1e0-0263a4102fa3,hotel.auction,premium,520,520,high,medium,5,namecheap,,,
-3936b598-5544-471a-a0f3-1ad2b65ae63f,inn.zip,premium,161.25,161.25,high,low,3,name.com,,,21/09/2026 02:28
-abf3fd8f-201e-4fb3-9536-57ff247a60c0,travel.furniture,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-8d77e339-dda8-49bb-b9e4-fd66950b8242,travel.haus,resell,,,high,medium,6,"GoDaddy.com, LLC",16/07/2016 15:16,16/07/2027 15:16,26/09/2026 09:44
-31b696ea-1a25-464c-b9b4-b8f3578d55a1,inn.money,available,19.99,50.99,high,low,3,name.com,,,21/09/2026 02:28
-06b58040-78dd-4e6e-ba5e-76f589e51d26,travel.casino,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-1a3fc307-9e04-4727-bb69-7faa2545286f,tourism.pro,resell,,,high,high,7,"EnCirca, Inc.",02/03/2005 00:00,02/03/2027 00:00,26/09/2026 09:42
-1fb86341-9be8-43a5-8957-fee9cd454fa7,travel.surgery,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+ff3b49b6-89a8-4fe1-b17d-7ba8337ea33a,hospitality.ing,premium,350.2,,high,low,11,unstoppable,,,28/09/2026 04:30
+777c4ca7-fa53-435e-bd8d-48f414742224,hospitality.navy,available,33.32,33.32,high,low,11,spaceship,,,28/09/2026 04:30
+f9cff21c-0e81-4da5-8fac-82389343b5a1,hospitality.surgery,available,43.67,43.67,high,low,11,spaceship,,,28/09/2026 04:30
+e1c21e3a-7b59-4d7d-af07-32e7cc4d2837,hospitality.promo,resell,,,high,low,11,,,,28/09/2026 04:30
 b9c417ad-0539-4f2f-b6e7-505905b2fe5e,hotel.engineer,premium,520,520,high,medium,5,namecheap,,,
-af50045b-f07f-4d6a-8630-61533da8e8e3,inn.dad,premium,311.25,311.25,high,low,3,name.com,,,21/09/2026 02:28
 01fc122a-ef43-430d-a47f-f430894113c4,hotel.sexy,premium,13000,13000,high,medium,5,namecheap,,,
-062fa79e-434a-4328-9402-92e817c096af,travel.forex,resell,,,high,medium,6,Porkbun LLC,20/09/2022 12:07,20/09/2027 12:07,27/09/2026 06:33
-35703950-4614-4f07-babf-22a35611b631,guest.flights,available,58.99,58.99,high,low,5,namesilo,,,
-9d144d1c-b602-4e2c-bb76-091fda5d8c0a,travel.coupons,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-4a50e487-dd03-4e61-a27a-f921902fb798,travel.team,resell,,,high,medium,6,"Spaceship, Inc.",04/04/2025 15:15,04/04/2027 15:15,26/09/2026 09:44
-7a76a555-cca0-4444-8bbd-7d6ffad741c5,inn.cards,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
-48b4710a-834f-477e-865b-8f67f177876b,inn.solutions,premium,123.75,123.75,high,low,3,name.com,,,21/09/2026 02:28
-22d30bf1-e2bb-4d4d-a142-ab0d491b625a,lodge.viajes,available,37.99,37.99,high,low,5,namesilo,,,
+56f3d68a-1f6f-45c4-9957-fbe82b9ba6b0,hospitality.capital,resell,,,high,low,11,,,,28/09/2026 04:30
+71ab8328-3a4d-45fc-909f-91880125bd1d,hospitality.dad,premium,76.7,76.7,high,low,11,namecheap,,,28/09/2026 04:30
+e872d0a1-3878-4ad4-ad53-d45d3ec542f3,hospitality.cyou,premium,59.71,119.23,high,low,11,spaceship,,,28/09/2026 04:30
+52455523-5137-4ec0-81e1-e7cd2f7874c6,hospitality.kids,premium,65,23.4,high,low,11,namecheap,,,28/09/2026 04:30
+55ebff8a-c3a9-44cf-9e04-0922530f3a5f,hospitality.garden,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 04:30
+0c85ba88-4e50-4d29-885f-909c00f2398c,hospitality.audio,available,93.35,103.4,high,low,11,spaceship,,,28/09/2026 04:30
 5663315e-23f5-4760-83e2-bfbaa94c20df,inn.flights,available,23.98,75.98,high,low,3,namecheap,,,21/09/2026 02:28
-18169420-25ea-424c-940d-d0680ca1892b,resort.yachts,available,1.99,,high,low,6,name.com,,,
 5cb40693-ff63-496a-96b0-0fe0bc6b368a,hotel.studio,premium,1300,1300,high,medium,5,namecheap,,,
-c0840bcb-8e76-446b-94e4-9c54b06884f2,travel.academy,resell,,,high,medium,6,"Sav.com, LLC",19/03/2014 19:08,19/03/2027 19:08,26/09/2026 09:44
-b2f7f53d-93ff-40e7-ad82-500dac0176a4,inn.tennis,available,67.98,81.98,high,low,3,namecheap,,,21/09/2026 02:28
+72fa3c24-6a40-4e65-b94a-cca420740bd6,hospitality.social,resell,,,high,low,11,,,,28/09/2026 04:30
 883d001d-91e1-4aad-9597-dd2d5080d59f,hotel.hospital,available,57.99,57.99,high,medium,5,namesilo,,,
-ff8e5362-d9e1-4680-b486-51243da54bba,inn.food,premium,1107,1107,high,low,3,namesilo,,,21/09/2026 02:28
-c43324ce-329f-47d6-b93c-0e680118f563,food.reise,available,77.83,77.83,high,medium,4,spaceship,,,28/09/2026 02:44
-59cc24f9-b3d4-44ec-8965-18f270ea2550,resort.tech,premium,312.5,1250,high,low,6,name.com,,,
-97727f67-1f30-41f2-901f-637bb034907e,resort.so,available,68.98,,high,low,6,namecheap,,,
-c289f6b5-1029-4fa6-ac9a-d0e2ac7fe608,inn.partners,available,20.99,71.99,high,low,3,namesilo,,,21/09/2026 02:28
-37862ecb-dc53-4ab8-ad78-17f8ebb42637,travel.skin,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
-30210fb0-43bd-41c3-85be-640c82589557,inn.press,premium,4140,4140,high,low,3,namesilo,,,21/09/2026 02:28
-75b428ae-a6ab-445c-8d13-cfbb5fdce4b3,travel.fit,premium,5200,32.5,high,medium,6,namecheap,,,24/09/2026 22:30
-0b42ec17-9c3e-4777-8f1d-2430bbc4d529,inn.holdings,available,64.99,64.99,high,low,3,namesilo,,,21/09/2026 02:28
-0d9964be-9162-4740-a3e5-dba48da75d98,travel.science,premium,640,77.35,high,medium,6,namesilo,,,24/09/2026 22:30
-a3dc98dc-4722-4a1c-b5be-032f8bdf0c51,inn.schule,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
-ff4cd1dc-95bc-4bf1-ae2f-2992a5a0f79b,travel.immo,premium,260,260,high,medium,6,namecheap,,,24/09/2026 22:30
-7aa2c19e-b454-4a0a-b187-6ba72d64e865,inn.baby,available,17.99,54.99,high,low,3,namesilo,,,21/09/2026 02:28
-3ee59183-9a33-4b16-964f-aeaa6ab9e23a,guest.voyage,available,9.99,,high,low,5,name.com,,,
-02f07e93-0d81-471e-8231-03a24cec3933,inn.observer,premium,32.5,32.5,high,low,3,namecheap,,,21/09/2026 02:28
+cc7ed7e3-1440-4b9e-9a1f-e98876f56313,hospitality.uno,premium,3450,3450,high,low,11,namesilo,,,28/09/2026 04:30
+f8747275-2b03-4ab8-a4d4-93bb61f66943,hospitality.phd,premium,,,high,low,11,,,,28/09/2026 04:30
+1a1417e1-5af2-4f27-b03e-506aa7e0def0,hospitality.wiki,available,2.06,26.26,high,low,11,porkbun,,,28/09/2026 04:30
+2e344dec-9655-4e8a-872a-aa9a46ee6786,hospitality.pink,available,13.5,,high,low,11,unstoppable,,,28/09/2026 04:30
 f0a6c9cf-fc72-4021-a554-cc7ea39a9db6,hotel.country,available,2450,,high,medium,5,namecheap,,,
 b76e7706-06d3-41a5-a71e-d010f3491d86,hotel.music,available,,,high,medium,5,,,,
-6f570d4b-fb19-48ba-8e72-94cc034a7f7c,travel.horse,premium,242,29.5,high,medium,6,namesilo,,,24/09/2026 22:30
-ca4fc0fc-c31c-4126-8e08-85f74086b4ee,guest.vacations,available,9.99,,high,low,5,name.com,,,
-15a15a20-4991-4e52-a888-028764cb0813,room.melbourne,available,58,58,high,low,4,namesilo,,,28/09/2026 06:11
+70a75119-7d8a-4b77-8c60-04cb8a33fbbd,hotel.rest,available,,,high,medium,5,,,,
+12fb1948-38c6-4af8-8088-f9eef078ffb9,hospitality.me,resell,,,high,low,11,Dynadot Inc,17/07/2008 16:43,17/07/2027 16:43,28/09/2026 04:30
 c1c94232-b7e6-488d-a2d6-1212f18265b3,hotel.tickets,available,359.99,389.99,high,medium,5,namesilo,,,
-89355d20-0885-4666-a400-06a4518dabf4,room.hamburg,available,69.98,73.98,high,low,4,namecheap,,,28/09/2026 06:11
-5c3afdfa-1046-4806-ba58-dde462dbac68,room.storage,available,509.99,529.99,high,low,4,namesilo,,,28/09/2026 06:11
-9544bde6-924d-4631-9eb9-535718a02279,resort.condos,premium,1000,,high,low,6,name.com,,,
-c90989f8-eba8-4fe1-b49b-ee82936adc36,inn.buzz,premium,116,53.92,high,low,3,namesilo,,,21/09/2026 02:28
+1a401e49-61df-4a15-ac90-3562e43b0b57,hospitality.domains,available,42.99,42.99,high,low,11,namesilo,,,28/09/2026 04:30
+25c4d602-8dd6-409c-ad13-10a2e7ec0a4c,hospitality.link,resell,,,high,low,11,,,,28/09/2026 04:30
 b61a4a3c-76f2-4a17-814b-06574f828af3,hotel.theatre,available,509.99,529.99,high,medium,5,namesilo,,,
-b90e232b-f7f5-4d05-8e21-fc4f297ab408,inn.ing,premium,3900,3900,high,low,3,namecheap,,,21/09/2026 02:28
-19f4a95a-ba5c-4c22-8ddb-fd8f9e0c4715,inn.consulting,premium,64.35,128.7,high,low,3,namecheap,,,21/09/2026 02:28
-df1d3e8e-28f3-4d14-996d-7791f351f651,inn.expert,resell,,,high,low,3,Dynadot Inc,13/05/2026 17:00,13/05/2027 17:00,26/09/2026 06:52
-cae76df1-e901-413d-a417-ea8bd29f3900,restaurant.vegas,resell,,,high,low,10,Dynadot Inc,16/06/2025 13:10,16/06/2027 13:10,26/09/2026 08:38
+e2d19bf7-7c6f-4498-bc0e-656acd1dd777,hospitality.cash,available,9.85,32.32,high,low,11,dynadot,,,28/09/2026 04:30
 315fbb94-1ce3-4d68-a7f1-90ffc29b8ed6,hotel.clinic,premium,128.7,128.7,high,medium,5,namecheap,,,
-9238a00c-554f-4eaa-8922-b8ab593b309c,resort.london,premium,1356.82,,high,low,6,name.com,,,
 6226e195-052f-4486-b617-b7f99e741c0f,inn.holiday,premium,512,512,high,low,3,namesilo,,,21/09/2026 02:28
-d5dd25ac-2427-4149-8121-102d8edca709,travel.ltda,premium,56.64,33.04,high,medium,6,namesilo,,,24/09/2026 22:30
-67e4e20e-fd6c-4757-8014-2ffaa4950dbe,travel.estate,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
-1249296d-039e-45ab-a032-7fcf086b8a65,accommodation.expert,available,11.99,77.99,high,high,13,name.com,,,
-5b3952c3-821b-463e-8648-a92be0b6a29c,inn.marketing,available,6.98,53.98,high,low,3,namecheap,,,21/09/2026 02:28
-b0445b23-18d1-47f5-86eb-9b8be37adb66,lodging.so,available,68.98,,high,high,7,namecheap,,,
+a1cc31b1-d06e-4f69-bbfb-eee198ed1c57,hospitality.ooo,premium,95220,119.99,high,low,11,namesilo,,,28/09/2026 04:30
 018ce695-47c8-4f4a-9217-afd4b3e189c5,hotel.tires,resell,14.99,,high,medium,5,"Sav.com, LLC",04/04/2026 17:20,04/04/2027 17:20,26/09/2026 06:44
-0e8bb390-d01e-47c3-ae06-9beb5c15af20,resort.army,available,19.99,,high,low,6,name.com,,,
-a6680169-cc08-4445-8f90-d2d1d563200f,travel.pizza,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+3599ce28-7c30-422e-a3a1-db89031af157,hospitality.foo,premium,30.22,30.22,high,low,11,spaceship,,,28/09/2026 04:30
 8b7af761-e54c-4fbf-8630-c3d6f0e9b23f,hotel.hiv,available,,,high,medium,5,,,,
 43e99ada-d12e-4771-9d85-4d1c7eb40dd0,hotel.fun,premium,1625,6500,high,medium,5,namecheap,,,
 490fc7ac-8903-49e0-9b02-2b013ae6f59c,hotel.kiwi,premium,186.32,,high,medium,5,name.com,,,
-204a1212-049d-490c-853f-b07cb84c064e,travel.zip,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
 61c34ac8-982a-4320-ac02-cfa25ac0d0ed,hotel.soy,premium,698.1,698.1,high,medium,5,namecheap,,,
 e1f9f766-125c-44a5-9180-5f235afff1c8,hotel.university,resell,,,high,medium,5,"eNom, LLC",28/07/2014 03:06,28/07/2027 03:06,26/09/2026 06:44
-c0911188-43a1-4e3b-b5c8-236016f93d83,room.flights,premium,118.8,118.8,high,low,4,namesilo,,,28/09/2026 06:11
-b8521498-74d2-4af1-bb82-1badd38840dc,lodge.tours,available,9.99,,high,low,5,name.com,,,
-9299e58b-c86e-42cb-8dd5-24c7f7d11e7f,resort.wtf,resell,,,high,low,6,"Sav.com, LLC - 5",02/09/2025 15:15,02/09/2027 15:15,26/09/2026 08:38
-5d0ae00f-a7ca-463d-bd29-f0d8ac27978f,inn.channel,premium,323.7,323.7,high,low,3,namecheap,,,21/09/2026 02:28
-8e4e9504-a29e-4dbf-824f-9c7fc05c7152,inn.direct,available,17.99,41.99,high,low,3,namesilo,,,21/09/2026 02:28
-dcd2d356-aff9-47fa-8a7d-d1d5c2fa1492,resort.im,available,,,high,low,6,,,,
-19482052-84c9-4c60-9f85-31b6448ebc39,travel.green,premium,1995,1995,high,medium,6,namesilo,,,24/09/2026 22:30
-f5be7646-4a60-4057-bf7e-d22c9c3d0ce8,resort.gg,resell,,,high,low,6,Porkbun LLC (https://porkbun.com/),,,26/09/2026 08:37
-c622a90a-672a-4be1-9e9a-221964d798b7,resort.express,available,16.99,,high,low,6,name.com,,,
-d3b1bca4-cf5e-41e0-b1be-a781e2284175,resort.organic,available,19.99,,high,low,6,name.com,,,
-ebed3ba2-7115-4c48-836c-ac4b118a0c1a,travel.limited,resell,,,high,medium,6,"Sav.com, LLC",08/09/2024 23:12,08/09/2027 23:12,26/09/2026 09:44
-98ef4d93-d560-413d-aded-0f5378cff67a,resort.guitars,available,159.98,,high,low,6,namecheap,,,
-874f9353-cecc-442e-a1e5-bc9edcd2efad,resort.mov,premium,311.25,,high,low,6,name.com,,,
-8e73c4cd-3c08-4138-ae0a-8e234f0e4656,travel.phd,premium,1688.7,1688.7,high,medium,6,namecheap,,,24/09/2026 22:30
+2cb98a21-b8de-4452-ae1b-a95bbf95064e,hospitality.channel,premium,61.27,61.27,high,low,11,spaceship,,,28/09/2026 04:30
+fb3c2312-90fe-489f-8187-7d8e853b5297,hospitality.cricket,premium,455,65,high,low,11,namecheap,,,28/09/2026 04:30
+43893969-cfdc-4001-afc6-f68c2c6b2120,hospitality.gallery,available,22.2,22.2,high,low,11,cloudflare,,,28/09/2026 04:30
+7dba1674-83f6-468b-a72f-feb0f5daca79,hospitality.kaufen,available,5.99,26.99,high,low,11,namesilo,,,28/09/2026 04:30
 34ac1bf1-4ff0-45e6-b320-1b80082c6604,hotel.day,premium,1298.7,1298.7,high,medium,5,namecheap,,,
-0c9ac7a8-4b38-47f2-8e22-f0ef2b243ca3,resort.plus,resell,,,high,low,6,"DNSPod, Inc.",12/01/2019 16:16,12/01/2027 16:16,26/09/2026 08:37
-b49f61a4-f753-409c-8c48-e27e27fcd3d0,inn.music,premium,873.75,46.25,high,low,3,name.com,,,21/09/2026 02:28
+0e27b752-b9db-4e51-ac31-70413da01aca,hospitality.ceo,available,10.19,129.99,high,low,11,namesilo,,,28/09/2026 04:30
 8a1ac722-05b4-41cc-bb0d-fadb081d4363,hotel.talk,premium,1300,1300,high,medium,5,namecheap,,,
-857e9c30-bf32-4d5e-ab17-3a13633fc489,food.reisen,available,16.99,16.99,high,medium,4,porkbun,,,28/09/2026 02:44
 c74ce886-f297-4383-99d5-7f34db0d583c,hotel.bar,premium,5850,11700,high,medium,5,namecheap,,,
-9687ef83-1c47-45e8-8c32-cfa9f9c58345,resort.associates,available,21.99,,high,low,6,name.com,,,
-263a20a5-5691-4a67-bd45-a3a7a763604e,room.properties,premium,854,854,high,low,4,namesilo,,,28/09/2026 06:11
-c1af0ab2-88f8-4cf2-bbf7-40ba76515780,inn.productions,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
-c70b3b21-3ff1-4e83-bde5-24e32d2eed6d,resort.cooking,available,43.98,,high,low,6,namecheap,,,
 b4d30733-169d-4377-bbc6-e6408fa2e22f,hotel.realty,available,109.99,299,high,medium,5,namesilo,,,
-e0323beb-f8d5-4b1d-b847-716bd8af48c8,travel.industries,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
-91a69441-93d0-434f-8084-9d81f64a1988,inn.skin,available,1.8,21.98,high,low,3,namecheap,,,21/09/2026 02:28
-267b64ee-e80e-4f1c-9512-0a88831f5fee,resort.watch,available,4.99,,high,low,6,name.com,,,
 41f4e70a-83d6-4b0c-b6de-d8675eab1985,hotel.skin,premium,845,845,high,medium,5,namecheap,,,
-048488ea-a4e6-4dc7-87dd-f0ae77387389,inn.pics,available,1.99,32.49,high,low,3,namesilo,,,21/09/2026 02:28
-e101fb40-87ba-401f-8b10-3eefb307e333,resort.lgbt,premium,2500,,high,low,6,name.com,,,
-16c41104-3950-4846-9658-77c57679cbde,travel.construction,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-f3e7ecf9-c1dd-4a2d-a7e2-bb95e40a2c73,travel.financial,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-88492844-59c6-4131-8c16-f578202f5ff3,accommodation.cloud,premium,250,250,high,high,13,name.com,,,
+b078cf92-e8a4-4354-acfa-cbdaa5a9342f,hospitality.lease,available,8.24,44.8,high,low,11,porkbun,,,28/09/2026 04:30
+a63a1020-b1c8-4772-9154-ea57716a7b51,hospitality.xxx,available,95.2,95.2,high,low,11,cloudflare,,,28/09/2026 04:30
 fde55b7d-a34b-403d-acba-f08c7d723553,inn.viajes,available,37.99,37.99,high,low,3,namesilo,,,21/09/2026 02:28
-ce8d769c-3b06-4b51-9b07-5d8d2cfabf0c,travel.rich,resell,,,high,medium,6,Dynadot Inc,31/01/2026 13:12,31/01/2027 13:12,26/09/2026 09:44
-d24fee85-c72f-49b8-a528-2bf77f4e128e,room.salon,available,45.74,45.74,high,low,4,spaceship,,,28/09/2026 06:11
-3256e96d-5a5f-4285-8c64-4f32cb757e95,travel.discount,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-074c996d-36ba-4ca4-8b7f-bb5cc5b82877,inn.gg,resell,,,high,low,3,"Spaceship, Inc (https://www.spaceship.com)",,,26/09/2026 06:52
 8ea8575c-d988-4be3-a50c-85d67c0e0b81,hotel.charity,available,37.98,,high,medium,5,namecheap,,,
 42ecbe9b-23a6-445c-b585-c0058ed5e64e,hotel.makeup,premium,845,845,high,medium,5,namecheap,,,
-93b44314-9a0c-4845-964d-aac21083a9c2,inn.biz,resell,,,high,low,3,"GoDaddy.com, LLC",27/03/2002 03:00,26/03/2027 23:59,26/09/2026 06:52
-a09e1fb4-1514-4638-8274-b0baed4f0290,travel.kim,premium,5520,5520,high,medium,6,namesilo,,,24/09/2026 22:30
+c48f6664-bcb6-43a9-bad9-f2229a94ea1f,hospitality.trading,available,21.98,27.98,high,low,11,namecheap,,,28/09/2026 04:30
 7d135170-7f20-473e-9a62-3af056681c7e,hotel.vana,available,2498,,high,medium,5,namecheap,,,
-83c13473-5f37-4b8c-95c7-e49d88c47e68,resort.photos,premium,250,,high,low,6,name.com,,,
-056bad54-9315-4507-ba9a-2cfb01fc4138,resort.ventures,available,19.99,,high,low,6,name.com,,,
-5f330368-417f-44f8-9757-c3b454b13e2b,travel.shop,premium,13800,13800,high,medium,6,namesilo,,,24/09/2026 22:30
-2794346d-fcbe-469a-b8f6-3e768b61cb01,resort.party,available,9.98,,high,low,6,namecheap,,,
-c469f9bd-4510-445b-ba27-2a43f57d335c,lodgings.us,resell,,,high,high,8,Dominet (HK) Limited,27/04/2026 09:27,27/04/2027 09:27,26/09/2026 07:17
-9d4b8cf1-65aa-4018-8a0e-23fd154ecf38,restaurant.zone,resell,,,high,low,10,"DNSPod, Inc.",17/07/2020 22:50,17/07/2027 22:50,26/09/2026 08:38
+d07e9f99-eea4-47b1-947b-78aa36e57cb1,hospitality.global,premium,1242.2,51.95,high,low,11,spaceship,,,28/09/2026 04:30
+652ce5d0-51ac-4ab8-8911-24544242e401,hospitality.protection,available,2064.2,2064.2,high,low,11,spaceship,,,28/09/2026 04:30
+4d6c42f6-09c1-44c7-8242-7000429aa01a,hospitality.fishing,premium,,,high,low,11,,,,28/09/2026 04:30
+33746791-4a98-47e8-9dff-7c6e8b863e4a,hospitality.game,available,309.47,340.37,high,low,11,porkbun,,,28/09/2026 04:30
+0560404b-de8e-4c88-8b10-87a15b57b550,hospitality.voto,available,26.5,,high,low,11,unstoppable,,,28/09/2026 04:30
 9df8ee3a-80db-4774-b0f4-f7962fe3db04,hotel.gallery,premium,85.8,85.8,high,medium,5,namecheap,,,
-d1512d7b-1530-487a-9c2c-39395c6a62f9,inn.work,premium,302.5,11.8,high,low,3,namesilo,,,21/09/2026 02:28
-0f854623-dcdd-425c-884b-587391b96ee0,inn.college,premium,250,250,high,low,3,name.com,,,21/09/2026 02:28
-b275ac55-12eb-44c3-bd4e-dc970b647482,inn.boats,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 02:28
 92d12cc6-b176-4372-b23a-fb39646cde4e,hotel.dad,premium,1298.7,1298.7,high,medium,5,namecheap,,,
-e4091706-7ae2-420f-8bc9-5f47285bdf31,resort.claims,available,19.99,,high,low,6,name.com,,,
-c068b47e-7049-43d7-b8d9-b04941c079b6,travel.diamonds,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 a3b65a5c-074c-44cf-978a-f0d629607f3c,hotel.law,available,119.99,,high,medium,5,name.com,,,
-5058a651-250e-49be-b408-4ad39f75282d,inn.ong,available,16.99,16.99,high,low,3,name.com,,,21/09/2026 02:28
+63494991-1b7a-4ee4-9f68-b402c724bc52,hospitality.pizza,available,5.38,51.95,high,low,11,spaceship,,,28/09/2026 04:30
 e95197a6-7780-48c6-bb00-39720be87630,hotel.games,premium,128.7,128.7,high,medium,5,namecheap,,,
-fa8d7826-c88f-4074-aec4-65b24e41f6a1,travel.vip,resell,,,high,medium,6,Go France Domains Inc,23/01/2021 00:11,23/01/2028 00:11,26/09/2026 09:44
-f4fbe15b-0f04-4d40-bbfb-67ca6acedb8f,room.mobile,premium,310.7,310.7,high,low,4,spaceship,,,28/09/2026 06:11
+0bb19e30-e32f-4ab2-80f0-6799e5f90c3a,hospitality.gift,available,20.98,23.98,high,low,11,namecheap,,,28/09/2026 04:30
 c54e2d16-7184-4672-8de0-104e36f07916,hotel.lifestyle,premium,325,650,high,medium,5,namecheap,,,
-a344aeb9-4f4d-459f-a4fc-cb150bb65998,food.flights,premium,118.8,118.8,high,medium,4,namesilo,,,28/09/2026 02:44
-be5400c9-9f14-4ead-bc39-3ca62996f24a,room.sydney,available,58,58,high,low,4,namesilo,,,28/09/2026 06:11
-b40cd59a-98e4-454d-b5b2-d381a3d000fd,inn.ceo,available,9.99,146.98,high,low,3,namecheap,,,21/09/2026 02:28
-075d2787-a7f6-4f38-946d-97feaa14f0d3,room.airforce,available,85.82,85.82,high,low,4,dynadot,,,28/09/2026 06:11
-dc92072f-70b2-48e7-b4fa-ffb65caa55da,room.tienda,available,59.99,59.99,high,low,4,namesilo,,,28/09/2026 06:11
-fa880ec4-cf19-4d8a-b818-48805d410217,travel.exposed,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-ecf69e22-c0d2-4ee7-a0af-8ac03d230010,room.express,available,9,31.25,high,low,4,spaceship,,,28/09/2026 06:11
-d4530962-077a-4b5b-ad5f-ea807c08ead7,resort.lawyer,available,66.98,,high,low,6,namecheap,,,
-eed0d4c0-146c-4325-ac26-5c7e9ee2346b,inn.watch,available,5.99,44.49,high,low,3,namesilo,,,21/09/2026 02:28
+a2fb8162-8459-45ec-9d03-892833366a5f,hospitality.careers,premium,242,242,high,low,11,namesilo,,,28/09/2026 04:30
+7a42977d-5585-4a4b-9562-25fd93e5d3ed,hotel.sydney,premium,8633.82,8633.82,high,medium,5,namecheap,,,
 eadc5694-40de-4831-bc85-5954d83fdcfe,travel.condos,premium,1040,1040,high,medium,6,namecheap,,,24/09/2026 22:30
-ba5d71f1-f2da-41c7-a49a-b9977239d175,inn.coach,available,17.99,77.99,high,low,3,namesilo,,,21/09/2026 02:28
-296ccd6f-d9f1-43db-9b7f-c713d7842174,resort.luxe,premium,2500,,high,low,6,name.com,,,
-602be428-cb6d-400c-96b8-a747cf193989,resort.surgery,available,54.99,54.99,high,low,6,namesilo,,,
-b7e1e353-2ba9-461b-9274-d90a8b7fa0e4,room.rocks,resell,,,high,low,4,united-domains GmbH,27/12/2019 11:28,27/12/2026 11:28,28/09/2026 06:11
-9b08db36-0470-4b84-8486-2ab99ae966ee,room.xyz,resell,,,high,low,4,"NameCheap, Inc.",07/04/2020 11:05,07/04/2027 23:59,28/09/2026 06:11
-7a9b44dc-cf11-4949-8c18-7d66078a57d3,room.eco,premium,3622.7,59.71,high,low,4,spaceship,,,28/09/2026 06:11
-167e5e8f-c2e9-4462-81e4-0e461da77b7c,room.diy,premium,2660,2660,high,low,4,namesilo,,,28/09/2026 06:11
-28e74291-9840-4bf1-89bc-4db6ac2341f3,inn.studio,premium,512,512,high,low,3,namesilo,,,21/09/2026 02:28
-6c825ca0-821c-4c0d-a6b6-37d24855a348,resort.tienda,available,9.99,,high,low,6,name.com,,,
-503976ad-ade5-46d5-9414-dd8c50c82ac8,lodge.travel,available,,,high,low,5,,,,
-28c2318d-f72d-4b7c-9efa-daf4b1c7b5e6,resort.monster,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 13:30
-f1cb9f2f-a940-45ad-8c27-ab8be313de5f,room.investments,available,6.98,166.98,high,low,4,namecheap,,,28/09/2026 06:11
-17b3132a-bb68-4dc3-bba0-6ad9074bbced,bed.travel,available,39.99,,high,low,3,name.com,,,
-6f363f96-b0fd-4212-b61b-6ae2c775292a,room.rest,resell,,,high,low,4,"Dynadot, LLC",28/07/2025 09:16,28/07/2027 09:16,28/09/2026 06:11
-30d21fd9-bfdc-4506-8bfe-4b1a07e40cbb,resort.giving,available,5.99,,high,low,6,name.com,,,
-ec121ccd-cc99-40d5-89a4-949d9f796946,room.healthcare,available,70.58,70.58,high,low,4,spaceship,,,28/09/2026 06:11
-dcf930e1-a0df-4a9c-bfc4-d8b34923ec88,food.zone,premium,854,854,high,medium,4,namesilo,,,28/09/2026 02:44
-678505ba-7aee-4881-9513-65dcd2502aa3,room.diet,available,100.2,100.2,high,low,4,cloudflare,,,28/09/2026 06:11
-86c3e28c-0dd6-456d-851f-cd92bddeefd5,inn.healthcare,premium,242,242,high,low,3,namesilo,,,21/09/2026 02:28
-87190733-cbdf-42b0-bacf-ec78201b1a39,resort.codes,available,11.99,,high,low,6,name.com,,,
-fe55c99c-929e-4e54-a8a3-1c0354b440da,resort.republican,available,5.99,,high,low,6,name.com,,,
-6e8c1f96-ce49-482d-8895-5cfa77fe3940,food.house,resell,,,high,medium,4,"Sav.com, LLC",05/08/2015 16:00,05/08/2027 16:00,28/09/2026 02:44
-660fcb19-95a3-4684-ad8f-cd56cfc4d912,inn.futbol,available,9.99,24.99,high,low,3,name.com,,,21/09/2026 02:28
-fda4dfda-6b37-449c-a12d-c68acb167ca1,restaurant.place,premium,118.8,118.8,high,low,10,namesilo,,,25/09/2026 05:21
-b063cafd-3e4b-4fa6-8b06-b60a8ec837d3,management.vacations,available,38.99,38.99,high,low,10,namesilo,,,19/09/2026 14:24
-9f1a0eb5-1d21-4222-9351-41e1c7edc9e4,travel.vin,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-15328a17-e857-4b5d-884e-d65c516dffde,resort.world,resell,,,high,low,6,"DNSPod, Inc.",14/01/2015 16:00,14/01/2027 16:00,26/09/2026 08:37
-34cb5d9f-da67-44c2-918c-05d1ca0517e9,resort.prof,premium,411.25,,high,low,6,name.com,,,
+39900296-e58f-4ffa-b4a3-754bdc53c264,hospitality.onl,resell,,,high,low,11,,,,28/09/2026 04:30
+c2ff0d07-db85-43f5-855b-33efdbb049d6,hospitality.fit,resell,,,high,low,11,,,,28/09/2026 04:30
+1252eedd-a9b3-48ed-912a-b2761ddbf183,hospitality.mobile,available,15.73,15.73,high,low,11,spaceship,,,28/09/2026 04:30
+6a15c926-b24a-4295-ab3f-476b51f85112,hospitality.luxe,available,15.2,15.2,high,low,11,cloudflare,,,28/09/2026 04:30
 7c030eb3-65d0-4beb-ab07-2cbe1bc3bd09,hotel.autos,premium,845,845,high,medium,5,namecheap,,,
-43e8c0eb-7cc0-488f-a4f0-4e9240ffc40f,restaurant.immo,premium,118.8,118.8,high,low,10,namesilo,,,25/09/2026 05:21
-d2837658-9a07-4b96-9eb0-dfcf94a0f89e,room.wtf,resell,,,high,low,4,"Sav.com, LLC - 46",29/08/2025 15:15,29/08/2027 15:15,28/09/2026 06:11
-1b53c283-a47d-4218-b73f-1f846b14f28e,inn.nexus,premium,161.25,161.25,high,low,3,name.com,,,21/09/2026 02:28
-bb276652-5484-4fdd-8480-34aaaa509fef,travel.airforce,available,103.99,103.99,high,medium,6,namesilo,,,24/09/2026 22:30
 a264dc01-5c6a-468b-9d73-385c1c26ae5f,hotel.diamonds,available,54.99,54.99,high,medium,5,namesilo,,,
 67d90838-22ea-4809-88b1-e29be144448a,inn.sarl,available,6.99,6.99,high,low,3,namesilo,,,21/09/2026 02:28
 ef0b6b2b-6c2e-4c9b-ba71-2d875949bbca,hotel.nexus,premium,1298.7,1298.7,high,medium,5,namecheap,,,
-67a443ce-9c87-4352-8e29-3991612ab0c9,travel.promo,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
-df28c787-81fd-40f3-9351-883cb14bd08a,restaurant.services,premium,520,1040,high,low,10,namecheap,,,25/09/2026 05:21
-0f86c882-baa6-49ec-ad61-099981211e1f,resort.poker,premium,88.49,,high,low,6,name.com,,,
-a71e6225-9eac-4028-9145-3cfb6f91d3cd,resort.pizza,available,19.99,,high,low,6,name.com,,,
-abe6700a-f193-40fc-870c-9a98c46b92df,travel.irish,resell,,,high,medium,6,Dynadot Inc,19/05/2022 17:00,19/05/2027 17:00,26/09/2026 09:44
-010e7409-4f17-4c0c-854a-d1c6cf2e8581,travel.mov,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
-da2f8bd8-ff9e-41df-bc30-eb2e9a53ea3f,travel.blackfriday,available,114.99,114.99,high,medium,6,namesilo,,,24/09/2026 22:30
-bc093310-2e9b-4eb5-a54b-988468d4d5b6,room.best,resell,,,high,low,4,Dynadot Inc,14/02/2026 16:52,14/02/2027 23:59,28/09/2026 06:11
-93119eaa-469a-4166-bf01-e3183bb9af5b,resort.jewelry,available,19.99,,high,low,6,name.com,,,
-833847f5-e2e5-4edf-8377-ab35f91ad4a9,inn.tax,available,8.98,85.98,high,low,3,namecheap,,,21/09/2026 02:28
-9a558b0b-fad3-4238-8903-7f407ae53c2f,accommodation.store,premium,78.12,312.5,high,high,13,name.com,,,
-0933e20e-05d5-4edc-8302-233979599fc5,restaurant.ryukyu,available,17.98,22.98,high,low,10,namecheap,,,25/09/2026 05:21
-170ba3d4-a7a7-4714-9497-d8359cc5f0ea,inn.lighting,premium,23.6,23.6,high,low,3,namesilo,,,21/09/2026 02:28
-9389cf6e-b3a2-4e1f-8986-88e2c95f6f50,room.ski,premium,118.8,118.8,high,low,4,namesilo,,,28/09/2026 06:11
-f8439d23-7213-4923-8257-0e5c3ec98069,resort.games,available,19.99,,high,low,6,name.com,,,
-a6d5238b-1eae-4170-a97c-ac950bf4fbd9,guest.property,available,,,high,low,5,,,,
-ad1f8334-6e3c-4bb5-8b30-65e78dca84c5,restaurant.viajes,available,37.99,37.99,high,low,10,namesilo,,,25/09/2026 05:21
+dbf781cf-ecc0-4d8b-b301-70e020e9ec03,hospitality.rip,available,18.83,18.83,high,low,11,spaceship,,,28/09/2026 04:30
+24e7299a-3b3d-4b5b-92c1-22a4d385a64d,hospitality.soy,premium,81.97,81.97,high,low,11,spaceship,,,28/09/2026 04:30
 748e4e22-56e1-45e8-8199-eb76f6211e7a,hotel.courses,premium,650,650,high,medium,5,namecheap,,,
 46affa0c-72ba-48eb-b35d-ba6944b89cdb,hotel.racing,premium,130,130,high,medium,5,namecheap,,,
-e994ffab-93af-4b4d-96f0-9ec82f8148f9,room.accountant,premium,362.45,51.95,high,low,4,spaceship,,,28/09/2026 06:11
-8f1a3873-98d4-4532-b23b-615eadf28a09,tourist.viajes,available,37.99,37.99,high,low,7,namesilo,,,
-4d5fb5f2-90a8-4f6c-a5d2-03d010c12da5,room.cheap,available,28.2,28.2,high,low,4,cloudflare,,,28/09/2026 06:11
-39e0b620-8854-4342-95f6-f484747fe190,room.money,resell,,,high,low,4,"Sav.com, LLC - 25",07/04/2026 15:15,07/04/2027 15:15,28/09/2026 06:11
-94c54146-744d-4c33-875d-402451c13a68,travel.accountants,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
-1d76fb6e-ac25-402c-a898-fc26d260f7e1,food.llc,premium,517.7,517.7,high,medium,4,spaceship,,,28/09/2026 02:44
-7aeaa1cf-017f-4b09-ac77-f8f7cc3133bd,travel.moi,premium,640,640,high,medium,6,namesilo,,,24/09/2026 22:30
-02f53aa2-90a1-482f-a221-e34112d0902f,resort.careers,available,49.99,,high,low,6,name.com,,,
-5473ecdf-b0f7-40c4-ac46-78cf08d10004,room.markets,premium,200.5,260,high,low,4,unstoppable,,,28/09/2026 06:11
 e7ccea5b-2c75-4302-8a56-72c31e29b6ab,hotel.exposed,premium,520,520,high,medium,5,namecheap,,,
-8a3d0ca4-4e84-41e2-b140-577f7c0150aa,inn.mom,available,1.99,27.99,high,low,3,namesilo,,,21/09/2026 02:28
-0a77a117-5f0f-45aa-93a8-eb856b744b5f,inn.prof,premium,411.25,411.25,high,low,3,name.com,,,21/09/2026 02:28
-e72b2ef5-7ae6-4053-afec-183b0bb04eca,food.in,resell,,,high,medium,4,Hosting Concepts B.V. dba Openprovider,16/02/2005 06:30,16/02/2027 06:30,28/09/2026 02:44
-60c36511-c288-4797-ad6a-0300fd9060bc,inn.rocks,available,11.99,21.99,high,low,3,namesilo,,,21/09/2026 02:28
 6fea619a-6aa8-4fad-a4b0-142c8594b1ed,inn.ag,available,89.99,79.99,high,low,3,namesilo,,,21/09/2026 02:28
-de08b0e0-e22f-4a0b-ba68-8802011e977b,guest.immo,available,14.99,,high,low,5,name.com,,,
-4b815424-5861-4c2e-bcda-b45fff5804a9,hotels.berlin,resell,,,high,high,6,,27/03/2015 12:59,27/03/2027 12:59,26/09/2026 06:44
-c22d82e1-49b0-4401-bf96-d9f471fc69a3,resort.phd,premium,411.25,,high,low,6,name.com,,,
-f9581c85-8fcd-456b-85b2-4d00cea0a51d,resort.cash,available,17.99,,high,low,6,name.com,,,
-224769d8-00b0-4f8d-87ae-60ba6b589e6f,resort.srl,premium,54.28,30.68,high,low,6,namesilo,,,
-5a465fef-8663-4da8-8598-98299aee6e8e,resort.vin,available,11.99,,high,low,6,name.com,,,
-feb9fc51-415b-4d0f-a904-8081ff9bbf79,resort.art,premium,3750,,high,low,6,name.com,,,
-b5dcce39-f062-4292-889c-7edc9979129f,room.lighting,available,23.99,23.99,high,low,4,namesilo,,,28/09/2026 06:11
-1e3a73e8-e481-471e-9148-a42a753ca7c4,inn.guitars,available,104.99,114.99,high,low,3,namesilo,,,21/09/2026 02:28
 d2e4b825-f4d6-465e-85a1-4f2be54a002a,hotel.technology,resell,,,high,medium,5,Dynadot Inc,26/04/2017 06:04,26/04/2028 06:04,26/09/2026 06:44
-6b88b840-78a0-41f5-951d-17e42c8cbacd,resort.hospital,available,71.98,,high,low,6,namecheap,,,
 a14559df-cc96-48d9-86a3-ae93253419cd,hotel.kim,premium,3900,3900,high,medium,5,namecheap,,,
+c4329a0b-3d57-4cf5-ac90-5cb51eeeb14a,hospitality.loan,premium,385,55,high,low,11,dynadot,,,28/09/2026 04:30
 503eb0df-f8cf-4019-965f-e687815e3328,inn.business,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
-516829df-8cf0-4d40-a3eb-9ff9930c6c3a,catering.co,resell,57371.2,48.99,high,high,8,"GoDaddy.com, LLC",09/05/2020 17:00,09/05/2027 23:59,26/09/2026 04:48
-a1f9d962-a74a-4313-b088-abd9ed16cdbf,room.kaufen,available,5.57,24.83,high,low,4,dynadot,,,28/09/2026 06:11
-88e4a0f9-8079-4752-9a1f-b8f98df8aa06,food.services,resell,260,260,high,medium,4,"Spaceship, Inc.",10/03/2026 19:21,10/03/2027 19:21,28/09/2026 02:44
-a979bd87-f18d-4265-a9c7-61e27b2742db,inn.download,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 02:28
-32f01b7f-e514-4eb0-a2d8-f9c4e15bd3ce,resort.catering,premium,82.5,,high,low,6,name.com,,,
-376b8755-48c4-4815-9260-bc6074940c2e,inn.rodeo,premium,47.2,11.8,high,low,3,namesilo,,,21/09/2026 02:28
-124d9ddc-0c82-4701-8620-bc67be4847fd,room.hiv,available,195.99,195.99,high,low,4,namesilo,,,28/09/2026 06:11
-fa29c145-2796-454b-8153-5c3353ebffe4,resort.horse,available,43.98,,high,low,6,namecheap,,,
 d27d5fb1-e487-4263-abd8-e4c55985ea64,inn.beer,premium,47.2,29.5,high,low,3,namesilo,,,21/09/2026 02:28
-1c62248a-6935-41e2-b8e3-13cc3ad99d1d,resort.attorney,available,69.99,,high,low,6,name.com,,,
-d0bfdf99-16e7-46de-aba1-9abdd2e5dc61,room.site,premium,812.5,3250,high,low,4,namecheap,,,28/09/2026 06:11
-fe9c026c-a9af-42ae-b52d-512f998ea686,travel.software,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
 1c2b0aaf-013e-4ecf-90cd-28820616f96a,hotel.global,available,,,high,medium,5,,,,
-f5047344-d718-40c3-8ced-c7932bea848c,inn.men,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 02:28
-ff0b7d69-10a7-4ff4-9317-63904fb1a1ee,food.rest,premium,3105,3105,high,medium,4,namesilo,,,28/09/2026 02:44
-29d76324-e68e-405e-9526-b12cfdb1e539,room.farm,resell,,,high,low,4,"Spaceship, Inc.",15/07/2026 17:01,15/07/2027 17:01,28/09/2026 06:11
-5097b017-bf93-4efa-8e26-588da2c2c678,inn.movie,available,47.99,349.99,high,low,3,namesilo,,,21/09/2026 02:28
-d3d4491e-2991-4f66-9989-3455a0fb9166,resort.gifts,premium,250,,high,low,6,name.com,,,
-3529c740-b698-4ea7-8177-b54a365e0920,food.delivery,resell,,,high,medium,4,GoDaddy Online Services Cayman Islands Ltd.,06/02/2015 16:00,06/02/2027 16:00,28/09/2026 02:44
-e15e2646-651c-4d4e-89b7-4032a5174769,resort.immobilien,available,14.99,,high,low,6,name.com,,,
-95329bf1-5e0c-43df-af39-e7c6ef9ccac3,restaurant.bz,resell,,,high,low,10,"GoDaddy.com, LLC",30/08/2015 22:57,30/08/2027 22:57,26/09/2026 08:38
 4b2c0d28-a680-49bb-854a-2c75f19a4859,inn.hamburg,available,69.98,73.98,high,low,3,namecheap,,,21/09/2026 02:28
 5196a64b-c405-4ab8-a125-3c62c9c39cfb,inn.party,premium,625,81.25,high,low,3,name.com,,,21/09/2026 02:28
-8e0a96ff-35bf-4d78-88dc-ab666a71d8b4,travel.audio,available,104.99,114.99,high,medium,6,namesilo,,,24/09/2026 22:30
-9f0a1c44-8110-4be8-98a3-c09f820148d8,resort.computer,available,29.99,,high,low,6,name.com,,,
-6ca5fb2b-fd90-4748-9eb7-9c19ed52ed75,guest.gives,available,5.99,,high,low,5,name.com,,,
 926ae0b3-6ab3-48c0-8744-16b3d7cfe0d8,inn.monster,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 02:28
 d8161079-d0d0-447f-88b1-94fe3f2ade69,hotel.srl,premium,54.28,30.68,high,medium,5,namesilo,,,
-02d52759-1a05-445c-8ed5-1236d84f2ecd,room.esq,premium,671.92,671.92,high,low,4,spaceship,,,28/09/2026 06:11
-f9c7aaf3-e2cb-4809-9edc-7cfbf736c849,inn.security,available,1999.99,2049.99,high,low,3,namesilo,,,21/09/2026 02:28
 d96e1dad-d666-4d9e-8333-4a1588b09165,inn.support,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
 37952a24-8949-477b-a370-e566d79508ce,room.voyage,available,58.99,58.99,high,low,4,namesilo,,,28/09/2026 06:11
-c298c925-617d-4f78-86a1-f5425775259b,room.charity,available,11.99,23.01,high,low,4,dynadot,,,28/09/2026 06:11
-0b4c92e4-10c2-4afd-b8f4-6e28f3857a85,resort.voto,available,19.99,,high,low,6,name.com,,,
-644b03ad-d82b-4029-8da3-f0dfd90fc1d2,room.tires,available,72.44,72.44,high,low,4,spaceship,,,28/09/2026 06:11
-d6485dcb-bb4f-4865-b978-e6c2d39248b7,resort.financial,available,29.99,,high,low,6,name.com,,,
 707ee2e9-0ad6-424f-a54e-0380d57aa181,hotel.trade,resell,,,high,medium,5,"Spaceship, Inc.",29/07/2019 12:30,29/07/2027 12:30,26/09/2026 06:44
-8703fe0a-3a8c-4126-bc5c-81c661c82e8d,room.today,resell,,,high,low,4,"Sav.com, LLC - 9",27/11/2025 15:15,27/11/2026 15:15,28/09/2026 06:11
-aaef4866-e174-4692-8653-799988b22098,management.flights,premium,118.8,118.8,high,low,10,namesilo,,,19/09/2026 14:24
-ef8d7162-7619-48de-85c3-26f9562d7f1b,tourism.space,premium,13800,13800,high,high,7,namesilo,,,27/09/2026 05:11
-62cbb66b-ad5a-4317-9893-6a0ab066fa22,tourist.reise,available,27.89,97.99,high,low,7,namesilo,,,
 d46221f4-d4f6-4c31-8fbc-62852a8a8529,hotel.memorial,premium,85.8,85.8,high,medium,5,namecheap,,,
 707fd455-c3d3-4d9a-a25d-0225dc235a71,hotel.army,available,48.98,,high,medium,5,namecheap,,,
-3c3df80a-f717-4479-8668-7451a4ba6921,resort.cleaning,available,80.99,,high,low,6,name.com,,,
-22303679-a76a-4566-90c4-63a3d0c4216c,restaurant.xyz,resell,,,high,low,10,"Spaceship, Inc.",28/02/2023 03:32,28/02/2027 23:59,26/09/2026 08:38
 6bdedbeb-0295-49ec-8ad6-1330266c3624,inn.lease,available,56.99,56.99,high,low,3,namesilo,,,21/09/2026 02:28
-ae9e75ef-bed4-4cf4-9c6a-81a7458b5b36,room.gallery,premium,85.8,85.8,high,low,4,namecheap,,,28/09/2026 06:11
-2bb56d30-3f57-44bc-9118-77923beaaca9,guest.town,premium,78.54,78.54,high,low,5,namesilo,,,
-1fa2aa5d-f729-4b3a-9aa2-c08c264d3b14,resort.sarl,available,6.99,6.99,high,low,6,namesilo,,,
 29b55291-6685-47cc-b952-e8f53cb2f143,room.holiday,available,64.99,64.99,high,low,4,namesilo,,,28/09/2026 06:11
-045df429-83cf-41db-b634-194677e7439f,food.melbourne,premium,9139.27,9139.27,high,medium,4,namecheap,,,28/09/2026 02:44
-98726f1f-66c5-45a4-8a2c-f34480b7e181,lodge.rent,premium,625,,high,low,5,name.com,,,
-3f8327f9-47b0-4787-a503-aed85ebb5406,room.gripe,available,6.99,6.99,high,low,4,namesilo,,,28/09/2026 06:11
-4fdf9448-1654-4b38-9a84-410c667b8c97,restaurant.vacations,premium,260,260,high,low,10,namecheap,,,25/09/2026 05:21
-b0cf38ec-e31f-4eb4-b353-3c417bf86f4d,travel.university,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
-618af23d-7338-4746-b63b-5343b8e97264,room.show,resell,,,high,low,4,"DNSPod, Inc.",09/12/2016 17:52,09/12/2026 17:52,28/09/2026 06:11
 eec90c32-906d-46b5-b6cb-e280c73f77c7,inn.gmbh,available,45.99,45.99,high,low,3,namesilo,,,21/09/2026 02:28
-36ec34be-63b6-436d-8578-8d3cc1b5604c,resort.domains,available,19.99,,high,low,6,name.com,,,
-de9d4c17-1470-4c49-8021-282e7eac711f,resort.gives,available,5.99,,high,low,6,name.com,,,
 0e507cbd-446c-46cf-b98f-b144446c24b9,inn.hot,premium,3125,3125,high,low,3,name.com,,,21/09/2026 02:28
-cc745a02-a398-4236-8360-1fa327ebfede,room.monster,premium,,,high,low,4,,,,28/09/2026 06:11
-36e0c46b-27bc-43a5-ada3-e4b12d65d2ec,travel.loan,premium,13800,116,high,medium,6,namesilo,,,24/09/2026 22:30
 29915636-6b17-4dd6-941f-e5f4b4f08de1,inn.industries,available,47.98,58.98,high,low,3,namecheap,,,21/09/2026 02:28
 0adf47fc-857f-474b-9ab8-d0bab5c8dbf6,inn.fish,available,44.49,44.49,high,low,3,namesilo,,,21/09/2026 02:28
 cc0dd300-f45d-4187-82a2-e3fb60382ef0,inn.surf,premium,47.2,29.5,high,low,3,namesilo,,,21/09/2026 02:28
-cc9bcd8e-c72c-4593-841c-ccafd5bce3b6,room.game,premium,1345.7,1345.7,high,low,4,spaceship,,,28/09/2026 06:11
 df387832-5231-4bf4-9d02-4094029c7563,inn.bike,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
 452e7545-2e25-4446-aeb3-aa51fe0963db,hotel.zone,resell,,,high,medium,5,"Sav.com, LLC - 25",29/09/2025 15:15,29/09/2027 15:15,26/09/2026 06:44
 748d52c4-5dbc-47a5-9a50-ad8323f20942,inn.boo,premium,311.25,311.25,high,low,3,name.com,,,21/09/2026 02:28
-1875eed5-063c-48f2-974a-6294636e286f,restaurant.expert,premium,854,854,high,low,10,namesilo,,,25/09/2026 05:21
-51392ff1-4468-4bc7-8b2e-8b60a593d7cd,resort.tickets,available,359.99,389.99,high,low,6,namesilo,,,
-ac5e315b-5bd0-46b1-84c2-9d238c53d8cb,travel.cleaning,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
 f470a1a5-fec4-4cbd-9133-356e4fea7cc9,inn.domains,available,19.99,56.99,high,low,3,name.com,,,21/09/2026 02:28
 64b53726-f435-47db-91e9-2436c45f9d96,hotel.dental,available,59.98,,high,medium,5,namecheap,,,
-d694b1c3-4952-4c32-ad61-f9d3ab19e104,resort.dentist,available,76.99,,high,low,6,name.com,,,
 d6031db7-934b-439f-9442-f73538dbcd39,lodging.gg,available,68.98,82.98,high,high,7,namecheap,,,27/09/2026 05:50
-4769d405-4356-4de8-a7c0-8e68e43dc547,travel.uno,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
 9c4d3d02-6f27-4e27-92de-74318c3023d2,inn.graphics,premium,42.9,42.9,high,low,3,namecheap,,,21/09/2026 02:28
-d79ce007-6eec-46a3-8ca9-39a04dd4a3b2,food.academy,premium,500,500,high,medium,4,name.com,,,28/09/2026 02:44
-ee39a646-9495-4935-b901-2e58953498f6,travel.club,resell,,,high,medium,6,Porkbun,13/01/2015 20:51,12/01/2035 23:59,26/09/2026 09:44
 a3d74e28-9eba-4b2a-93f0-db66ef74fd66,hotel.garden,premium,104,31.2,high,medium,5,namecheap,,,
-3ef7d5f1-6fa7-42d4-8dd7-9a6f0513cc76,guesthouse.ninja,available,42.98,,high,high,10,namecheap,,,
-c81e7e8b-5b94-4543-b834-205cd5158f41,room.credit,available,11,104.99,high,low,4,unstoppable,,,28/09/2026 06:11
 a2727c9c-0a38-42f9-b70e-babbee256d91,hotel.fail,premium,128.7,128.7,high,medium,5,namecheap,,,
-96914d8a-bafe-4cd4-8f91-532baa69d618,food.shop,premium,13800,13800,high,medium,4,namesilo,,,28/09/2026 02:44
 92421dc8-5f00-4dab-a592-b2e2b5b023e8,hotel.voto,resell,,,high,medium,5,InterNetX GmbH,03/01/2018 11:48,03/01/2027 11:48,26/09/2026 06:44
 902b9895-a7ce-47a9-baae-df44f3b94a84,hotel.capital,premium,242,242,high,medium,5,namesilo,,,25/09/2026 10:56
 524caf4f-8c0e-4ffa-ba88-e17a4eea151d,inn.company,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
-2b0bb0a1-0cc9-4f0e-8f7e-d318f22b8564,resort.finance,available,15.99,,high,low,6,name.com,,,
-4761cd5d-5b8a-4e1f-952e-ae4215b5748b,restaurant.center,resell,,,high,low,10,"Spaceship, Inc.",31/05/2024 15:15,31/05/2027 15:15,26/09/2026 08:38
-7f22780d-d5ec-4327-a434-37e9caf572dc,resort.auto,available,2950,,high,low,6,namecheap,,,
-ea93a49d-295a-4c27-addd-67e029f8219b,travel.llc,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
 9e24e975-9a3d-4cc2-b578-71fbc3ce6480,accommodation.online,premium,1562.5,6250,high,high,13,name.com,,,
-d9146eb7-1c07-4571-b432-cb15b91a9eee,food.tires,available,70.2,70.2,high,medium,4,cloudflare,,,28/09/2026 02:44
 2131e212-0cac-46c2-ac7c-5ba1d2c56233,inn.onl,available,5.49,23.49,high,low,3,namesilo,,,21/09/2026 02:28
-3585b83e-c5a2-4a01-bbbb-08adf97f568f,restaurant.mba,available,17.99,39.99,high,low,10,namesilo,,,25/09/2026 05:21
-65033e30-4cb1-429d-aed8-8f01d09c603c,food.institute,resell,,,high,medium,4,Dynadot Inc,29/09/2023 23:29,29/09/2028 23:29,28/09/2026 02:44
-a43690fe-a058-4a6f-a457-0a1a13bdab9b,room.clothing,available,26.08,26.08,high,low,4,spaceship,,,28/09/2026 06:11
-47d87d04-4c70-4531-973f-122e71b2f28a,room.catering,premium,242,242,high,low,4,namesilo,,,28/09/2026 06:11
-75c6b2df-3431-4208-bbcb-38e7633209da,travel.vodka,premium,260,32.5,high,medium,6,namecheap,,,24/09/2026 22:30
 406f2fad-67b1-449c-b2c6-a94dfc4056f4,inn.properties,premium,242,242,high,low,3,namesilo,,,21/09/2026 02:28
 9d5a5ae1-4842-405a-8eda-36f6a978981e,resort.space,premium,1625,6500,high,low,6,namecheap,,,
-45583b00-7d48-477b-b948-977f20cd9f6b,resort.casino,premium,1000,,high,low,6,name.com,,,
-17e6e595-c3ab-4911-ac51-86e5c4ae8ae7,resort.theatre,available,509.99,529.99,high,low,6,namesilo,,,
 29e3ade9-0dc8-4904-82ff-395674d29d88,inn.claims,available,19.99,86.99,high,low,3,name.com,,,21/09/2026 02:28
-5763204d-c91b-4ee7-8daf-7821d8aa830e,room.prof,premium,671.92,671.92,high,low,4,spaceship,,,28/09/2026 06:11
 01ffcdc0-d4c4-4309-945a-9c6b58e39395,inn.attorney,available,62.99,62.99,high,low,3,namesilo,,,21/09/2026 02:28
+564907ef-c45c-4e14-b9e9-14a7409c452e,inn.dentist,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
+165bcfff-699d-4be2-a864-b5dc2fdb3100,inn.video,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
+d7d0c847-d39e-4035-b5ad-403c32d1dd06,hotel.mobi,resell,,,high,medium,5,EuroDNS S.A.,11/05/2006 22:13,11/05/2027 22:13,26/09/2026 06:44
+c4bfa643-e39d-4a7e-a457-32102ee92931,hotel.sale,premium,854,854,high,medium,5,namesilo,,,25/09/2026 10:57
+2d497045-4414-4f9c-9f3d-6c7626ae4eba,travel.lifestyle,premium,1820,2600,high,medium,6,namecheap,,,24/09/2026 22:30
+37be71c0-3a78-4146-a8cd-a645e8444a97,resort.tours,available,9.99,,high,low,6,name.com,,,
+7a6b802d-fd45-4e59-8bb0-54b1837c07eb,inn.works,premium,242,242,high,low,3,namesilo,,,21/09/2026 02:28
+e2149e7b-7dc5-4de0-b1bd-0c4b6cd20f51,hotel.builders,premium,128.7,128.7,high,medium,5,namecheap,,,
+27ea5d26-81a1-4775-bb95-4911b170acab,resort.holiday,premium,500,,high,low,6,name.com,,,
+44ef6353-bdef-4742-a38c-84589d313902,inn.rsvp,premium,323.7,323.7,high,low,3,namecheap,,,21/09/2026 02:28
+90ba1e36-c5d3-4277-ba57-6ee1ce438460,hotel.financial,premium,128.7,128.7,high,medium,5,namecheap,,,
+93e5b5e9-7bb0-4377-b8d3-2906cb6e318c,inn.inc,premium,2061.5,2660,high,low,3,namesilo,,,21/09/2026 02:28
+4e58b675-12af-4dcb-a5f5-8cb50e6e929c,hotel.contact,resell,,,high,medium,5,Porkbun LLC,09/12/2020 16:00,09/12/2026 16:00,26/09/2026 06:44
+bfcef2a4-6a38-4d08-9205-ac0fc2f98663,inn.paris,available,65.99,65.99,high,low,3,name.com,,,21/09/2026 02:28
+dd6ca2a9-5568-4996-ac66-a381bc236b49,inn.coffee,available,16.99,42.99,high,low,3,namesilo,,,21/09/2026 02:28
+d2911c27-1131-4ed8-9cf2-05e4065b2f5e,travel.apartments,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+32aa98a5-689e-4428-ba6a-1eb7d9ff3329,hotel.loans,available,20.99,116.99,high,medium,5,namesilo,,,25/09/2026 10:57
+02ada0a0-1fb6-4551-a69c-6d64fe0261d0,inn.diamonds,available,75.99,75.99,high,low,3,name.com,,,21/09/2026 02:28
+39d22444-f8c5-471c-b065-c6d99e8e0696,inn.events,premium,38.94,38.94,high,low,3,namesilo,,,21/09/2026 02:28
+7a9e3147-7431-4f1d-83a6-773b84fb0689,travel.supplies,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
+94ec41ad-e057-4fcb-a01d-a368c9c7d813,hotel.tips,premium,128.7,128.7,high,medium,5,namecheap,,,
+fcb2077b-79e4-460c-881a-17a02b33391c,inn.kiwi,available,42.99,42.99,high,low,3,name.com,,,21/09/2026 02:28
+a53d7ea0-fc30-406d-ae36-0d637893a3a2,inn.dating,available,20.99,64.99,high,low,3,namesilo,,,21/09/2026 02:28
+79cbbc2e-8d59-4333-a5ae-98b408b9f48b,inn.jewelry,available,19.99,84.99,high,low,3,name.com,,,21/09/2026 02:28
+82831c7c-0986-4f5d-8f25-25e08b873aba,inn.sbs,premium,562.5,750,high,low,3,name.com,,,21/09/2026 02:28
+5d646c6f-eb03-4a3d-9c92-89fc23e73c03,hotel.hot,premium,650,650,high,medium,5,namecheap,,,
+edcc85fa-9189-4b29-9c58-fcb3fc8872bb,inn.audio,available,299.99,299.99,high,low,3,name.com,,,21/09/2026 02:28
+8db81085-6898-4c3b-88f1-6b53f2d67b22,inn.restaurant,premium,123.75,123.75,high,low,3,name.com,,,21/09/2026 02:28
+45702691-1651-4cb9-9ce1-8508a2fd4080,inn.bingo,available,51.98,68.98,high,low,3,namecheap,,,21/09/2026 02:28
+049009bd-8646-4d70-b80e-846c1ae137d3,hotel.promo,premium,3250,3250,high,medium,5,namecheap,,,
+1d563456-d9db-4d8c-b2da-5198a7bb0250,hotel.supplies,premium,260,260,high,medium,5,namecheap,,,
+66d93788-d4cb-4620-a639-62d293af3962,hotel.surf,premium,104,31.2,high,medium,5,namecheap,,,
+f4981178-e18a-4a96-b844-0db19860b034,hotel.security,available,1999.99,2049.99,high,medium,5,namesilo,,,
+54481e42-915a-43e1-a7f1-a92047b43af5,inn.makeup,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 02:28
+a20ef20a-2cb4-4ce1-a751-1326e493e8ea,resort.viajes,available,37.99,37.99,high,low,6,namesilo,,,
+6cdac4e8-9093-420f-bc09-f9a6507bd6e3,room.maison,premium,128.7,128.7,high,low,4,namecheap,,,28/09/2026 06:11
+5deee4b9-f5e3-4098-918a-b20089211b93,resort.rentals,premium,242,242,high,low,6,namesilo,,,
+54f0c7ac-675e-45f0-9963-660bd8fcb594,hotel.mortgage,premium,520,520,high,medium,5,namecheap,,,
+e1dec90d-2261-4b58-9638-9832bb0df125,inn.jetzt,premium,82.5,82.5,high,low,3,name.com,,,21/09/2026 02:28
+b628003b-4dd7-4317-8684-895d7ca896e1,hotel.dance,available,17.99,,high,medium,5,name.com,,,
+44f860f7-a733-47d1-ae59-721141bbb714,hotel.win,premium,455,65,high,medium,5,namecheap,,,
+680de6b5-0a5a-456b-b709-393ebe8be9f9,inn.review,premium,625,81.25,high,low,3,name.com,,,21/09/2026 02:28
+a82fce82-a714-45ab-9753-7d50d18d8f4f,inn.delivery,available,6.75,61.99,high,low,3,namesilo,,,21/09/2026 02:28
+bcfec40e-b5ee-4f10-bd0e-30a15b483400,hotel.mobile,premium,375,,high,medium,5,name.com,,,
+ba652e6f-62a3-4a9e-93d1-d3180b07a20b,inn.equipment,available,19.99,41.99,high,low,3,name.com,,,21/09/2026 02:28
+b6faf1e4-7d8f-4997-b953-4aae3c3156d7,hotel.kitchen,available,14.99,,high,medium,5,name.com,,,
+cf100d82-07a6-4980-8176-5f71e2d79061,inn.bid,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 02:28
+e34b37ec-840b-4501-a422-40aec164eb7c,travel.church,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+17180421-4406-4c27-97f6-3a7b62614500,travel.cash,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,30/08/2015 18:05,30/08/2027 18:05,26/09/2026 09:44
+1f5fc5e2-a533-48a2-9414-860b73985ea3,food.tours,resell,,,high,medium,4,"GoDaddy.com, LLC",04/07/2015 08:51,04/07/2027 08:51,28/09/2026 02:44
+801a61e5-4996-49f8-9fb9-84a0c42d4561,hotel.surgery,premium,260,260,high,medium,5,namecheap,,,
+3443d273-41b1-49b6-bdc4-fd92848e4b2b,lodging.store,premium,156.25,625,high,high,7,name.com,,,
+033c0366-9535-4ab2-b5f4-14fe3b3b175b,hotel.live,premium,700,1400,high,medium,5,namecheap,,,
+9b893e1d-b715-4f79-944b-7b37f8ab8350,resort.melbourne,premium,452.31,,high,low,6,name.com,,,
+03be820b-9094-475e-b777-8f8c0c939547,hotel.creditcard,premium,260,260,high,medium,5,namecheap,,,
+90605796-ac01-4399-b235-417b5f307fd4,accommodation.ninja,available,9.99,34.99,high,high,13,name.com,,,
+85b8911f-0006-4de0-87b5-6097f2088a98,inn.vana,available,3999.99,3999.99,high,low,3,name.com,,,21/09/2026 02:28
+3324611d-3ec6-4fc4-a397-9e58265efa4e,inn.how,available,34.99,34.99,high,low,3,name.com,,,21/09/2026 02:28
+65961efa-565f-49b0-a145-a59b7736a5cf,travel.free,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
+e52de7b1-57af-4c83-bda6-6c7ad7b8164b,inn.town,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
+3b09e14e-79b1-4639-b229-820b03d37606,resort.house,premium,42.9,42.9,high,low,6,namecheap,,,
+d735889c-9837-4224-959a-18a31772ade6,travel.lease,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
+34f5ce59-07d7-4831-b252-c97ae2679308,travel.charity,available,7.48,37.98,high,medium,6,namecheap,,,24/09/2026 22:30
+1b1f1371-dafa-4a61-9167-3768f1435829,hotel.cruises,premium,260,260,high,medium,5,namecheap,,,
+73c5907f-fdcc-4f02-a9ac-06e7c153fe16,travel.study,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
+9d805a25-3411-44e7-835f-81e5f14b4d61,hotel.attorney,premium,1300,1300,high,medium,5,namecheap,,,
+338cf744-9f7b-4ad2-92cd-d4003438c3e1,hotel.photos,resell,,,high,medium,5,Porkbun LLC,01/04/2026 17:33,01/04/2027 17:33,26/09/2026 06:44
+a8ff0b60-c109-48b6-ada7-e783cacbd283,travel.garden,premium,5200,32.5,high,medium,6,namecheap,,,24/09/2026 22:30
+935b42dc-e56f-4b24-9b46-b6e9c72801b0,inn.sucks,available,218.99,218.99,high,low,3,namesilo,,,21/09/2026 02:28
+d518c753-79a1-4833-abed-47a1413d31db,inn.trade,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 02:28
+c67e7cf4-308a-4452-a567-0b19b2d44ab4,inn.degree,available,52.99,52.99,high,low,3,namesilo,,,21/09/2026 02:28
+5ef77377-3aa2-4f56-a34a-e8e99c0b1c0b,inn.llc,premium,1995,1995,high,low,3,namesilo,,,21/09/2026 02:28
+70ed1d6e-5edf-451f-ba39-151ae82d63ba,travel.watch,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+a241ec65-6056-47be-8f7b-3760859c62e7,inn.football,available,26.98,36.98,high,low,3,namecheap,,,21/09/2026 02:28
+e47276f0-a166-49f7-a1b9-4863223654ef,inn.deal,premium,130,130,high,low,3,namecheap,,,21/09/2026 02:28
+f2b2e25f-35ab-4824-8243-3f5789a193f0,travel.hair,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
+fb2daf8e-8535-4215-a977-60e8c45f2aa8,inn.plumbing,available,72.99,72.99,high,low,3,namesilo,,,21/09/2026 02:28
+53ac5706-c0f1-45b5-be98-52f8cdba9f35,inn.hiphop,premium,650,130,high,low,3,namecheap,,,21/09/2026 02:28
+f16bd16f-35c8-4036-8a8e-05112ad9bbe8,inn.army,available,18.99,39.99,high,low,3,namesilo,,,21/09/2026 02:28
+1ba6fd0f-35c6-4bd2-95b2-3b868a7e609c,travel.maison,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
+4005410c-0f97-4dbe-9d36-8309431ef739,hotel.boo,premium,1298.7,1298.7,high,medium,5,namecheap,,,
+95303d94-1263-4281-b75b-03f03c34aa39,travel.film,premium,1107,1107,high,medium,6,namesilo,,,24/09/2026 22:30
+9a32c28a-482e-4391-8d0f-0700ae853ca0,hotel.fishing,premium,104,31.2,high,medium,5,namecheap,,,
+ec2513e1-1d6c-4d7d-8cb0-3d1e94917579,travel.salon,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+a41ad94c-20d1-42b9-9924-9b00611d7891,inn.hospital,available,57.99,57.99,high,low,3,namesilo,,,21/09/2026 02:28
+abb91c19-103d-486e-bf85-7b436186830d,hotel.plumbing,available,14.99,,high,medium,5,name.com,,,
+0e227124-53f9-4b11-90f6-c1485679e93c,travel.wtf,resell,,,high,medium,6,"Spaceship, Inc.",27/09/2023 00:24,27/09/2027 00:24,28/09/2026 04:44
+0c22e1ea-b9a6-4603-8781-c6c0462a9deb,room.cruises,available,56.99,56.99,high,low,4,namesilo,,,28/09/2026 06:11
+d8932d2b-98c7-423f-b21d-e191e6613a43,travel.ing,premium,39000,39000,high,medium,6,namecheap,,,24/09/2026 22:30
+6f160d6d-8af9-4373-935f-8c051ec3232b,hotel.forum,premium,195,650,high,medium,5,namecheap,,,
+2682d32b-ece4-4fb7-8b49-12ce62f4ad64,resort.ski,resell,,,high,low,6,"Sav.com, LLC",28/06/2026 23:03,28/06/2027 23:03,26/09/2026 08:38
+1d0e6431-e259-4916-a998-e18caccee28c,inn.bond,premium,390,780,high,low,3,namecheap,,,21/09/2026 02:28
+e4579bea-7474-493d-a0ca-1129eacceb40,inn.vegas,available,12.99,43.99,high,low,3,namesilo,,,21/09/2026 02:28
+4856e9a4-3897-49ab-8a98-ac1dd489c41b,inn.auto,available,2999.99,3799.99,high,low,3,name.com,,,21/09/2026 02:28
+ac608e1f-2e6b-40b0-aacf-500bfef9145b,inn.day,premium,323.7,323.7,high,low,3,namecheap,,,21/09/2026 02:28
+5026b950-5e72-4286-8f87-f2007572b05e,inn.irish,available,7.49,22.49,high,low,3,namesilo,,,21/09/2026 02:28
+0b1128cf-2550-4559-b1e4-d805c8ba3696,travel.sh,resell,,,high,medium,6,"GoDaddy.com, LLC",13/07/2016 00:30,13/07/2027 00:30,26/09/2026 09:44
+7903ecbb-17ad-4f57-8726-2fe8dcbe39eb,hotel.auto,available,1999.99,2199,high,medium,5,namesilo,,,
+7a9a8702-3c00-414a-8c5a-b977e6c29845,food.viajes,available,36.56,36.56,high,medium,4,porkbun,,,28/09/2026 02:44
+274d4f25-39d2-4a51-9234-ef89b92de7f8,travel.cc,resell,,,high,medium,6,"22net, Inc.",12/10/2000 04:00,12/10/2027 04:00,26/09/2026 09:44
+7f6e888f-b78f-4a97-b91f-20c7e725990b,hotel.so,resell,,,high,medium,5,InterNetX GmbH,28/04/2011 00:00,28/04/2026 00:00,
+d5e4e9d9-d5b5-485e-9a68-98e91ea2f6e6,hotel.lgbt,premium,3900,3900,high,medium,5,namecheap,,,
+6ae083ca-578b-44a2-b7fa-3694676bab11,hotel.healthcare,available,88.99,88.99,high,medium,5,namesilo,,,
+eb959142-b3a0-41a5-a60c-24093fcc97c0,hotel.rsvp,premium,1298.7,1298.7,high,medium,5,namecheap,,,
+357cf779-4650-4fde-b42d-8af6dbaf3688,hotel.gratis,premium,520,520,high,medium,5,namecheap,,,
+142a5187-44b5-4503-8bff-8cdc21b22600,inn.sexy,premium,34500,34500,high,low,3,namesilo,,,21/09/2026 02:28
+63ef2687-649a-432e-9a48-87e2e2819baf,inn.band,available,20.99,31.49,high,low,3,namesilo,,,21/09/2026 02:28
+f0fbf189-7c90-4254-8d7b-7d49ce942e87,inn.desi,available,19.98,22.98,high,low,3,namecheap,,,21/09/2026 02:28
+2d9b2b05-1744-4c36-a961-787cfd95e6cf,inn.gifts,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
+56bb74d2-34ae-48d6-9f80-a567c8009660,inn.club,premium,227.5,19.5,high,low,3,namecheap,,,21/09/2026 02:28
+7d10786c-6ea5-469c-bcb4-f056e51fd027,inn.memorial,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
+7cf9eb3b-ce92-43e4-816a-8f4bc05b0b3b,travel.actor,available,16.99,44.49,high,medium,6,namesilo,,,24/09/2026 22:30
+25e2b722-eaf4-457b-878a-299725093916,inn.financial,available,17.48,66.98,high,low,3,namecheap,,,21/09/2026 02:28
+a63fdc20-ada2-458f-b925-16c7f80fa143,inn.cam,premium,520,18.2,high,low,3,namecheap,,,21/09/2026 02:28
+75f0b5de-7064-420c-a7c5-199ab9e8ddce,room.locker,premium,5175.2,31.25,high,low,4,spaceship,,,28/09/2026 06:11
+d1ede900-8ff1-4aed-ac23-27042bb47ccd,accommodation.site,premium,3450,3450,high,high,13,namesilo,,,27/09/2026 05:09
+470e1dd4-7475-4774-a70b-eaa2aa161a59,inn.florist,available,31.98,41.98,high,low,3,namecheap,,,21/09/2026 02:28
+423f5fae-874a-4d6b-882a-31f64a1f957d,inn.hair,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 02:28
+1bd0b67d-2434-42d9-9908-605557af9791,resort.cruises,premium,123.75,,high,low,6,name.com,,,
+c4440f77-dc3a-41e4-be42-53303a8da9f1,inn.cool,available,9.49,44.99,high,low,3,namesilo,,,21/09/2026 02:28
+03ebf9c7-f3a4-4fb8-aec8-f4a6825aa049,inn.team,resell,,,high,low,3,"GoDaddy.com, LLC",13/11/2019 18:45,13/11/2026 18:45,26/09/2026 06:53
+9683ae3b-7fc7-4934-a3b0-32a8220fc0cd,inn.promo,premium,1107,1107,high,low,3,namesilo,,,21/09/2026 02:28
+6ce43e7f-5a85-474c-808a-ba3b3f25f28a,hotel.limited,premium,85.8,85.8,high,medium,5,namecheap,,,
+faacf37e-c148-4a19-8db8-41e99ea137cc,resort.nyc,premium,3125,,high,low,6,name.com,,,
+e678c4c7-a24f-4833-b3d9-3053f2014c88,inn.toys,available,17.99,64.99,high,low,3,namesilo,,,21/09/2026 02:28
+ca2ef80f-159b-4368-b52a-000ee218f9b0,hotel.motorcycles,premium,845,845,high,medium,5,namecheap,,,
+cdff9844-bd9c-4158-849c-202dc48322b0,hotel.recipes,available,11.99,,high,medium,5,name.com,,,
+8bf1b59a-0cbd-42a4-a56f-d1812d4daddd,inn.foo,premium,161.25,161.25,high,low,3,name.com,,,21/09/2026 02:28
+6f959c5e-fa1c-4753-ba87-ba1c6f806ea2,inn.accountant,premium,625,81.25,high,low,3,name.com,,,21/09/2026 02:28
+3dff6628-e7e0-4172-a9f8-8f29328d604d,resort.camp,available,11.99,,high,low,6,name.com,,,
+e242ed50-5ad4-4866-8580-2d71727808ba,hotel.bargains,premium,520,520,high,medium,5,namecheap,,,
+aaaabd7e-2690-422e-b5b5-9f330ddb9697,hotel.xyz,available,,,high,medium,5,,,,
+73c896cd-55a5-414f-81d3-fc2bf3ad5245,inn.motorcycles,available,1.99,17.29,high,low,3,namesilo,,,21/09/2026 02:28
+9af96cd5-b13c-427b-8b6d-4e117a6fc2fa,inn.associates,premium,82.5,82.5,high,low,3,name.com,,,21/09/2026 02:28
+a2153e41-439a-4d24-a3df-f035b56c8b5f,travel.rsvp,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
+497d4faf-086a-4593-8a3e-9c3e2688e9c6,inn.autos,resell,,,high,low,3,UM Domains Pte. Ltd.,03/01/2026 09:15,03/01/2027 23:59,26/09/2026 06:52
+50078cba-3b49-44ec-9a45-7523be0004c9,inn.hiv,available,184.99,184.99,high,low,3,name.com,,,21/09/2026 02:28
+07e7e1e5-d565-40e7-acf3-70746fc84a3d,inn.camp,available,62.99,62.99,high,low,3,namesilo,,,21/09/2026 02:28
+5c34a746-0d33-4b11-9618-1fe4fd378ef6,inn.esq,premium,411.25,411.25,high,low,3,name.com,,,21/09/2026 02:28
+74fad286-da13-4bf1-b089-0dc3ddacaac5,inn.tours,available,5.98,81.98,high,low,3,namecheap,,,21/09/2026 02:28
+fc31c80d-5b13-44ed-96b2-fef81a7963d8,resort.pw,resell,,,high,low,6,"GoDaddy.com, LLC",01/08/2026 21:53,01/08/2027 21:53,26/09/2026 08:37
+5c386119-cc29-4241-ada0-16d25b0b69cc,hotel.club,resell,,,high,medium,5,"GoDaddy.com, LLC",19/07/2019 22:26,19/07/2027 22:26,26/09/2026 06:44
+9ae45841-bc55-449c-ac2b-53e8808aab9d,inn.gripe,available,39.49,43.99,high,low,3,name.com,,,21/09/2026 02:28
+1b0bf655-bd31-4a25-8a9b-d36d8f28b18a,inn.sale,resell,,,high,low,3,Dynadot Inc,03/07/2026 19:50,03/07/2027 19:50,26/09/2026 06:53
+1b9a0325-6abc-4bc5-9bb1-86a40200494b,travel.webcam,premium,3450,116,high,medium,6,namesilo,,,24/09/2026 22:30
+5e081d73-c74b-45bf-bacf-981a61661ea3,hotel.yachts,premium,845,845,high,medium,5,namecheap,,,
+056757d0-2504-4423-96a4-19828266fe49,travel.democrat,available,7.25,32.99,high,medium,6,namesilo,,,24/09/2026 22:30
+69ad75da-ba66-46ef-ab5b-e367e8fd436a,inn.ninja,available,15.99,30.99,high,low,3,namesilo,,,21/09/2026 02:28
+fc60db7a-7bf8-4cbc-b512-464f52e9102d,hotel.vin,premium,520,520,high,medium,5,namecheap,,,
+4e387561-7518-47e0-9ef3-7fb57e2e65a5,resort.hair,available,1.99,,high,low,6,name.com,,,
+20d6033e-847c-4494-a474-502921ebe1cd,travel.living,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
+ffec24e3-0f18-4523-a965-cb59e55f586d,inn.realty,available,109.99,299,high,low,3,namesilo,,,21/09/2026 02:28
+2bf67aea-ea2c-49b5-9bd7-750dda8efbfa,inn.la,resell,,,high,low,3,.LA Founders Premium Program,12/03/2016 04:14,12/03/2027 23:59,26/09/2026 06:52
+0d574918-e6be-4b4e-a2ff-dfa8841df8fe,room.london,premium,677.3,338.65,high,low,4,namesilo,,,28/09/2026 06:11
+f24f8d64-974e-4878-95f1-42cc0ba7dea1,hotel.spot,premium,650,650,high,medium,5,namecheap,,,
+d0df13b0-b133-44c4-8e31-d95234e9d238,resort.living,premium,1960,2800,high,low,6,namecheap,,,
+17b1f4ee-9c01-480d-bfc9-9e9531c46af9,inn.energy,available,15.99,114.99,high,low,3,namesilo,,,21/09/2026 02:28
+2ac37dc4-6295-47e2-8d18-d70f2a163283,travel.hockey,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
+e30ee4ad-2cb2-4d0f-85ff-fcd237e0b7f0,resort.supplies,available,25.48,32.48,high,low,6,namecheap,,,25/09/2026 13:30
+07d84ba6-3fd5-44d3-8244-095639174c75,resort.moi,available,39.99,,high,low,6,name.com,,,
+d8874ca0-f8f8-426d-b98b-e9fee4cb4619,resort.bargains,premium,82.5,,high,low,6,name.com,,,
+c9bba91f-5fd1-40b9-ad40-e3eb59fc9572,hotel.horse,premium,260,31.2,high,medium,5,namecheap,,,
+49302bfd-969f-4901-a91f-c8c22352f1ab,hotel.florist,available,14.99,,high,medium,5,name.com,,,
+c00b503e-36d1-47fd-a944-dc2cafc1e2a5,inn.zone,available,12.99,38.99,high,low,3,namesilo,,,21/09/2026 02:28
+be47eaea-9acc-46f3-ad7e-09af077cbca0,resort.voting,available,1448,,high,low,6,namecheap,,,
+07c22ce9-e8c1-4dc1-b6eb-48f2ab412ece,travel.security,available,1999.99,2049.99,high,medium,6,namesilo,,,24/09/2026 22:30
+4f6790af-6c74-4f7b-b699-69dea3024ffc,resort.builders,premium,123.75,,high,low,6,name.com,,,
+92d28c1b-136b-499b-8653-c67fa02d97c6,travel.hosting,available,309.99,429.99,high,medium,6,namesilo,,,24/09/2026 22:30
+4e0718f2-eb09-4fb5-8e8e-9ac6fea42e21,resort.baby,available,29.99,,high,low,6,name.com,,,
+6675727a-d927-4ad1-9cd2-9f4693ce3425,inn.pw,resell,,,high,low,3,West263 International Limited,27/08/2017 01:08,27/08/2027 23:59,26/09/2026 06:53
+8ddccc43-30f0-441e-a25c-7e6b76ce94e5,travel.rehab,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
+446ef711-a531-43ad-8448-e80b1ee46bf2,hotel.meme,premium,1690,1690,high,medium,5,namecheap,,,
+9c757126-9026-41d8-9192-ac70c6f889c9,inn.broker,available,14.99,32.99,high,low,3,name.com,,,21/09/2026 02:28
+1057fdb3-de08-4855-aab4-d704f2318e88,inn.courses,premium,625,625,high,low,3,name.com,,,21/09/2026 02:28
+d376fb11-3109-44ed-9ecf-bc4776d1e004,inn.contractors,premium,78.54,78.54,high,low,3,namesilo,,,21/09/2026 02:28
+c9218ebc-7443-44d3-96bd-f49cfce4ff4f,hotel.ceo,premium,258.7,258.7,high,medium,5,namecheap,,,
+e9043a83-b2f4-4b68-a57b-bb58afea5b3e,travel.foo,premium,1298.7,1298.7,high,medium,6,namecheap,,,24/09/2026 22:30
+b324b632-3948-47ff-9d00-fbc495e97b84,resort.country,available,2450,,high,low,6,namecheap,,,
+77d16b55-aab1-4662-a7cd-19acccc03872,travel.tours,resell,,,high,medium,6,"GoDaddy.com, LLC",03/07/2015 23:51,03/07/2027 23:51,26/09/2026 09:44
+12376557-595a-4d7d-98b9-363204faf4f3,inn.stream,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 02:28
+e57ad898-ea71-4b49-b9fb-5847d52e7dec,resort.fish,available,19.99,,high,low,6,name.com,,,
+9c08750c-e168-42bb-b0fb-7d1a6c0f9b52,travel.video,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
+7d27b04a-af9f-4312-a985-f62460ff2481,resort.vana,available,2498,,high,low,6,namecheap,,,
+8479583f-b2f3-48ed-9748-172524eaefda,inn.reisen,premium,23.6,23.6,high,low,3,namesilo,,,21/09/2026 02:28
+d3781852-4ebb-490e-b48a-79df7c52817e,hotel.luxe,resell,,,high,medium,5,"GoDaddy.com, LLC",23/01/2021 00:05,23/01/2027 00:05,26/09/2026 06:44
+bc282847-c32a-49e7-a068-c0a7c0ef8974,resort.tattoo,available,34.99,34.99,high,low,6,namesilo,,,
+17ce6420-eaf9-4639-9ea8-eabcc12f6d0f,resort.charity,available,5.99,,high,low,6,name.com,,,
+0631b3ee-0090-48de-97c1-6ad448b0bfac,hotel.shopping,premium,520,520,high,medium,5,namecheap,,,
+19614e27-3ed5-4791-81b0-efaad9a1f602,inn.villas,premium,242,242,high,low,3,namesilo,,,21/09/2026 02:28
+c6757e92-f173-48ee-8d92-93fa02913327,travel.pub,resell,,,high,medium,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/07/2014 17:30,27/07/2027 17:30,26/09/2026 09:44
+74bc47a5-f637-4381-af9e-7499f3cfc130,inn.lgbt,available,11.98,93.98,high,low,3,namecheap,,,21/09/2026 02:28
+a809240a-eead-435d-aea2-1bafc875e7de,travel.autos,resell,,,high,medium,6,"Spaceship, Inc.",23/07/2021 14:35,23/07/2027 23:59,26/09/2026 09:44
+a66cc67a-f6fd-4b14-bd3d-a806c6f8620d,hotel.ing,premium,1690,1690,high,medium,5,namecheap,,,
+302f5099-8f19-44fc-93cf-b2ca0165499d,hotel.page,premium,1298.7,1298.7,high,medium,5,namecheap,,,
+4acc8a25-9464-4f10-b425-a12766cc4fc7,resort.industries,available,17.49,,high,low,6,name.com,,,
+ec6764e4-bcfa-4b5e-bdf3-f7e6891d540b,travel.productions,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+84664dfd-9d4e-4092-949d-1d0f9185162e,hotel.science,premium,650,84.5,high,medium,5,namecheap,,,
+baccbe40-80f8-4048-92b5-0ce9af03e5c2,room.pw,premium,100,116,high,low,4,unstoppable,,,28/09/2026 06:11
+6ddd7ab8-520e-45e7-822e-a0b211ae8376,resort.town,premium,242,242,high,low,6,namesilo,,,
+a76ea959-d146-465e-b155-b74d3b1ac600,inn.car,available,1999.99,2199,high,low,3,namesilo,,,21/09/2026 02:28
+ddf9bc70-093b-4d6d-95f4-79ea476ae2fb,inn.gives,available,14.99,23.99,high,low,3,namesilo,,,21/09/2026 02:28
+5677a26a-1ca2-431f-b9c4-150b95bbaa75,inn.diet,available,108.98,159.98,high,low,3,namecheap,,,21/09/2026 02:28
+04cbcfd2-85dc-41b7-bc28-0f79e937fdee,inn.directory,premium,31.99,25,high,low,3,name.com,,,21/09/2026 02:28
+920aa1a8-a4bc-47ff-96ee-10a1d6430dea,inn.cyou,premium,384,768,high,low,3,namesilo,,,21/09/2026 02:28
+21c8013e-e5e9-4d76-98a1-abcc0296432c,travel.sarl,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+24ada9fe-d423-471d-9e61-a72ec6432234,resort.company,resell,,,high,low,6,"GoDaddy.com, LLC",09/04/2014 18:51,09/04/2027 18:51,26/09/2026 08:37
+9ff6f386-c24a-412b-a988-999ea6593103,inn.storage,available,509.99,529.99,high,low,3,namesilo,,,21/09/2026 02:28
+98dbe367-3fc3-4e4c-abc3-373e7fd16d76,inn.cfd,premium,390,780,high,low,3,namecheap,,,21/09/2026 02:28
+b1376689-3e27-4d74-ab06-ca8daf547837,inn.fun,premium,325,1300,high,low,3,namecheap,,,21/09/2026 02:28
+dd31a6b5-5238-42e4-b291-32ce1a31b9e4,travel.auto,available,1999.99,2199,high,medium,6,namesilo,,,24/09/2026 22:30
+b235c659-18a6-4b84-b2e2-453e3a93806e,travel.consulting,premium,1107,1107,high,medium,6,namesilo,,,24/09/2026 22:30
+96c79ab9-0b13-40ad-b8a3-dd99184f1e7b,inn.luxury,available,,,high,low,3,,,,21/09/2026 02:28
+adfac4c3-51b2-4cf9-8c41-ebb43d075c56,inn.immobilien,available,39.98,43.98,high,low,3,namecheap,,,21/09/2026 02:28
+32a3010e-436a-4634-b25b-e08105d437c5,travel.shopping,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+9ce7c774-c739-4621-89c4-3f93182c8af0,travel.store,premium,3250,13000,high,medium,6,namecheap,,,24/09/2026 22:30
+5a0d1603-3944-4d5d-b642-53f3f75a0bd2,inn.giving,available,5.99,40.99,high,low,3,name.com,,,21/09/2026 02:28
+8b9ddd6c-6a1d-427a-9220-f1b68505d953,resort.vodka,premium,47.2,29.5,high,low,6,namesilo,,,
+24bfd4da-6c51-42a8-8aa2-f2c68472c868,resort.dental,available,59.98,,high,low,6,namecheap,,,
+45fad488-c837-45b3-aa66-e75313b613f2,resort.holdings,available,80.99,,high,low,6,name.com,,,
+46ac0aaa-67e4-4f80-962a-8e85d800f046,inn.bargains,premium,85.8,85.8,high,low,3,namecheap,,,21/09/2026 02:28
+80162a1b-84fc-4b7f-bc18-427c89f4ff6a,hotel.properties,premium,1040,1040,high,medium,5,namecheap,,,
+6f1a3ca2-d805-49e5-a886-36954e71a803,lodge.reisen,available,16.76,16.76,high,low,5,spaceship,,,28/09/2026 23:14
+3956622f-497a-4534-9639-e71d4cce0535,hotel.actor,available,54.98,,high,medium,5,namecheap,,,
+1e38769d-538a-4381-97cc-443e86c200a6,inn.rentals,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
+d741fe73-b327-4863-aac2-a11ff96f70f8,resort.racing,premium,625,,high,low,6,name.com,,,
+a8463a60-0b41-4a75-88d2-c8b0e9ab2630,resort.photo,premium,125,,high,low,6,name.com,,,
+d8800990-4fa3-4307-8299-c4897c094a6a,room.srl,available,28.04,28.04,high,low,4,dynadot,,,28/09/2026 06:11
+dc781d35-9223-408b-a785-e27d4346da16,inn.school,premium,64.35,128.7,high,low,3,namecheap,,,21/09/2026 02:28
+1f9e9741-e6a6-4468-bfc3-930a982dd804,resort.delivery,available,8.99,,high,low,6,name.com,,,
+ce47863a-7b46-4d05-bde6-b30138c093d5,inn.parts,premium,47.99,41.25,high,low,3,name.com,,,21/09/2026 02:28
+fd4d6ccb-10cf-4b20-8524-07e453f42157,travel.recipes,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+e44e1d5e-60e7-4722-b78c-73de9c463f7a,room.host,premium,6900,6900,high,low,4,namesilo,,,28/09/2026 06:11
+150b7451-ef03-4661-b19e-131860e6c43d,inn.vote,available,23.98,119.98,high,low,3,namecheap,,,21/09/2026 02:28
+331b57f8-da58-4a20-b9b4-5b7be3752ac2,food.la,resell,148062.5,,high,medium,4,Dynadot LLC,21/02/2008 01:00,21/02/2027 23:59,28/09/2026 02:44
+75c16c68-a0c2-4c99-a4a4-07c3de7f32cc,travel.ca,resell,,,high,medium,6,CanSpace Solutions Inc.,25/09/2000 16:42,08/05/2027 04:00,26/09/2026 09:44
+27b31073-00d5-4602-8ea2-ee33a82ebf2b,travel.bingo,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+a63a0bfa-2710-422a-8599-e6e5710442ab,room.bingo,available,41.2,41.2,high,low,4,cloudflare,,,28/09/2026 06:11
+0a1ebe71-fa7f-4b75-9af3-db50f24f2cc5,hotel.guitars,available,104.99,114.99,high,medium,5,namesilo,,,
+0a1feada-c878-4a8f-b4ff-b675d73a7495,travel.shiksha,available,14.99,51.99,high,medium,6,namesilo,,,24/09/2026 22:30
+a6c3d39c-6862-4f49-a444-96f994460536,travel.sucks,premium,27600,2658.67,high,medium,6,namesilo,,,24/09/2026 22:30
+a51875d7-a06b-4ffa-9140-885a4b0df1fd,room.parts,premium,102.67,102.67,high,low,4,spaceship,,,28/09/2026 06:11
+5e2c9e40-57a4-43ad-8b0a-7e172dcf047a,hotel.energy,resell,,,high,medium,5,"Sav.com, LLC - 47",28/12/2025 15:15,28/12/2026 15:15,26/09/2026 06:44
+e75b2ae2-a9be-4d3d-a8ca-6e0178691ac3,resort.dog,available,5.99,,high,low,6,name.com,,,
+90a40f54-7a8c-401e-9c0e-36e8eddfe6a2,lodging.zone,available,12.99,38.99,high,high,7,namesilo,,,27/09/2026 05:59
+9869ae96-4428-4578-8318-e5bc1fea6df4,resort.contractors,available,9.99,,high,low,6,name.com,,,
+a62e4646-5df1-4348-8b8d-04c9b5313fec,guest.cc,resell,,,high,low,5,"GoDaddy.com, LLC",08/04/2006 12:27,08/04/2027 12:27,26/09/2026 06:31
+78a72ada-65bd-49a4-8568-d62e8c382bec,travel.kiwi,premium,2423.2,2423.2,high,medium,6,namecheap,,,24/09/2026 22:30
+0d888d22-6f30-453d-8891-c2c4f29b75ae,inn.supply,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
+e46c0d8e-3a3d-4cdd-8676-03330b248382,hotel.online,premium,7812.5,31250,high,medium,5,name.com,,,
+0e7fe0bb-114c-457c-950e-9d5a89e55fbc,room.mx,resell,,,high,low,4,1api GmbH,26/09/2009 00:00,25/09/2027 00:00,28/09/2026 06:11
+7bd2beb0-ff71-40ff-bf3b-d6c711b01614,hotel.foo,premium,1298.7,1298.7,high,medium,5,namecheap,,,
+66624a89-b99c-44ee-baa7-d2418259259f,travel.design,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
+d7cca1c1-3ed6-4e6d-9288-f2c5df8918fc,lodging.ninja,available,10.55,25.04,high,high,7,spaceship,,,29/09/2026 02:17
+ab9b7638-19c3-4769-9582-251efd9cddc1,resort.cyou,premium,154.7,309.4,high,low,6,namecheap,,,
+8aab86ce-ef27-4f81-b09f-419b9d08ee50,inn.film,premium,625,625,high,low,3,name.com,,,21/09/2026 02:28
+68edb867-1714-494a-930e-ef3acb6b6c48,hotel.shiksha,available,19.99,,high,medium,5,name.com,,,
+ef8b0fb4-c11d-4bae-93df-322e0cff46f4,food.condos,premium,102.67,102.67,high,medium,4,spaceship,,,28/09/2026 02:44
+12387c9f-9319-43b0-bf76-86df269e9fcb,inn.gay,premium,832,832,high,low,3,namesilo,,,21/09/2026 02:28
+150c7847-09cf-4e77-9cc1-ec282331b771,resort.review,premium,12500,,high,low,6,name.com,,,
+fd735d69-b90c-49e8-bd4e-17d19889a8db,hotel.rent,premium,650,650,high,medium,5,namecheap,,,
+74e8edde-a48a-496f-825a-b86deb2cb184,hotel.game,premium,1690,1690,high,medium,5,namecheap,,,
+1e35de64-bed9-4931-8242-be024eb02d6c,room.condos,premium,118.8,118.8,high,low,4,namesilo,,,28/09/2026 06:11
+ff3cb0e3-930a-4ad3-8353-4620f2ce5467,travel.ceo,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
+27fae95f-2ccd-46bb-b948-0e95e68ba3a1,room.ooo,premium,9568.92,119.99,high,low,4,namesilo,,,28/09/2026 06:11
+0f420864-8308-4899-826b-3dc2486f5fad,inn.shop,premium,2600,39,high,low,3,namecheap,,,21/09/2026 02:28
+a7071d45-51c4-43eb-bab2-8087b6b108db,food.enterprises,resell,,,high,medium,4,Dynadot Inc,19/02/2026 17:00,19/02/2027 17:00,28/09/2026 02:44
+b53ee4c0-3ae1-4e98-886a-4c0362a4c419,room.courses,premium,116,116,high,low,4,namesilo,,,28/09/2026 06:11
+4ef7f665-b16d-48e6-885d-7e09687ec0f0,inn.online,premium,812.5,3250,high,low,3,namecheap,,,21/09/2026 02:28
+ce2a77ca-cd0c-4119-9d6d-dfb4066668aa,travel.parts,premium,78.54,78.54,high,medium,6,namesilo,,,24/09/2026 22:30
+d6b32954-c32e-4570-b337-ffcaa5e1c439,hotel.video,premium,260,260,high,medium,5,namecheap,,,
+cea42cec-2abc-4c81-9071-38380b3f500a,accommodation.pro,resell,,,high,high,13,"TurnCommerce, Inc. DBA NameBright.com",23/04/2017 10:12,23/04/2028 10:12,26/09/2026 01:20
+d5b41202-68d3-446b-9fde-fd623def81e3,hotel.tattoo,available,34.99,34.99,high,medium,5,namesilo,,,
+0847aef6-172f-4c55-83b8-bee7b6b16b88,hotel.foundation,premium,128.7,128.7,high,medium,5,namecheap,,,
+a5cfbe06-ade2-4fab-a389-0901b2f31955,room.day,premium,648.7,648.7,high,low,4,namecheap,,,28/09/2026 06:11
+9b9c7234-daad-44bf-87ff-16bff8614fcd,travel.toys,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+ab53ec4e-2501-4587-97d4-ae236fe4b620,inn.fitness,premium,128.7,128.7,high,low,3,namecheap,,,21/09/2026 02:28
+e2d37e96-1844-4f64-99fb-4e8f4572aaed,room.attorney,available,62.99,62.99,high,low,4,namesilo,,,28/09/2026 06:11
+f49f2572-2c97-4b43-839f-ae7aefe3edad,hotel.network,premium,520,520,high,medium,5,namecheap,,,
+aad69379-02de-4100-9137-592ec50e3e2e,inn.ltd,premium,38.94,38.94,high,low,3,namesilo,,,21/09/2026 02:28
+531400d9-c26e-42c0-9d7a-2f2b43c6e979,room.hosting,available,279.65,341.75,high,low,4,spaceship,,,28/09/2026 06:11
+850983b8-d073-4691-8067-c7c9612be4a2,guesthouse.cloud,premium,130,130,high,high,10,namecheap,,,
+3b96b86f-9bae-4a78-890e-257fb0705a51,inn.free,premium,3450,3450,high,low,3,namesilo,,,21/09/2026 02:28
+cd7e4474-8be1-4511-b270-e37b44fc7304,travel.mba,premium,242,242,high,medium,6,namesilo,,,24/09/2026 22:30
+7bfad666-44f5-4345-b3fa-757b7abbfd60,inn.limo,available,54.99,54.99,high,low,3,namesilo,,,21/09/2026 02:28
+7b0ccd48-dcbb-4dde-a7cb-08d97c6243bc,room.university,premium,118.8,118.8,high,low,4,namesilo,,,28/09/2026 06:11
+1bb6b339-be91-4488-b867-efb00e5c6f42,inn.moda,available,41.99,41.99,high,low,3,namesilo,,,21/09/2026 02:28
+90bb33ea-e19e-4ee7-b518-9e14f3b2627e,travel.gratis,premium,520,520,high,medium,6,namecheap,,,24/09/2026 22:30
+8aa16074-e714-4ea1-a86b-01129a1452e5,hotel.gay,available,,,high,medium,5,,,,
+7991d977-133a-4a2b-9582-19d30b61b90f,resort.la,resell,,,high,low,6,.LA Founders Premium Program,17/03/2016 23:55,17/03/2027 23:59,26/09/2026 08:38
+f5d038a4-cfd4-4dc9-b887-b7916e39aad6,hotel.dentist,premium,260,260,high,medium,5,namecheap,,,
+d0bd0f3e-ea90-46fe-ad24-84f8890930a3,room.rent,premium,2750,2750,high,low,4,dynadot,,,28/09/2026 06:11
+e72c3f93-fa28-4c05-9c71-cd46bbae6820,bed.viajes,available,37.99,37.99,high,low,3,namesilo,,,29/09/2026 01:46
+9815acd4-2848-4154-83b5-9e08c39a17cd,restaurant.auto,available,1999.99,2199,high,low,10,namesilo,,,25/09/2026 05:21
+df1ba9e4-6811-4c54-9d82-f298ddfb5a2b,resort.tube,available,23.99,23.99,high,low,6,namesilo,,,
+913b41a5-50c2-432b-88e8-5060e901503e,restaurant.reisen,available,3.99,20.99,high,low,10,namesilo,,,25/09/2026 05:21
+a3b2c566-7aec-4a67-9f61-f534f8895c73,hotel.wtf,resell,,,high,medium,5,"Spaceship, Inc.",26/09/2023 03:33,26/09/2027 03:33,26/09/2026 06:44
+1870289e-45d7-4450-99cc-1e4e21c9d042,food.cv,premium,1339.98,80.33,high,medium,4,namesilo,,,28/09/2026 02:44
+c1fac62f-7f82-4913-a680-01a8d0cbdf5d,resort.vet,available,41.99,41.99,high,low,6,namesilo,,,
+92adf401-13e0-4fa4-aa99-2013b4fb08c9,hotel.archi,premium,650,650,high,medium,5,namecheap,,,
+a8783e3d-3451-4406-a131-884538184f72,travel.storage,available,509.99,529.99,high,medium,6,namesilo,,,24/09/2026 22:30
+c1bcf123-28d5-425a-a38a-e34c2f744bc4,inn.construction,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
+120c2f0a-4672-4704-8b22-d7a4df5c758d,room.rich,available,79,160.72,high,low,4,dynadot,,,28/09/2026 06:11
+ce82c218-437f-4884-a943-7f162304a39a,inn.website,premium,640,640,high,low,3,namesilo,,,21/09/2026 02:28
+a33d70ef-16b8-4beb-b901-d178f6977ae3,inn.miami,premium,47.2,21.24,high,low,3,namesilo,,,21/09/2026 02:28
+ebb58084-60af-4522-952c-98ff5029e5b5,room.guitars,available,103.5,103.5,high,low,4,porkbun,,,28/09/2026 06:11
+c39bb9ba-e37c-49ef-b5d3-a058a146c42a,inn.cricket,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 02:28
+8fdde37f-5e62-4efc-ae21-8d4d39d74839,resort.photography,premium,500,,high,low,6,name.com,,,
+4388bdcf-ac81-44aa-ac99-fc3c648a730e,inn.careers,available,34.99,71.99,high,low,3,namesilo,,,21/09/2026 02:28
+3a41cf4a-cb7e-4588-828b-9e25f02ef0da,travel.space,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
+5eec245c-c822-4193-a795-b612609c289e,guest.holiday,available,9.99,,high,low,5,name.com,,,
+942a9bbd-e199-45ce-9ac0-548a1867bd27,travel.institute,resell,,,high,medium,6,"GoDaddy.com, LLC",30/03/2014 16:00,30/03/2027 16:00,26/09/2026 09:44
+15c44dd8-7ecf-49bb-be0b-e9a401de1c43,hotel.giving,available,5.99,,high,medium,5,name.com,,,
+60a07420-91ae-489b-bc6a-ed4051328283,room.living,premium,1449.2,2070.2,high,low,4,spaceship,,,28/09/2026 06:11
+910e2215-8fea-4eeb-af24-c32a9912edfe,resort.courses,available,49.99,,high,low,6,name.com,,,
+fa43ce26-fa02-4718-a685-81ecfa1401aa,resort.berlin,available,89.98,,high,low,6,namecheap,,,
+ef781e17-44f5-476b-b0d2-7dc87d6d161a,inn.ooo,premium,638.72,23.59,high,low,3,namesilo,,,21/09/2026 02:28
+2ebf6181-c5af-481b-a0b7-f36cc613b1db,resort.fail,available,14.99,,high,low,6,name.com,,,
+299bbf3a-70a9-4473-a12d-0afebcea3780,room.space,premium,5000.2,6900,high,low,4,unstoppable,,,28/09/2026 06:11
+17a8a1bf-909f-44ef-8a24-4431609bd6c0,inn.garden,premium,52,32.5,high,low,3,namecheap,,,21/09/2026 02:28
+376eadcf-268a-4c06-88b7-bb81c1349263,travel.guitars,available,104.99,114.99,high,medium,6,namesilo,,,24/09/2026 22:30
+b86d0804-ae25-4256-a3c1-589e0e92c76e,resort.construction,available,15.99,,high,low,6,name.com,,,
+46a42956-f968-408a-9b92-ab9177bdeee8,hotel.codes,premium,85.8,85.8,high,medium,5,namecheap,,,25/09/2026 10:56
+1178b368-76cf-4a4f-8416-d050cccc6ef9,guest.reisen,available,3.99,20.99,high,low,5,namesilo,,,
+9b1f0f79-b989-4686-9f12-bc4f5d55eebd,hotel.construction,premium,128.7,128.7,high,medium,5,namecheap,,,
+9f28920f-5b6a-4c25-8918-0c99a3e0ce9a,restaurant.rentals,premium,854,854,high,low,10,namesilo,,,25/09/2026 05:21
+562c5a28-a710-4d88-a2ce-a958c125824f,resort.free,premium,1250,,high,low,6,name.com,,,
+7086a32d-a82f-40a3-9eaf-11f1dac77d52,restaurant.cloud,resell,,,high,low,10,"Dynadot, LLC",24/02/2016 03:37,24/02/2027 03:37,26/09/2026 08:38
+611b7798-4a19-418d-9e6d-0426e37534c3,restaurant.car,available,1999.99,2199,high,low,10,namesilo,,,25/09/2026 05:21
+e96bd7d6-382b-4ac1-a289-166569c148f0,travel.protection,available,2070,2950,high,medium,6,namecheap,,,24/09/2026 22:30
+3963116c-b52f-4ea7-8704-bad2be210374,inn.pizza,resell,,,high,low,3,"GoDaddy.com, LLC",03/04/2018 08:44,03/04/2027 08:44,26/09/2026 06:53
+87f5e12b-1c89-4d04-b531-08eea79b1c77,guesthouse.gg,available,82.98,,high,high,10,namecheap,,,
+b981a370-f11f-4b63-92c4-3d14f5851462,inn.glass,available,76.98,99.98,high,low,3,namecheap,,,21/09/2026 02:28
+f8e6e829-eeea-4050-a42a-e264d384102f,room.supply,premium,512,512,high,low,4,namesilo,,,28/09/2026 06:11
+3e87c2a9-ee02-47d6-82c2-33e53053fe5e,resort.loan,premium,1250,,high,low,6,name.com,,,
+677b7e2f-5078-4142-9164-121836ef3f0a,travel.careers,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+626e90ca-d313-48d5-a24d-26fa7a484a9d,travel.onl,premium,160,302.5,high,medium,6,namesilo,,,24/09/2026 22:30
+6b0cfff3-dcfd-465e-915b-d47c1f9bd556,room.date,premium,384,53.92,high,low,4,namesilo,,,28/09/2026 06:11
+188c9064-6959-41bb-aaec-2a368380d525,travel.contractors,premium,128.7,128.7,high,medium,6,namecheap,,,24/09/2026 22:30
+dbda6361-ebcc-4a26-9577-2ddca3346e40,management.voyage,available,58.99,58.99,high,low,10,namesilo,,,19/09/2026 14:24
+21e195d1-21c5-47b9-8160-2caba1a10459,resort.rocks,resell,,,high,low,6,"GoDaddy.com, LLC",05/01/2025 19:43,05/01/2027 19:43,26/09/2026 08:38
+2a7786db-aa83-425d-83b6-9e2568dc316c,room.fast,premium,258.95,258.95,high,low,4,spaceship,,,28/09/2026 06:11
+0ddff45d-6286-460a-a449-c35c08df2abf,restaurant.navy,available,41.99,41.99,high,low,10,namesilo,,,25/09/2026 05:21
+52dbbec0-cddc-4cd8-9d39-1c6064c6ea27,hotel.moi,premium,3125,,high,medium,5,name.com,,,
+bb76bbf5-6014-4019-951a-15fdd6703083,resort.limited,available,14.99,,high,low,6,name.com,,,
+64eaca92-3c48-4ad2-a1ce-7b1c13c92426,resort.vision,resell,,,high,low,6,Dynadot Inc,30/07/2026 17:00,30/07/2027 17:00,26/09/2026 08:37
+ae51cca1-a801-4cdd-90fb-6a527071ce32,resort.you,premium,625,,high,low,6,name.com,,,
+b65ba411-bd2c-42cb-845b-675cf8dbe4b9,hotel.discount,premium,1040,1040,high,medium,5,namecheap,,,
+cb8b2fa3-7306-4117-9a8f-99df5211ce5d,travel.berlin,resell,,,high,medium,6,,27/11/2015 20:12,27/11/2027 20:12,26/09/2026 09:44
+890df0b9-1fb5-44c6-bffe-c2b23c82f316,resort.download,premium,437.5,,high,low,6,name.com,,,
+c68beb65-ff1b-45e2-9d4b-69b1fccea9af,resort.dev,premium,198.75,198.75,high,low,6,name.com,,,
+01732049-b017-4667-acd0-e2773119da5d,travel.cfd,premium,384,768,high,medium,6,namesilo,,,24/09/2026 22:30
+ca24fac5-bfa5-4975-aaf9-3738b30394f1,resort.singles,available,12.99,,high,low,6,name.com,,,
+6cd6caff-3527-433b-b651-5d6acd101561,travel.beauty,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
+7606ce4c-789f-4ccd-8301-74be3965b19e,inn.forum,premium,650,650,high,low,3,namecheap,,,21/09/2026 02:28
+87187456-dc87-430a-8005-6422bd4b21fa,motel.voyage,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 09:27
+d7e007c1-fedb-4cbc-90d4-42a221274cc7,inn.exposed,premium,23.6,23.6,high,low,3,namesilo,,,21/09/2026 02:28
+428e99c9-7909-424b-b176-95dba9242ee8,room.engineer,resell,,,high,low,4,Dynadot Inc,21/08/2026 17:00,21/08/2027 17:00,28/09/2026 06:11
+7847e555-3cf2-46c8-9968-0e85ff02771d,hotel.kaufen,premium,128.7,128.7,high,medium,5,namecheap,,,
+6d479a04-9e08-4290-b042-e878483c4690,bed.flights,premium,78.54,78.54,high,low,3,namesilo,,,29/09/2026 01:46
+54c112de-f584-4891-b009-b503be1235fa,resort.travel,available,,,high,low,6,,,,
+c7e3888e-d9ad-46ae-af3d-37131e1f43dc,inn.page,premium,318.72,318.72,high,low,3,namesilo,,,21/09/2026 02:28
+91380703-ab60-4e5b-8913-f996a93c5a55,inn.sydney,premium,89.06,89.06,high,low,3,name.com,,,21/09/2026 02:28
+5385243b-66f1-4090-9a5f-66562868e95c,inn.doctor,available,14.49,116.99,high,low,3,namesilo,,,21/09/2026 02:28
+d7c888dc-53a5-46f4-8d9a-ca3c6935e8eb,guest.vodka,available,32.49,32.49,high,low,5,namesilo,,,
+a975e56b-e712-49aa-bc16-d42bda8ed70c,resort.cars,available,2950,,high,low,6,namecheap,,,
+204b44d9-7d1d-4261-9f9a-7b625cf9ff18,room.dentist,available,63.98,81.98,high,low,4,namecheap,,,28/09/2026 06:11
+9745b2dc-ffb4-4082-827f-5dfff86c42ff,inn.credit,available,11.99,141.99,high,low,3,name.com,,,21/09/2026 02:28
+351c55ff-8c5d-48eb-aa64-48ea5a74250d,resort.autos,available,1.99,,high,low,6,name.com,,,
+3ef3ea1b-2428-412d-adbc-f76f3641d9d0,hotel.ngo,available,16.99,,high,medium,5,name.com,,,
+517b4cfc-8293-4049-9445-7233d3d666f9,travel.gay,premium,2660,2660,high,medium,6,namesilo,,,24/09/2026 22:30
+acdb7e3f-3cdf-425f-98d1-5ed722340be1,hotel.clothing,available,19.99,,high,medium,5,name.com,,,
+2f0d96a0-e44d-4009-8f13-ceb24454b9b2,restaurant.realty,premium,4550,6500,high,low,10,namecheap,,,25/09/2026 05:21
+1e9b20b7-8c39-4b39-8a99-f85cc23badd8,guesthouse.xyz,resell,114871.2,20.99,high,high,10,Dynadot Inc,13/02/2019 09:30,13/02/2028 23:59,26/09/2026 06:31
+8ec8be9f-1dc4-4ba9-bfeb-0d4115cd1bb2,inn.lol,resell,,,high,low,3,Dynadot Inc,01/04/2026 19:46,01/04/2027 23:59,26/09/2026 06:52
+a7583112-efaa-4a11-a3ca-c5dfbba03917,hotel.ltda,premium,56.64,33.04,high,medium,5,namesilo,,,25/09/2026 10:57
+614b15ba-79e0-4ca6-839a-0f3923eaf5fe,resort.shopping,available,14.99,,high,low,6,name.com,,,
+60fc747a-b6db-416a-8deb-6eef3321a5b8,motel.vacations,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 09:27
+e5838111-072d-46f0-afbd-4de3f7ee31dd,food.vodka,premium,96,29.5,high,medium,4,namesilo,,,28/09/2026 02:44
+e8727f95-13e8-4b27-9e23-ce3eeb34230e,resort.business,premium,500,,high,low,6,name.com,,,
+3955171d-3b86-47dd-a523-fdf1b16c2961,restaurant.country,available,2298,2450,high,low,10,namecheap,,,25/09/2026 05:21
+580c6d26-db65-43d9-a21f-3e73ecd3bdf2,travel.limo,premium,128.7,128.7,high,medium,6,namecheap,,,24/09/2026 22:30
+d44c65b9-d0b2-4689-8d58-938d2c362987,room.llc,premium,640,640,high,low,4,namesilo,,,28/09/2026 06:11
+7451ea76-8cdc-47fe-84c1-787a5ec268b6,resort.place,available,25.99,,high,low,6,name.com,,,
+92338d1f-abd9-4340-a1b9-9ee5c16e9849,guest.melbourne,premium,453.78,,high,low,5,name.com,,,
+dcc6611c-78fd-4c5e-9f03-1e4b1345a2d9,hotel.protection,available,1999.99,2049.99,high,medium,5,namesilo,,,
+7df26bf6-9c96-445c-b60f-4cbdec6aec29,travel.chat,resell,,,high,medium,6,Dynadot Inc,06/09/2023 18:33,06/09/2028 18:33,26/09/2026 09:44
+c02345df-5548-4173-8d22-566642cc1086,inn.finance,available,20.99,64.99,high,low,3,namesilo,,,21/09/2026 02:28
+eb35520f-2587-455f-8b22-cc2497d3a6b6,resort.deal,premium,625,,high,low,6,name.com,,,
+9e088c81-7d0b-4ba1-b381-8032a45651ba,travel.pw,premium,3450,3450,high,medium,6,namesilo,,,24/09/2026 22:30
+567ed9e8-f10f-425c-b654-698b4222d9c2,lodging.expert,available,8.98,82.48,high,high,7,namecheap,,,29/09/2026 02:17
+6d3fcead-6129-4a1b-b575-2351406af36c,food.video,premium,3450,3450,high,medium,4,namesilo,,,28/09/2026 02:44
+d963259a-d8d4-4e17-9a11-f958252ba63e,resort.mobile,premium,390,390,high,low,6,namecheap,,,18/09/2026 06:57
+f825f74e-709d-4608-ba3d-5ce4b6992337,resort.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
+46cecc0e-04da-461e-afce-fedb07054d1d,inn.diy,premium,1107,1107,high,low,3,namesilo,,,21/09/2026 02:28
+197792a6-777d-4a89-b644-210d8eef7595,hotel.casino,available,,,high,medium,5,,,,
+deff8276-27e1-4c6a-bdd5-315aa10daa7f,resort.management,available,,,high,low,6,,,,
+648c47ac-7783-438a-8c5c-587225626980,room.bot,premium,650,650,high,low,4,namecheap,,,28/09/2026 06:11
+ff780e2d-b9cb-4019-bc67-b7c97588b92a,motel.reise,available,27.89,97.99,high,low,5,namesilo,,,25/09/2026 09:27
+a851a25d-7920-4ab9-a742-8c364fb86246,travel.repair,premium,512,512,high,medium,6,namesilo,,,24/09/2026 22:30
+3a329140-c7f8-48a0-942b-0b37b3c2eed2,restaurant.enterprises,premium,242,242,high,low,10,namesilo,,,25/09/2026 05:21
+2b7cc9d7-bd12-4d77-8eba-14c9d38f3a1d,inn.forsale,available,16.99,36.99,high,low,3,namesilo,,,21/09/2026 02:28
+241cc335-4a8b-4c5d-a3f0-67d3b2208ea0,food.locker,premium,6500,39,high,medium,4,namecheap,,,28/09/2026 02:44
+9538df56-9d48-4d8b-b8be-6011f6744d8d,restaurant.pub,premium,1995,1995,high,low,10,namesilo,,,25/09/2026 05:21
+240faf21-45d0-4003-8695-ce5b892e4071,travel.band,premium,1107,1107,high,medium,6,namesilo,,,24/09/2026 22:30
+d47c35c1-a871-49dc-b488-5afbb7ee9ba3,hotel.graphics,available,23.99,23.99,high,medium,5,namesilo,,,
+709a0a28-7115-4df6-aac3-300555d8aa26,guest.gmbh,available,45.99,45.99,high,low,5,namesilo,,,
+577d324b-a227-4b61-98aa-2b26512353fa,resort.credit,premium,250,,high,low,6,name.com,,,
+8c437ba4-6c3e-4457-a01c-e407c5d2fe23,room.us,resell,,,high,low,4,"GoDaddy.com, LLC",02/06/2004 17:59,01/06/2031 23:59,28/09/2026 06:11
+3a0ec982-9eae-46ed-bcda-50266c0440b3,inn.cc,resell,,,high,low,3,Dynadot Inc,25/06/2009 08:00,25/06/2027 08:00,26/09/2026 06:53
+346352c7-1eaa-4d09-adde-2a7f0849af2b,room.report,premium,102.67,102.67,high,low,4,spaceship,,,28/09/2026 06:11
+2839e1a5-efa6-4a35-a3df-2575c7e3d704,inn.mba,available,17.99,39.99,high,low,3,namesilo,,,21/09/2026 02:28
+f60a58bc-841a-4217-8407-6b6d8cf53696,resort.gripe,available,8.98,,high,low,6,namecheap,,,
+dc50e22c-7e47-4c6b-8677-c79f2561e498,guest.host,premium,312.5,,high,low,5,name.com,,,
+d17e429a-65b3-41ec-a61d-dac4f902857c,resort.productions,available,14.99,,high,low,6,name.com,,,
+1e9bc846-4404-4d32-aefd-baba10a327a9,hotel.engineering,premium,260,260,high,medium,5,namecheap,,,
+1ece3d52-3233-4ab7-aa88-3723482a30d7,restaurant.melbourne,premium,9134.63,9134.63,high,low,10,namecheap,,,25/09/2026 05:21
+adf537a9-cc28-443d-9dab-82b4d8ddfa8b,guest.wine,available,9.99,,high,low,5,name.com,,,
+1e3748a2-887b-48c7-8fd3-1018e69c77f3,inn.maison,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 02:28
+1cda9744-a89b-4e17-af0f-50f1d68ac8e9,resort.villas,premium,500,,high,low,6,name.com,,,
+c2eb2de3-c110-4659-9d2c-d1035c941644,restaurant.london,premium,7295.15,31.19,high,low,10,namesilo,,,25/09/2026 05:21
+4e6f3ac0-a187-4137-a7b4-17782b2af58b,guest.wedding,premium,47.2,29.5,high,low,5,namesilo,,,
+ecb18ea2-7a87-4757-ae78-41269c35b523,travel.yoga,resell,,,high,medium,6,"GoDaddy.com, LLC",26/08/2020 18:57,26/08/2027 18:57,26/09/2026 09:44
+5c44c1c6-2ee6-4ac7-b51c-4e2aad1ce86f,food.cfd,premium,384,768,high,medium,4,namesilo,,,28/09/2026 02:44
+a2762c88-8a00-4d0d-9153-75e40e00865f,resort.men,available,,,high,low,6,,,,
+f7e99803-76d0-4492-8b53-fe8233c73487,room.legal,available,74.98,88.98,high,low,4,namecheap,,,28/09/2026 06:11
+ba20f6ee-86d7-4b43-a447-15ac161b6058,hotel.cool,resell,,,high,medium,5,UM DOMAINS PTE. LTD,14/02/2026 15:15,14/02/2027 15:15,26/09/2026 06:44
+24716a30-b2e1-41d5-81ee-8920edf70ae8,resort.lifestyle,premium,1960,2800,high,low,6,namecheap,,,
+4326e05f-021d-4897-aa88-e4ed2e6e1682,hotel.tienda,available,9.99,,high,medium,5,name.com,,,
+620c9511-411f-4e9d-a779-4596abdff784,food.computer,resell,,,high,medium,4,"NameCheap, Inc.",19/01/2026 07:32,19/01/2027 07:32,28/09/2026 02:44
+697b32dd-a94b-4f6d-ba05-90ad8d21e176,hotel.watch,premium,520,520,high,medium,5,namecheap,,,
+5fb10d09-658f-4139-a1e8-c08307221b3b,food.sbs,premium,310.7,621.2,high,medium,4,spaceship,,,28/09/2026 02:44
+d3fa19b1-af54-4d90-ab88-9503f29ed00f,resort.gallery,available,36.98,,high,low,6,namecheap,,,
+b302d02a-3e4b-4a47-a2a4-78da55e9e766,resort.pub,available,39.99,39.99,high,low,6,namesilo,,,
+ecde3790-2819-4119-9063-99fac8d5cc15,hotel.build,premium,650,650,high,medium,5,namecheap,,,
+d7094e78-aea3-47b4-9493-638f3bbd0cf3,guest.vin,available,11.99,,high,low,5,name.com,,,
+fe688288-6976-4f9c-bdad-7bacbc7ea6a3,inn.id,premium,1451.03,20.06,high,low,3,namesilo,,,21/09/2026 02:28
+e9c1bc71-1b41-490d-8414-55a6e5057699,inn.phd,premium,427.7,427.7,high,low,3,namecheap,,,21/09/2026 02:28
+7a0514c3-1309-49c3-a8ec-741cb84e29e6,resort.foundation,available,5.99,,high,low,6,name.com,,,
+0d65edd4-a4c8-4829-aaa7-069dc6995a64,room.theatre,available,509.99,529.99,high,low,4,namesilo,,,28/09/2026 06:11
+18d94603-ab21-41fb-a469-c1bc4bd7ff5b,resort.green,premium,625,,high,low,6,name.com,,,
+6bb549a1-90d8-4b36-8bc2-f342aef6841d,restaurant.surf,premium,242,29.5,high,low,10,namesilo,,,25/09/2026 05:21
+8aa63b58-39e6-4d16-97fa-12c8a61cee22,guest.barcelona,available,38.98,,high,low,5,namecheap,,,
+a5f3d625-a4b1-4e8f-b00e-dede32b4ad51,food.kiwi,premium,81.9,81.9,high,medium,4,namecheap,,,28/09/2026 02:44
+0f14ff9f-35c8-4b82-a514-72a5ebe6aa94,restaurant.immobilien,premium,242,242,high,low,10,namesilo,,,25/09/2026 05:21
+befd017e-ba09-4ac7-9191-eec98d0500a1,food.horse,premium,207.2,26.08,high,medium,4,spaceship,,,28/09/2026 02:44
+756013e0-17c6-4371-bdd1-54dd473ea16a,hotel.study,premium,650,650,high,medium,5,namecheap,,,
+f82c629a-13c9-4cb4-84a9-f9f76ba5f762,room.enterprises,available,11.49,35.99,high,low,4,namesilo,,,28/09/2026 06:11
+54f40ca6-bdb4-408f-9f58-1c5edc5407c5,inn.build,premium,650,650,high,low,3,namecheap,,,21/09/2026 02:28
+8a5c3587-4da8-4664-afbb-3e81fe3810b0,management.inc,premium,2499,3799.99,high,low,10,name.com,,,19/09/2026 14:24

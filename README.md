@@ -1,10 +1,10 @@
-# One-Word Hospitality Domain Names (92,642)
+# One-Word Hospitality Domain Names (97,974)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-92%2C642%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-97%2C974%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word hospitality-related domain names across 506 TLD extensions, with a median asking price near $792. Updated daily, it includes formats like .com, .sh, and niche TLDs such as .casino and .boats.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **92,642 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **97,974 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 92,642 domains · **Median ask:** $481.84 · **High-demand under $2,500:** 450
+**Public extract:** 1,000 rows · **Live catalog:** 97,974 domains · **Median ask:** $459.22 · **High-demand under $2,500:** 438
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/hospitality`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| hospitality.schule | available | $22.97     | $22.97        | high           | low    | 11     | spaceship        |
-| bed.travel         | available | $39.99     | —             | high           | low    | 3      | name.com         |
-| food.services      | resell    | $260       | $260          | high           | medium | 4      | Spaceship, Inc.  |
-| inn.bar            | premium   | $1,152     | $1,152        | high           | low    | 3      | namesilo         |
-| inn.academy        | available | $17.99     | $46.99        | high           | low    | 3      | namesilo         |
-| hotel.tires        | resell    | $14.99     | —             | high           | medium | 5      | Sav.com, LLC     |
-| inn.beer           | premium   | $47.20     | $29.50        | high           | low    | 3      | namesilo         |
-| inn.accountants    | available | $43.99     | $153.99       | high           | low    | 3      | name.com         |
-| catering.co        | resell    | $57,371.20 | $48.99        | high           | high   | 8      | GoDaddy.com, LLC |
-| inn.bike           | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo         |
-| inn.ag             | available | $89.99     | $79.99        | high           | low    | 3      | namesilo         |
-| inn.asia           | resell    | —          | —             | high           | low    | 3      | Spaceship, Inc.  |
-| inn.blackfriday    | premium   | $390       | $390          | high           | low    | 3      | namecheap        |
-| inn.apartments     | available | $60.98     | $72.98        | high           | low    | 3      | namecheap        |
-| inn.biz            | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| inn.blog           | premium   | $1,662.50  | $6,900        | high           | low    | 3      | namesilo         |
-| inn.attorney       | available | $62.99     | $62.99        | high           | low    | 3      | namesilo         |
-| inn.expert         | resell    | —          | —             | high           | low    | 3      | Dynadot Inc      |
-| inn.boo            | premium   | $311.25    | $311.25       | high           | low    | 3      | name.com         |
-| inn.baby           | available | $17.99     | $54.99        | high           | low    | 3      | namesilo         |
+| domain             | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                    |
+| ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
+| hospitality.schule | available | $22.97      | $22.97        | high           | low    | 11     | spaceship                    |
+| bed.viajes         | available | $37.99      | $37.99        | high           | low    | 3      | namesilo                     |
+| food.la            | resell    | $148,062.50 | —             | high           | medium | 4      | Dynadot LLC                  |
+| bed.flights        | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                     |
+| inn.ag             | available | $89.99      | $79.99        | high           | low    | 3      | namesilo                     |
+| hotel.tires        | resell    | $14.99      | —             | high           | medium | 5      | Sav.com, LLC                 |
+| inn.accountant     | premium   | $625        | $81.25        | high           | low    | 3      | name.com                     |
+| inn.army           | available | $18.99      | $39.99        | high           | low    | 3      | namesilo                     |
+| guesthouse.xyz     | resell    | $114,871.20 | $20.99        | high           | high   | 10     | Dynadot Inc                  |
+| inn.associates     | premium   | $82.50      | $82.50        | high           | low    | 3      | name.com                     |
+| inn.attorney       | available | $62.99      | $62.99        | high           | low    | 3      | namesilo                     |
+| inn.autos          | resell    | —           | —             | high           | low    | 3      | UM Domains Pte. Ltd.         |
+| inn.bargains       | premium   | $85.80      | $85.80        | high           | low    | 3      | namecheap                    |
+| inn.audio          | available | $299.99     | $299.99       | high           | low    | 3      | name.com                     |
+| inn.cc             | resell    | —           | —             | high           | low    | 3      | Dynadot Inc                  |
+| inn.beer           | premium   | $47.20      | $29.50        | high           | low    | 3      | namesilo                     |
+| inn.auto           | available | $2,999.99   | $3,799.99     | high           | low    | 3      | name.com                     |
+| inn.la             | resell    | —           | —             | high           | low    | 3      | .LA Founders Premium Program |
+| inn.bid            | premium   | $640        | $77.35        | high           | low    | 3      | namesilo                     |
+| inn.band           | available | $20.99      | $31.49        | high           | low    | 3      | namesilo                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 92,642 live domains                        |
+| 1,000-row public sample | 97,974 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 450 high-demand names under $2,500         |
+| Basic exported fields   | 438 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
