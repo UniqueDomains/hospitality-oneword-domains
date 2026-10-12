@@ -1,10 +1,10 @@
-# One-Word Hospitality Domain Names (121,024)
+# One-Word Hospitality Domain Names (122,566)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-121%2C024%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-122%2C566%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word hospitality-related domain names across 506 TLD extensions, with a median asking price near $792. Updated daily, it includes formats like .com, .sh, and niche TLDs such as .casino and .boats.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **121,024 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **122,566 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 121,024 domains · **Median ask:** $391.30 · **High-demand under $2,500:** 517
+**Public extract:** 1,000 rows · **Live catalog:** 122,566 domains · **Median ask:** $387.71 · **High-demand under $2,500:** 514
 
 **Last updated:** 2026-10-11
 **Canonical page:** `https://unique.domains/domains/sector/hospitality`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| journey.reisen     | available | $3.99      | $20.99        | high           | medium | 7      | namesilo                                                  |
-| hospitality.schule | available | $22.97     | $22.97        | high           | low    | 11     | spaceship                                                 |
-| inn.academy        | available | $17.99     | $46.99        | high           | low    | 3      | namesilo                                                  |
-| room.me            | resell    | $25,286.20 | $27.99        | high           | low    | 4      | Dynadot Inc                                               |
-| inn.bar            | premium   | $1,152     | $1,152        | high           | low    | 3      | namesilo                                                  |
-| inn.accountants    | available | $43.99     | $153.99       | high           | low    | 3      | name.com                                                  |
-| hotel.tires        | resell    | $14.99     | —             | high           | medium | 5      | Sav.com, LLC                                              |
-| inn.blackfriday    | premium   | $390       | $390          | high           | low    | 3      | namecheap                                                 |
-| inn.apartments     | available | $60.98     | $72.98        | high           | low    | 3      | namecheap                                                 |
-| travel.now         | resell    | $3,125     | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| inn.blog           | premium   | $1,662.50  | $6,900        | high           | low    | 3      | namesilo                                                  |
-| inn.baby           | available | $17.99     | $54.99        | high           | low    | 3      | namesilo                                                  |
-| inn.bio            | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC - 2                                          |
-| inn.boston         | premium   | $854       | $21.24        | high           | low    | 3      | namesilo                                                  |
-| inn.barcelona      | available | $39.99     | $42.99        | high           | low    | 3      | name.com                                                  |
-| inn.gold           | resell    | —          | —             | high           | low    | 3      | DNSPod, Inc.                                              |
-| inn.bot            | premium   | $116       | $116          | high           | low    | 3      | namesilo                                                  |
-| inn.boutique       | available | $5.99      | $32.99        | high           | low    | 3      | namesilo                                                  |
-| inn.house          | resell    | —          | —             | high           | low    | 3      | Spaceship, Inc.                                           |
-| inn.buzz           | premium   | $116       | $53.92        | high           | low    | 3      | namesilo                                                  |
+| domain             | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                    |
+| ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
+| hospitality.schule | available | $22.97      | $22.97        | high           | low    | 11     | spaceship                    |
+| inn.actor          | available | $16.99      | $44.49        | high           | low    | 3      | namesilo                     |
+| room.co            | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC             |
+| inn.agency         | premium   | $242        | $242          | high           | low    | 3      | namesilo                     |
+| inn.airforce       | available | $103.99     | $103.99       | high           | low    | 3      | namesilo                     |
+| hotel.tires        | resell    | $14.99      | —             | high           | medium | 5      | Sav.com, LLC                 |
+| inn.build          | premium   | $650        | $650          | high           | low    | 3      | namecheap                    |
+| inn.archi          | available | $19.99      | $103.99       | high           | low    | 3      | namesilo                     |
+| inn.cc             | resell    | —           | —             | high           | low    | 3      | Dynadot Inc                  |
+| inn.builders       | premium   | $123.75     | $123.75       | high           | low    | 3      | name.com                     |
+| inn.auction        | available | $4.99       | $52.99        | high           | low    | 3      | name.com                     |
+| inn.house          | resell    | —           | —             | high           | low    | 3      | Spaceship, Inc.              |
+| inn.cafe           | premium   | $38.94      | $38.94        | high           | low    | 3      | namesilo                     |
+| inn.barcelona      | available | $39.99      | $42.99        | high           | low    | 3      | name.com                     |
+| inn.la             | resell    | —           | —             | high           | low    | 3      | .LA Founders Premium Program |
+| inn.charity        | premium   | $41.25      | $41.25        | high           | low    | 3      | name.com                     |
+| inn.black          | available | $27.99      | $64.99        | high           | low    | 3      | namesilo                     |
+| inn.lol            | resell    | —           | —             | high           | low    | 3      | Dynadot Inc                  |
+| inn.cheap          | premium   | $123.75     | $123.75       | high           | low    | 3      | name.com                     |
+| inn.cars           | available | $1,999.99   | $2,199        | high           | low    | 3      | namesilo                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 121,024 live domains                                 |
+| 1,000-row public sample | 122,566 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 517 high-demand names under $2,500                   |
+| Basic exported fields   | 514 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
