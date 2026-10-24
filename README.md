@@ -1,10 +1,10 @@
-# One-Word Hospitality Domain Names (122,572)
+# One-Word Hospitality Domain Names (122,521)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-122%2C572%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-122%2C521%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word hospitality-related domain names across 506 TLD extensions, with a median asking price near $792. Updated daily, it includes formats like .com, .sh, and niche TLDs such as .casino and .boats.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **122,572 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **122,521 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 122,572 domains · **Median ask:** $388.46 · **High-demand under $2,500:** 1,313
+**Public extract:** 1,000 rows · **Live catalog:** 122,521 domains · **Median ask:** $388.18 · **High-demand under $2,500:** 1,318
 
 **Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/hospitality`
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 122,572 live domains                                 |
+| 1,000-row public sample | 122,521 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 1,313 high-demand names under $2,500                 |
+| Basic exported fields   | 1,318 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
